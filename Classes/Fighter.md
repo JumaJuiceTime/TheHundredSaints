@@ -1,5 +1,5 @@
 ---
-title: Cleric
+title: Fighter
 layout: default
 grand_parent: Classes
 ---
