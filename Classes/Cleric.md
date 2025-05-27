@@ -1,6 +1,7 @@
 ---
 title: Cleric
 layout: default
+grand_parent: Classes
 ---
 ====== Cleric ======
 
