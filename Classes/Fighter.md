@@ -4,7 +4,7 @@ layout: default
 grand_parent: Classes
 ---
 
-====== Fighter ======
+## Fighter
 
   * **Prime Abilities:** Strength
   * **Hit Points:** 1d8 per Level, +2 after Level 10
