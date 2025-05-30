@@ -1,7 +1,7 @@
 ---
 title: Fighter
 layout: default
-grand_parent: Classes
+parent: Classes
 ---
 
 # Fighter
