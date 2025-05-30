@@ -4,7 +4,7 @@ layout: default
 grand_parent: Classes
 ---
 
-## Fighter
+# Fighter
 
   * **Prime Abilities:** Strength
   * **Hit Points:** 1d8 per Level, +2 after Level 10
@@ -14,13 +14,13 @@ grand_parent: Classes
 
 Fighters are experienced in combat and warfare, whether as brigands, tavern brawlers, town guards, or veterans of a noble house’s army. In an adventuring party, fighters usually take the front-line, battling foes and defending weaker characters.
 
-==== Starting Equipment ====
+### Starting Equipment 
 
 **Armour (roll 1d6):** 1. Leather armour. 2. Leather armour + shield. 3. Chainmail. 4. Chainmail + shield. 5. Plate mail. 6. Plate mail + shield.
 
 **Weapons (roll 1d6 twice):** 1. Crossbow + 20 quarrels. 2. Dagger. 3. Longsword. 4. Mace. 5. Shortsword. 6. Spear.
 
-===== Combat Talents =====
+## Combat Talents 
 
 Fighters’ expert training grants them special talents to aid in battle. At Levels 2, 6, 10, and 14 the player should roll or choose one of the following talents.
 
@@ -33,7 +33,7 @@ Fighters’ expert training grants them special talents to aid in battle. At Lev
   - **Slayer:** The fighter gains a +1 bonus to Attack and Damage Rolls when in combat with foes of a specific type. The type of enemy must be chosen when this talent is selected (examples: bears, crookhorns, undead, wyrms, etc.). This talent may be chosen multiple times, each time for a different type of foe.
   - **Weapon specialist:** The fighter is an expert with a specific type of weapon chosen by the player (e.g. maces, two-handed swords, longbows, etc.). They gain a +1 bonus to Attack and Damage Rolls using this type of weapon. This talent may be chosen multiple times, each time for a different type of weapon.
 
-===== Fighter Advancement =====
+## Fighter Advancement 
 
 ^ ^ ^ ^ ^ ^  Save Targets  ^^^^^
 ^ Level^ XP^ Hit Points^ Attack^ Combat Talents^ Doom^ Ray^ Hold^ Blast^ Spell^
