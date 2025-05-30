@@ -6,11 +6,11 @@ grand_parent: Classes
 
 ====== Magician ======
 
-Prime Abilities	Intelligence
-Hit Points	1d4 per Level, +1 after Level 10
-Combat Aptitude	Non-martial
-Armour	None
-Weapons	Dagger, holy water, oil, staff, torch
+  * Prime Abilities	Intelligence
+  * Hit Points	1d4 per Level, +1 after Level 10
+  * Combat Aptitude	Non-martial
+  * Armour	None
+  * Weapons	Dagger, holy water, oil, staff, torch
 
 Magicians—sometimes called wizards or sorcerers—hone innate sparks of magical sensitivity through years of arduous study. Magicians are arcane generalists, accumulating secret lore from any source they can get their hands on—magic of illusion, crystalmancy, elementalism, conjuration, and sometimes even stolen Drune spells. Their accumulation of knowledge allows magicians to cast spells and to wield powerful magic items. Magicians begin play able to cast just a single spell each day, but gain access to extremely potent magic as they advance.
 
