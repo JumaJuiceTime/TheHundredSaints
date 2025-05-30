@@ -4,7 +4,7 @@ layout: default
 grand_parent: Classes
 ---
 
-====== Magician ======
+# Magician 
 
   * **Prime Abilities:**	Intelligence
   * **Hit Points**	1d4 per Level, +1 after Level 10
@@ -14,13 +14,13 @@ grand_parent: Classes
 
 Magicians—sometimes called wizards or sorcerers—hone innate sparks of magical sensitivity through years of arduous study. Magicians are arcane generalists, accumulating secret lore from any source they can get their hands on—magic of illusion, crystalmancy, elementalism, conjuration, and sometimes even stolen Drune spells. Their accumulation of knowledge allows magicians to cast spells and to wield powerful magic items. Magicians begin play able to cast just a single spell each day, but gain access to extremely potent magic as they advance.
 
-==== Starting Equipment ====
+### Starting Equipment 
 
 **Weapon (roll 1d6):** 1–3. Dagger. 4–6. Staff.
 
 **Class items:** Ritual robes. A Level 1 magician starts play with a single spell book and has learned to cast the spells contained within. The player should roll or choose one of the books listed under Starting Spell Books.
 
-==== Starting Spell Books ====
+### Starting Spell Books 
 
 A Level 1 magician possesses a single spell book and has learned to cast the spells it describes. A magician’s first spell book may be an item inherited from a mysterious ancestor, stolen from a cruel master, or meticulously copied under the tutelage of a mentor. The player should roll or choose one of the following books.
 
@@ -31,7 +31,7 @@ A Level 1 magician possesses a single spell book and has learned to cast the spe
   * **Smythe’s Illuminations:** Contains the following Rank 1 spells: [[Decipher]], [[Ignite / Extinguish]], [[Ioun Shard]].
   * **The Treatise on Force and Dissolution:** Contains the following Rank 1 spells: [[Crystal Resonance]], [[Floating Disc]], [[Vapours of Dream]].
 
-===== Arcane Magic =====
+## Arcane Magic 
 
 See [[Arcane Magic]] for full details on arcane magic, including learning spells, spell memorisation, and the list of spells that magicians can learn.
 
@@ -39,7 +39,7 @@ See [[Arcane Magic]] for full details on arcane magic, including learning spells
 
 **Using magic items:** Magicians can use magic items exclusive to arcane spell-casters (for example, magic wands or scrolls of arcane spells).
 
-==== Magician Spells Per Day ====
+### Magician Spells Per Day 
 
 ^ ^  Spell Rank  ^^^^^^
 ^ Level^ 1^ 2^ 3^ 4^ 5^ 6^
@@ -59,11 +59,11 @@ See [[Arcane Magic]] for full details on arcane magic, including learning spells
 | 14| 5| 4| 4| 3| 3| 2|
 | 15| 5| 4| 4| 3| 3| 3|
 
-===== Magician Skills =====
+### Magician Skills 
 
 Magicians have one additional, specialised skill. The Magician Skill Targets table lists the character’s Skill Targets as they advance in level.
 
-==== Detect Magic ====
+### Detect Magic 
 
 A magician can attempt to detect the subtle resonances woven into an enchanted object, place, or creature. If the attempt succeeds, the magician knows if the object, place, or creature in question is magical—i.e. enchanted, affected by a spell, or possessed of innate magic of some kind.
 
@@ -77,7 +77,7 @@ A magician can attempt to detect the subtle resonances woven into an enchanted o
 
 **Downtime:** Given an hour of solitude in a safe location, a magician automatically detects magic on an object, place, or creature.
 
-===== Magician Skill Targets =====
+### Magician Skill Targets 
 
 ^ Level^ Detect Magic^
 | 1| 6|
@@ -91,7 +91,7 @@ A magician can attempt to detect the subtle resonances woven into an enchanted o
 | 9| 3|
 | 10+| 3|
 
-===== Magician Advancement =====
+### Magician Advancement 
 
 ^ ^ ^ ^ ^  Save Targets  ^^^^^
 ^ Level^ XP^ Hit Points^ Attack^ Doom^ Ray^ Hold^ Blast^ Spell^
