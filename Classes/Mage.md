@@ -1,7 +1,7 @@
 ---
 title: Magician
 layout: default
-grand_parent: Classes
+parent: Classes
 ---
 
 # Magician 
