@@ -6,7 +6,7 @@ parent: Classes
 
 ## Warrior Experience Levels
 
-|| Level | Fighter   | Paladin/Ranger | Hit Dice (d10) |
+| Level | Fighter   | Paladin/Ranger | Hit Dice (d10) |
 |-------|-----------|----------------|----------------|
 | 1     | 0         | 0              | 1              |
 | 2     | 2,000     | 2,250          | 2              |
