@@ -11,14 +11,14 @@ by the eye of the moon in a silverblack pool.
 Begins with 2d6 × 10s and d2 Omens. hp: Toughness + d6
 
 #### Probably raised in (d8)
-1–3 calm isolation in the Sarkash dark.
+1–3. calm isolation in the Sarkash dark.
 
 #### …But may also come from
-4 the illegal midnight markets of Schleswig.
-5 the heretic isle of Crëlut,two nautical miles east of Grift.
-6 the old frozen ruins not far from Alliáns.
-7 a little witches cottage in Galgenbeck.
-8 the ruins of the Shadow King’s manse, thick with memories of mushrooms and smoke.
+4. the illegal midnight markets of Schleswig.
+5. the heretic isle of Crëlut,two nautical miles east of Grift.
+6. the old frozen ruins not far from Alliáns.
+7. a little witches cottage in Galgenbeck.
+8. the ruins of the Shadow King’s manse, thick with memories of mushrooms and smoke.
 
 ## Abilities
 Tough as wood, roll 3d6+2 Toughness. 
