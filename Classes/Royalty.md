@@ -8,7 +8,10 @@ parent: Classes
 Bowed down only by the memories of your own lost glory, 
 you could never submit to anyone else. Not you, of noble blood! 
 (Not that you expect these peons to understand the depths of your sorrow.)
-Begins with 4d6 10s and d2 Omens. hp: Toughness + d6.
+
+Begins with 4d6 10s and d2 Omens. 
+
+hp: Toughness + d6.
 
 #### Things were going so well, until… (D6)
 1. your Wästland palace was reduced to rubble.
