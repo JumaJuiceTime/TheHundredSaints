@@ -6,8 +6,12 @@ parent: Classes
 
 Mage
 The stone of your cave is one with the stars. Silence and perfection. Now the chaos of a fallen world disturbs your rituals 
-and the caul of night grows blacker than your cavern’s gloom. Irritating!
-Begins with 1d6×10s and d4 Omens. hp: Toughness+d4
+and the caul of night grows blacker than your cavern’s gloom. 
+Irritating!
+
+Begins with 1d6×10s and d4 Omens. 
+
+hp: Toughness+d4
 
 Eldritch Origins (D6)
  1. Awakening, adult, in a ritual circle underneath the northern bridge to Grift.
