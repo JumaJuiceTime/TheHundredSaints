@@ -10,7 +10,10 @@ parenting didn’t help either. In your community an honest day’s
 work was never an option. Not that you ever tried, what are you, 
 some kind of mug? A razor blade and a moonless night are worth 
 a week of chump-work.
-Begins with 1d6×10s and d2 Omens. hp: Toughness+d6
+
+Begins with 1d6×10s and d2 Omens.
+
+hp: Toughness+d6
 
 #### Bad Birth (d6)
 1. Dumped onto a moving shit-cart still in your birth caul.
