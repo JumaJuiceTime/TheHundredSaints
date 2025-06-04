@@ -8,7 +8,11 @@ parent: Classes
 
 Reckless Attack: dr10 to attack, d6 damage. You must be close 
 to your target. 1–2 on d6 chance the enemy gets a free attack.
-Begins with 2d6 × 10s and d2 Omens. hp: Toughness + d10
+
+
+Begins with 2d6 × 10s and d2 Omens. 
+
+hp: Toughness + d10
 
 #### Earliest Memories (D6)
 1. A burnt-black building in Sarkash. Your home?
