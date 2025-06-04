@@ -8,6 +8,7 @@ parent: Classes
 # Herbmaster
 Born of the mushroom, raised in the glade, watched 
 by the eye of the moon in a silverblack pool.
+
 Begins with 2d6 × 10s and d2 Omens. hp: Toughness + d6
 
 #### Probably raised in (d8)
