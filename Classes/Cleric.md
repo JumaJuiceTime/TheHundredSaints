@@ -5,7 +5,10 @@ parent: Classes
 ---
 # Cleric
 Hunted by the two-headed basilisks of the One True Faith,  this heretic can be found raving in ruins, traipsing endlessly down  dusty roads and desecrating cathedrals by night.
-Begins with 3d6 × 10s and d4 Omens. hp: Toughness + d8
+
+Begins with 3d6 × 10s and d4 Omens. 
+
+hp: Toughness + d8
 
 #### Unholy Origins
 1 Galgenbeck, near the cathedral of the Two-Headed Basilisks.
