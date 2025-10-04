@@ -1,4 +1,0 @@
----
-title: Classes
-layout: default
----
