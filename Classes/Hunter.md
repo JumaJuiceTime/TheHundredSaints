@@ -12,7 +12,7 @@ parent: Classes
   * **Armour:** Light, shields
   * **Weapons:** Any
 
-Hardened to a life in the wilds, hunters develop a keen survival instinct and an intuitive connection with wild animals. A hunter’s knowledge of tracking, hunting, and survival is invaluable to any party travelling deep into Dolmenwood.
+Hardened to a life in the wilds, hunters develop a keen survival instinct and an intuitive connection with wild animals. A hunter’s knowledge of tracking, hunting, and survival is invaluable to any party travelling deep into the wild.
 
 ==== Starting Equipment ====
 
