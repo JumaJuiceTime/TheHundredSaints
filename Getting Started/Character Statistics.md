@@ -14,7 +14,7 @@ The ratings of an adventurer’s defining physical and mental attributes. There 
 
 ===== Kindred =====
 
-A character may be human or one of a number of types of fantastic intelligent creatures that live in Dolmenwood. Each Kindred has a number of special traits, from fairy magic to bonuses in combat. The Kindreds players may choose from are: breggle, elf, grimalkin, human, mossling, woodgrue.
+A character may be human or one of a number of types of fantastic intelligent creatures that live in tbd. Each Kindred has a number of special traits, from fairy magic to bonuses in combat. The Kindreds players may choose from are: breggle, elf, grimalkin, human, mossling, woodgrue.
 
 **Size:** A character’s Kindred determines their size: either human-sized (Medium) or smaller than human-sized (Small).
 
