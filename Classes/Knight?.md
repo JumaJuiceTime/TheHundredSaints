@@ -1,10 +1,10 @@
 ---
-title: Knight?
+title: Oronthiri
 layout: default
 parent: Classes
 ---
 
-====== Knight ======
+====== Oronthiri ======
 
   * **Prime Abilities:** Charisma and Strength
   * **Hit Points:** 1d8 per Level, +2 after Level 10
@@ -16,15 +16,13 @@ Knights are masters of heavily armoured, mounted combat and, as vassals of a nob
 
 ==== Liege ====
 
-A knight serves one of the lower noble houses of Dolmenwood (i.e. excluding House Brackenwold, which rules all of Dolmenwood). The player should roll or choose one of the houses listed under The Lower Houses of Dolmenwood.
+A knight serves one of the lower noble houses of tbd (i.e. excluding House tbd, which rules all of Dolmenwood). The player should roll or choose one of the houses listed under The Lower Houses of tbd.
 
 **Disfavour:** Knighthood may be revoked if a knight displeases or dishonours their liege through failure, rebellion, Alignment change, or non-chivalric conduct. In this case, the character becomes a fighter of equivalent Level. It may be possible to regain the liege’s favour (and thus the status of knighthood) by performing a special quest.
 
 ==== Restrictions ====
 
 **Alignment:** A knight must have the same Alignment as their liege.
-
-**Kindred:** It is uncommon for Kindreds other than humans and breggles to be trained as knights in the service of the noble houses of Dolmenwood.
 
 **Social class:** Knights are often members of the noble classes, but a person of lowlier origin may be initiated as a knight as a reward for noble deeds.
 
