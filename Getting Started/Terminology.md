@@ -6,7 +6,7 @@ parent: Getting Started
 
 ====== Terminology ======
 
-Various game terminology is used in Dolmenwood, much of it in common with other role-playing games and some unique to Dolmenwood. The most frequently used terms are described here, along with page references for further details.
+The most frequently used terms are described here, along with page references for further details.
 
 ===== Glossary of Terms =====
 
@@ -54,7 +54,7 @@ Various game terminology is used in Dolmenwood, much of it in common with other 
 
 **Fairy (type of creature):** A creature that originates in the magical parallel world of Fairy. See [[Mortals, Fairies, and Demi-Fey]].
 
-**Fairy (world):** The native world of fairies. A mysterious, timeless parallel to the mortal world, infused with magic. Magical doors connect Dolmenwood and Fairy.
+**Fairy (world):** The native world of fairies. A mysterious, timeless parallel to the mortal world, infused with magic. Magical doors connect the material realm and Fairy.
 
 **Game time:** The imagined time that passes in the game world as the game is played.
 
@@ -96,8 +96,6 @@ Various game terminology is used in Dolmenwood, much of it in common with other 
 
 **Player Character (PC):** An individual player’s character in the imagined world.
 
-**pp:** Pellucidium pieces—an uncommon type of coin made of fairy silver. See [[Adventuring Gear#Coinage]].
-
 **Rank (spell):** The level of complexity and power of a magic spell. See [[Arcane Magic]] and [[Holy Magic]].
 
 **Reaction Roll:** A 2d6 roll determining a creature’s reaction when encountered. See [[Encounters#Monster and NPC Reactions]].
@@ -133,5 +131,3 @@ Various game terminology is used in Dolmenwood, much of it in common with other 
 **Target number:** A number that a die roll must match or exceed to succeed at a given task. Lower targets represent easier tasks, higher targets represent harder tasks.
 
 **Turn:** A span of game time (about 10 minutes) used during dungeon exploration. See [[Time and Movement]].
-
-**Woldish:** The common tongue spoken by most sentient creatures in Dolmenwood. See [[Languages]].
