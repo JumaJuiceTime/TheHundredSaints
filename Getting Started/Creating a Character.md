@@ -6,8 +6,6 @@ parent: Getting Started
 
 ====== Creating a Character ======
 
-When creating a character, you need a character sheet—pictured to the right. The Dolmenwood character sheet is available online at [[https://dolmenwood.com]] as a PDF to download and print.
-
 **A note on randomness:** Many character statistics are determined by rolling dice. You are encouraged to savour the fun, unexpected character concepts that emerge from interpreting these random results.
 
 ===== 1. Roll Ability Scores =====
@@ -21,10 +19,6 @@ If you roll a character with an 8 or less in every Ability Score or a 6 or lower
 ===== 2. Choose a Kindred =====
 
 Select one of the available Kindreds.
-
-**New players:** The human Kindred is recommended, as it has the least special traits.
-
-**Class restrictions:** Elves, grimalkins, and woodgrues cannot be clerics or friars as they have no spiritual connection with the deities of mortals.
 
 ===== 3. Choose a Class =====
 
@@ -63,7 +57,7 @@ Record any special traits possessed by your character as a result of their Kindr
 
 **Skill Targets:** Note your character’s target numbers for Listen, Search, and Survival Skill Checks. All skills default to a target number of 6, unless your character’s Kindred or Class specifies a lower target number.
 
-**Languages:** Your character’s native languages are listed in the Kindred description. This always includes the Woldish tongue spoken by all folk in Dolmenwood. Characters with high Intelligence (see [[Ability Scores]]) may also choose additional languages from the list under [[Languages]].
+**Languages:** Your character’s native languages are listed in the Kindred description. This always includes Koine,a trade tongue, spoken by all folk in tbd. Characters with high Intelligence (see [[Ability Scores]]) may also choose additional languages from the list under [[Languages]].
 
 ===== 7. Roll Hit Points =====
 
