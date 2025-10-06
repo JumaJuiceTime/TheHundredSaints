@@ -10,7 +10,7 @@ Adventurers begin play at Level 1 with no Experience Points. Those who have succ
 
 ===== Party XP Awards =====
 
-A party that survives an adventure and returns to safety gains Experience Points (XP). XP is awarded by the Referee, based on how successful the adventure was. The main factors are as follows. The Dolmenwood Campaign Book has full details on awarding XP, including optional rules for additional kinds of XP awards.
+A party that survives an adventure and returns to safety gains Experience Points (XP). XP is awarded by the Referee, based on how successful the adventure was. The main factors are as follows.
 
 **Treasure:** The party gains 1 XP per 1 gold piece value of treasure recovered. Recovered treasure is the primary source of XP, usually accounting for three-quarters or more of total XP earned.
 
