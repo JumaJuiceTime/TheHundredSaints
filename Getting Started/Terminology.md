@@ -86,7 +86,7 @@ The most frequently used terms are described here, along with page references fo
 
 **Mortal:** A creature that originates in the mortal world. See [[Mortals, Fairies, and Demi-Fey]].
 
-**Mortal world:** The everyday world of Dolmenwood, inhabited by humans and other mortal Kindreds.
+**Mortal world:** The everyday world, inhabited by humans and other mortal Kindreds.
 
 **Non-Player Character (NPC):** Characters encountered during the game. All NPCs are played by the Referee.
 
