@@ -4,6 +4,8 @@ layout: default
 parent: Classes
 ---
 
+Oronthiri, Tagmata, Palatini, Praetorian
+
 ====== Oronthiri ======
 
   * **Prime Abilities:** Charisma and Strength
@@ -16,15 +18,15 @@ Knights are masters of heavily armoured, mounted combat and, as vassals of a nob
 
 ==== Liege ====
 
-A knight serves one of the lower noble houses of tbd (i.e. excluding House tbd, which rules all of Dolmenwood). The player should roll or choose one of the houses listed under The Lower Houses of tbd.
+A knight serves one of the lower noble houses of tbd. The player should roll or choose one of the houses listed under The Lower Houses of tbd.
 
-**Disfavour:** Knighthood may be revoked if a knight displeases or dishonours their liege through failure, rebellion, Alignment change, or non-chivalric conduct. In this case, the character becomes a fighter of equivalent Level. It may be possible to regain the liege’s favour (and thus the status of knighthood) by performing a special quest.
+**Disfavour:** Knighthood may be revoked if a palatini displeases or dishonours their liege through failure, rebellion, Alignment change, or non-chivalric conduct. In this case, the character becomes a fighter of equivalent Level. It may be possible to regain the liege’s favour (and thus the status of palatini) by performing a special quest.
 
 ==== Restrictions ====
 
-**Alignment:** A knight must have the same Alignment as their liege.
+**Alignment:** A palatini must have the same Alignment as their liege.
 
-**Social class:** Knights are often members of the noble classes, but a person of lowlier origin may be initiated as a knight as a reward for noble deeds.
+**Social class:** Palatini are often members of the noble classes, but a person of lowlier origin may be initiated as a knight as a reward for noble deeds.
 
 **Weapons:** Knights can use all melee weapons (preferring the lance) but cannot use missile weapons, which they regard as dishonourable.
 
@@ -44,7 +46,7 @@ Knights strive to uphold a stringent code of honour which binds all decision and
 
 **Chaotic:** The knight is unlikely to bring dishonour upon their liege, whose reputation is already villainous. Unchivalrous deeds are, however, perceived as besmirching the institution of knighthood. Other knights hunt the Chaotic knight and attempt to bring them to justice.
 
-==== The Code of Chivalry ====
+==== The Palatine Code ====
 
 **Honour:** A knight must behave honourably in all deeds. A knight’s honour is of utmost importance. Death is preferable to dishonour.
 
@@ -62,9 +64,9 @@ Knights strive to uphold a stringent code of honour which binds all decision and
 
 **Urging great speed:** From Level 5, a knight can urge their steed to great haste once a day, increasing its Speed by 10 for up to 6 Turns.
 
-===== Knighthood =====
+===== Palatine Status =====
 
-Knights of Levels 1–2 are known as squires and are not yet regarded as true knights. Upon reaching Level 3, the character is knighted by their liege and gains the right to bear a coat of arms, typically emblazoned upon the knight’s shield.
+Palatini of Levels 1–2 are known as Acolyte and are not yet regarded as true knights. Upon reaching Level 3, the character is knighted by their liege and gains the right to bear a coat of arms, typically emblazoned upon the knight’s shield.
 
 **Hospitality:** Once knighted, the character earns rights of hospitality and aid from nobles and other knights of the same Alignment. Hospitality extends to any companions the knight is willing to vouch for. The knight is expected to extend such hospitality in kind.
 
@@ -74,13 +76,13 @@ From Level 5, a knight gains a +2 bonus to Attack and Damage Rolls against Large
 
 ===== Mounted Combat =====
 
-Knights gain a +1 Attack bonus when mounted.
+Palatini gain a +1 Attack bonus when mounted.
 
 ===== Strength of Will =====
 
-Knights gain a +2 bonus to Saving Throws against fairy magic and effects that cause fear.
+Palatini gain a +2 bonus to Saving Throws against fairy magic and effects that cause fear.
 
-===== The Lower Houses of Dolmenwood =====
+===== The Lower Houses =====
 
   - **House Guillefer (Neutral):** Dreamy and aloof. Rulership shared between family members on a rotating basis—currently Lord Edwin Guillefer.
   - **House Harrowmoor (Lawful):** Steadfast and militant. Under the rulership of Lady Theatrice Harrowmoor.
