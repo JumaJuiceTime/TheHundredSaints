@@ -1,10 +1,10 @@
 ---
-title: Friar
+title: Hiereus
 layout: default
 parent: Classes
 ---
 
-====== Friar ======
+====== Hiereus ======
 
   * **Prime Abilities:** Intelligence and Wisdom
   * **Hit Points:** 1d4 per Level, +1 after Level 10
