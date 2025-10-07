@@ -32,9 +32,9 @@ A palatinae serves one of the noble houses. The player should roll or choose one
 
 ==== Starting Equipment ====
 
-**Armour (roll 1d6):** 1. Chainmail. 2–3. Chainmail + shield. 4. Plate mail. 5–6. Plate mail + shield.
+**Armour (roll 1d6):** 1. Lamellar with pteruges. 2–3. Lamellar with pteruges + shield. 4. Lamellar panoply. 5–6. Lamellar panoply + shield.
 
-**Weapons (roll 1d6 twice):** 1. Dagger. 2–4. Lance (spear for Small characters). 5. Longsword. 6. Mace.
+**Weapons (roll 1d6 twice):** 1. Dagger. 2–4. Lance (spear for Small characters). 5. Spatha. 6. Mace.
 
 ===== Palatine Code =====
 
@@ -80,7 +80,7 @@ Palatinae gain a +1 Attack bonus when mounted.
 
 Palatinae gain a +2 bonus to Saving Throws against magic and effects that cause fear.
 
-===== The Houses =====
+===== The Noble Houses =====
 
   - **House Guillefer (Neutral):** Dreamy and aloof. Rulership shared between family members on a rotating basis—currently Lord Edwin Guillefer.
   - **House Harrowmoor (Lawful):** Steadfast and militant. Under the rulership of Lady Theatrice Harrowmoor.
