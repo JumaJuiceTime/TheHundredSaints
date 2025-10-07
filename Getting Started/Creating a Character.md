@@ -57,7 +57,7 @@ Record any special traits possessed by your character as a result of their Kindr
 
 **Skill Targets:** Note your character’s target numbers for Listen, Search, and Survival Skill Checks. All skills default to a target number of 6, unless your character’s Kindred or Class specifies a lower target number.
 
-**Languages:** Your character’s native languages are listed in the Kindred description. This always includes Koine,a trade tongue, spoken by all folk in tbd. Characters with high Intelligence (see [[Ability Scores]]) may also choose additional languages from the list under [[Languages]].
+**Languages:** Your character’s native languages are listed in the Kindred description. This always includes Koine, a trade tongue, spoken by all folk in tbd. Characters with high Intelligence (see [[Ability Scores]]) may also choose additional languages from the list under [[Languages]].
 
 ===== 7. Roll Hit Points =====
 

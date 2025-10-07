@@ -58,9 +58,12 @@ Glaukopis strive to uphold a stringent code of honour which binds all decision a
 
 
 ===== Glaukopis Status =====
-Glaukopis of Levels 1–2 are known as Probatus and are not yet regarded as true a glaukopis. They receive a feather mantle from their master when they are accepted. Upon reaching Level 3, the character is appointed by their liege and gains the right to bear a coat of arms, typically emblazoned upon the glaukopis's shield.
+Glaukopis of Levels 1–2 are known as Probatus and are not yet regarded as true a glaukopis. They receive a feather mantle from their master when they are accepted. Upon reaching Level 3, the character is appointed by their liege and gains the right to bear a coat of arms, typically emblazoned upon the glaukopis's shield or lower disc.
 
 **Hospitality:** Once appointed, the character earns rights of hospitality and aid from nobles and other glaukopis of the same Alignment. Hospitality extends to any companions the glaukopis is willing to vouch for. The glaukopis is expected to extend such hospitality in kind.
+
+===== Owl's Eyes =====
+
 
 ===== Monster Slayer =====
 
