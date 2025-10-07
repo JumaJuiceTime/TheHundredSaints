@@ -1,10 +1,10 @@
 ---
-title: Glaukopis
+title: Somatophylakitai
 layout: default
 parent: Classes
 ---
 
-====== glaukopis ======
+====== Somatophylakitai ======
 
   * **Prime Abilities:** Charisma and Strength
   * **Hit Points:** 1d8 per Level, +2 after Level 10
@@ -18,7 +18,7 @@ Glaukopis are masters of combat and, as vassals of nobility, hold a special rank
 
 A glaukopis serves one of the imperial houses. The player should roll or choose one of the houses listed under The Imperial Houses.
 
-**Disfavour:** An appointment may be revoked if a glaukopis displeases or dishonours their liege through failure, rebellion, Alignment change, or non-chivalric conduct. In this case, the character becomes a fighter of equivalent Level. It may be possible to regain the liege’s favour (and thus the status of glaukopis) by performing a special quest.
+**Disfavour:** An appointment may be revoked if a glaukopis displeases or dishonours their liege through failure, rebellion, Alignment change, or unbecoming conduct. In this case, the character becomes a fighter of equivalent Level. It may be possible to regain the house’s favour (and thus the status of glaukopis) by performing a special quest.
 
 ==== Restrictions ====
 
