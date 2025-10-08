@@ -1,0 +1,4 @@
+---
+title: Kindreds
+layout: default
+---

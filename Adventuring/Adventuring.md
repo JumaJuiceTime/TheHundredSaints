@@ -1,0 +1,4 @@
+---
+title: Adventuring
+layout: default
+---
