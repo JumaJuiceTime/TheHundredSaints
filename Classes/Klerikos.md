@@ -1,10 +1,10 @@
 ---
-title: Cleric
+title: Klerikos
 layout: default
 parent: Classes
 ---
 
-====== Cleric ======
+====== Klerikos ======
 
   * **Prime Abilities:** Wisdom
   * **Hit Points:** 1d6 per Level, +1 after Level 10
@@ -12,17 +12,15 @@ parent: Classes
   * **Armour:** Any, including shields (except arcane or fairy magic armour)
   * **Weapons:** Any (except arcane or fairy magic weapons)
 
-Clerics are members of an order of holy warriors sworn to the service of the Pluritine Church. They are organised in a strict religious hierarchy, under the command of higher-ranking Church officials. Player Character clerics are typically granted a writ of self-determination, allowing them to roam freely and carry out the will of God as they see fit.
+Klerikos are members of an order of holy warriors sworn to the service of the Pluritine Church. They are organised in a strict religious hierarchy, under the command of higher-ranking Church officials. Player Character klerikos are typically granted a writ of self-determination, allowing them to roam freely and carry out the will of God as they see fit.
 
 ==== Restrictions ====
 
-**Alignment:** As servants of the Church, clerics must be Lawful or Neutral.
+**Alignment:** As servants of the Church, klerikos must be Lawful or Neutral.
 
-**Falling from grace:** Clerics must be faithful to the tenets of their order (see Cleric Tenets). A cleric who transgresses or becomes Chaotic falls from grace and loses the ability to pray for spells. The Referee may allow the character to perform a quest of atonement in order to regain favour.
+**Falling from grace:** Klerikos must be faithful to the tenets of their order (see Klerikos Tenets). A cleric who transgresses or becomes Chaotic falls from grace and loses the ability to pray for spells. The Referee may allow the character to perform a quest of atonement in order to regain favour.
 
-**Kindred:** Only mortals are trained as clerics—fairies and demi-fey have no spiritual connection with the deities of mortals.
-
-**Magic armaments:** Clerics are forbidden to use magic weapons, armour, and shields of arcane or fairy origin. They may only use holy magic armaments.
+**Magic armaments:** Klerikos are forbidden to use magic weapons, armour, and shields of arcane or otherworldy origin. They may only use holy magic armaments.
 
 ==== Starting Equipment ====
 
@@ -32,7 +30,7 @@ Clerics are members of an order of holy warriors sworn to the service of the Plu
 
 **Class items:** Wooden holy symbol.
 
-===== Cleric Tenets =====
+===== Klerikitai Tenets =====
 
 **Evangelism:** Non-believers are to be brought into the fold and converted.
 
@@ -40,7 +38,7 @@ Clerics are members of an order of holy warriors sworn to the service of the Plu
 
 **Monotheism:** Only One True God exists, and His name is ineffable. Other religions worship personifications of divine aspects of God or the anointed saints.
 
-**Sanctity of life:** Sentient life is sacred. Clerics must protect the innocent with all means available.
+**Sanctity of life:** Sentient life is sacred. Klerikos must protect the innocent with all means available.
 
 ===== Detect Holy Magic Items =====
 
@@ -52,15 +50,15 @@ A cleric can detect whether an item is enchanted with holy magic.
 
 ===== Holy Magic =====
 
-See [[Holy Magic]] for full details on holy magic, including praying for spells and the list of spells that clerics can cast.
+See [[Holy Magic]] for full details on holy magic, including praying for spells and the list of spells that klerikos can cast.
 
 **Holy symbol:** A cleric must carry a holy symbol (see [[Adventuring Gear]]).
 
-**Spell casting:** Once a cleric has proven their devotion (from Level 2), the character may pray to the host of saints to receive their blessings in the form of holy spells. The Cleric Spells Per Day table shows the number of spells a cleric may receive, determined by the character’s Level. For example, a Level 3 cleric may have the blessing to cast at most two Rank 1 spells.
+**Spell casting:** Once a cleric has proven their devotion (from Level 2), the character may pray to the host of saints to receive their blessings in the form of holy spells. The Klerikos Spells Per Day table shows the number of spells a cleric may receive, determined by the character’s Level. For example, a Level 3 cleric may have the blessing to cast at most two Rank 1 spells.
 
-**Using magic items:** Clerics can use magic items exclusive to holy spell-casters (for example, magic rods or scrolls of holy spells).
+**Using magic items:** Klerikos can use magic items exclusive to holy spell-casters (for example, magic rods or scrolls of holy spells).
 
-==== Cleric Spells Per Day ====
+==== Klerikos Spells Per Day ====
 
 ^ ^  Spell Rank  ^^^^^
 ^ Level^ 1^ 2^ 3^ 4^ 5^
@@ -81,11 +79,11 @@ See [[Holy Magic]] for full details on holy magic, including praying for spells 
 | 15| 5| 4| 4| 3| 2|
 ===== Holy Order =====
 
-Upon reaching Level 2, a cleric is initiated into one of the following holy orders, selected by the player. Clerics of each order gain a special power and bear the order’s holy symbol.
+Upon reaching Level 2, a cleric is initiated into one of the following holy orders, selected by the player. Klerikos of each order gain a special power and bear the order’s holy symbol.
 
 ==== The Order of St Faxis ====
 
-The order of seekers; clerics who follow an edict to root out practitioners of dark magic—those who truck with devils or deal in necromancy.
+The order of seekers; klerikos who follow an edict to root out practitioners of dark magic—those who truck with devils or deal in necromancy.
 
 **Arcane antipathy:** A cleric of St Faxis gains a +2 bonus to Saving Throws against arcane magic. Arcane spell-casters suffer a –2 penalty to Saving Throws against spells cast by a cleric of St Faxis.
 
@@ -93,7 +91,7 @@ The order of seekers; clerics who follow an edict to root out practitioners of d
 
 ==== The Order of St Sedge ====
 
-The defenders of the Church; clerics who protect the lands of the Church from invaders.
+The defenders of the Church; klerikos who protect the lands of the Church from invaders.
 
 **Laying on hands:** A cleric of St Sedge can heal by laying their hands on wounded characters. Once a day, the cleric can heal a total of up to 1 Hit Point per Level.
 
@@ -101,7 +99,7 @@ The defenders of the Church; clerics who protect the lands of the Church from in
 
 ==== The Order of St Signis ====
 
-The order of Lichwards; clerics who watch over the dead and hunt those which rise again as undead.
+The order of Lichwards; klerikos who watch over the dead and hunt those which rise again as undead.
 
 **Undead slayer:** A cleric of St Signis gains a +1 Attack bonus against undead monsters. Their attacks harm undead monsters that can normally only be harmed by magical or silver weapons, even when not wielding a weapon of the appropriate type.
 
@@ -109,7 +107,7 @@ The order of Lichwards; clerics who watch over the dead and hunt those which ris
 
 ===== Languages =====
 
-In addition to their native languages, clerics speak Liturgic, the language of Church scripture.
+In addition to their native languages, klerikos speak Liturgic, the language of Church scripture.
 
 ===== Turning the Undead =====
 
@@ -131,7 +129,7 @@ A cleric may attempt to drive off undead monsters by presenting their holy symbo
 
 **Usage frequency:** One attempt per Turn.
 
-===== Cleric Advancement =====
+===== Klerikos Advancement =====
 
 ^ ^ ^ ^ ^  Save Targets  ^^^^^
 ^ Level^ XP^ Hit Points^ Attack^ Doom^ Ray^ Hold^ Blast^ Spell^

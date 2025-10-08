@@ -12,13 +12,13 @@ parent: Classes
   * **Armour:** None
   * **Weapons:** Club, dagger, holy water, oil, sling, staff, torch
 
-Friars are monks or nuns who have taken to a life of wandering, doing good wherever they can. They are only loosely affiliated with the Church and exist outside the strict religious hierarchy of the clergy. Friars are thus beloved by the common folk, whom they often aid where the Church does not.
+Hiereus are monks or nuns who have taken to a life of wandering, doing good wherever they can. They are only loosely affiliated with the Church and exist outside the strict religious hierarchy of the clergy. Hiereus are thus beloved by the common folk, whom they often aid where the Church does not.
 
 ==== Restrictions ====
 
-**Alignment:** As servants of the Church, friars must be Lawful or Neutral.
+**Alignment:** As servants of the Church, hiereus must be Lawful or Neutral.
 
-**Falling from grace:** Friars must be faithful to the tenets of their order (see Friar Tenets). A friar who transgresses or becomes Chaotic falls from grace and loses the ability to pray for spells. The Referee may allow the character to perform a quest of atonement in order to regain favour.
+**Falling from grace:** Hiereus must be faithful to the tenets of their order (see Hiereus Tenets). A hiereus who transgresses or becomes Chaotic falls from grace and loses the ability to pray for spells. The Referee may allow the character to perform a quest of atonement in order to regain favour.
 
 **Kindred:** Only mortals are trained as friars—fairies and demi-fey have no spiritual connection with the deities of mortals.
 
@@ -26,45 +26,45 @@ Friars are monks or nuns who have taken to a life of wandering, doing good where
 
 **Weapon (roll 1d6):** 1. Club. 2. Dagger. 3–4. Sling + 20 stones. 5–6. Staff.
 
-**Class items:** Friar’s habit, wooden holy symbol.
+**Class items:** Hierius’s habit, wooden holy symbol.
 
-===== Friar Tenets =====
+===== Hiereus Tenets =====
 
-**Sanctity of life:** All life is sacred. Friars must protect and aid the needy with all means available.
+**Sanctity of life:** All life is sacred. Hiereus must protect and aid the needy with all means available.
 
 **Monotheism:** Only One True God exists, and His name is ineffable. Other religions worship personifications of divine aspects of God or the anointed saints.
 
 **Spiritual insight:** Each individual must form their own relationship with God, through study and insight.
 
-**Mentorship:** Friars must share their wisdom with common folk and non-believers, guiding them into the ways of the Pluritine Church.
+**Mentorship:** Hiereus must share their wisdom with common folk and non-believers, guiding them into the ways of the Pluritine Church.
 
 ===== Armour of Faith =====
 
-The divine blessing of the One True God grants friars a bonus to Armour Class, depending on their Level. See the Friar Advancement table.
+The divine blessing of the One True God grants hiereus a bonus to Armour Class, depending on their Level. See the Hiereus Advancement table.
 
 ===== Culinary Implements =====
 
-A friar can employ a frying pan, cured sausage, or even a ham shank as a melee weapon, doing 1d4 damage.
+A hiereus can employ a frying pan, cured sausage, or even a ham shank as a melee weapon, doing 1d4 damage.
 
-===== Friar Skills =====
+===== Hiereus Skills =====
 
-Friars have a Skill Target of 5 for Survival when foraging.
+Hiereus have a Skill Target of 5 for Survival when foraging.
 
 ===== Herbalism =====
 
-In the hands of a friar, a single dose of a medicinal herb (for example those listed under [[Common Fungi and Herbs]]) is sufficient for 2 subjects.
+In the hands of a hiereus, a single dose of a medicinal herb (for example those listed under [[Common Fungi and Herbs]]) is sufficient for 2 subjects.
 
 ===== Holy magic =====
 
-See [[Holy Magic]] for full details on holy magic, including praying for spells and the list of spells that friars can cast.
+See [[Holy Magic]] for full details on holy magic, including praying for spells and the list of spells that hiereus can cast.
 
-**Holy symbol:** A friar must carry a holy symbol (see [[Adventuring Gear]]).
+**Holy symbol:** A hiereus must carry a holy symbol (see [[Adventuring Gear]]).
 
-**Spell casting:** Friars may pray to the host of saints and receive blessings in the form of holy spells. The Friar Spells Per Day table shows the number of spells a friar may receive, determined by the character’s Level. For example, a Level 2 friar may cast at most two Rank 1 spells.
+**Spell casting:** Hiereus may pray to the host of saints and receive blessings in the form of holy spells. The Hiereus Spells Per Day table shows the number of spells a hiereus may receive, determined by the character’s Level. For example, a Level 2 hiereus may cast at most two Rank 1 spells.
 
-**Using magic items:** Friars can use magic items exclusive to holy spell-casters (for example, magic rods or scrolls of holy spells).
+**Using magic items:** Hiereus can use magic items exclusive to holy spell-casters (for example, magic rods or scrolls of holy spells).
 
-==== Friar Spells Per Day ====
+==== Hiereus Spells Per Day ====
 
 ^ ^  Spell Rank  ^^^^^
 ^ Level^ 1^ 2^ 3^ 4^ 5^
@@ -86,36 +86,36 @@ See [[Holy Magic]] for full details on holy magic, including praying for spells 
 
 ===== Languages =====
 
-In addition to their native languages, friars speak Liturgic, the language of Church scripture.
+In addition to their native languages, hiereus speak Liturgic, the language of Church scripture.
 
 ===== Poverty =====
 
-Due to their monastic vows, a friar’s worldly possessions are limited to that which can be carried on their person or mount. Excess wealth must be donated to worthy causes (not other PCs).
+Due to their monastic vows, a hiereus’s worldly possessions are limited to that which can be carried on their person or mount. Excess wealth must be donated to worthy causes (not other PCs).
 
-Furthermore, a friar must dress in a simple habit and cut their hair in a traditional tonsure.
+Furthermore, a hiereus must dress in a simple habit and cut their hair in a traditional tonsure.
 
 ===== Turning the Undead =====
 
-A friar may attempt to drive off undead monsters by presenting their holy symbol and invoking the might of the One True God.
+A hiereus may attempt to drive off undead monsters by presenting their holy symbol and invoking the might of the One True God.
 
 **Range:** The undead must be within 30′. Concealed undead (e.g. behind doors or in coffers) are unaffected.
 
-**Turning roll:** When a friar attempts to turn the undead, roll 2d6 to determine the result (modifiers listed below):
+**Turning roll:** When a hiereus attempts to turn the undead, roll 2d6 to determine the result (modifiers listed below):
 
   * **4 or lower:** The undead are unaffected.
   * **5–6:** 2d4 undead are stunned for 1 Round, unable to act.
-  * **7–12:** 2d4 undead flee from the friar for 1 Turn.
+  * **7–12:** 2d4 undead flee from the hiereus for 1 Turn.
   * **13 or higher:** 2d4 undead are permanently destroyed.
 
-**Lower Level undead:** If the undead are lower Level than the friar, the turning roll is modified by +2 per Level difference (maximum +6). For example, a Level 5 friar turning Level 3 undead would gain a +4 bonus.
+**Lower Level undead:** If the undead are lower Level than the hiereus, the turning roll is modified by +2 per Level difference (maximum +6). For example, a Level 5 hiereus turning Level 3 undead would gain a +4 bonus.
 
-**Higher Level undead:** If the undead are higher Level than the friar, the turning roll is modified by –2 per Level difference (maximum –6). For example, a Level 3 friar turning Level 6 undead would suffer a –6 penalty.
+**Higher Level undead:** If the undead are higher Level than the hiereus, the turning roll is modified by –2 per Level difference (maximum –6). For example, a Level 3 hiereus turning Level 6 undead would suffer a –6 penalty.
 
-**Mixed groups:** In encounters with multiple types of undead, those of lowest Level are affected first. On a successful turning roll, the friar may make another roll the following Round, affecting the next lowest Level type of undead present. This process may be repeated until all types of undead have been affected or a turning roll fails.
+**Mixed groups:** In encounters with multiple types of undead, those of lowest Level are affected first. On a successful turning roll, the hiereus may make another roll the following Round, affecting the next lowest Level type of undead present. This process may be repeated until all types of undead have been affected or a turning roll fails.
 
 **Usage frequency:** One attempt per Turn.
 
-===== Friar Advancement =====
+===== Hiereus Advancement =====
 
 ^ ^ ^ ^ ^ ^  Save Targets  ^^^^^
 ^ Level^ XP^ Hit Points^ Attack^ AC Bonus^ Doom^ Ray^ Hold^ Blast^ Spell^

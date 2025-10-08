@@ -3,7 +3,7 @@ title: Magi
 layout: default
 parent: Classes
 ---
-====== Magician ======
+====== Magi ======
 
 Prime Abilities	Intelligence
 Hit Points	1d4 per Level, +1 after Level 10
@@ -11,17 +11,17 @@ Combat Aptitude	Non-martial
 Armour	None
 Weapons	Dagger, holy water, oil, staff, torch
 
-Magicians—sometimes called wizards or sorcerers—hone innate sparks of magical sensitivity through years of arduous study. Magicians are arcane generalists, accumulating secret lore from any source they can get their hands on—magic of illusion, crystalmancy, elementalism, conjuration, and sometimes even stolen Drune spells. Their accumulation of knowledge allows magicians to cast spells and to wield powerful magic items. Magicians begin play able to cast just a single spell each day, but gain access to extremely potent magic as they advance.
+Magi—sometimes called wizards or sorcerers—hone innate sparks of magical sensitivity through years of arduous study. Magi are arcane generalists, accumulating secret lore from any source they can get their hands on—magic of illusion, crystalmancy, elementalism, conjuration, and sometimes even stolen Drune spells. Their accumulation of knowledge allows magicians to cast spells and to wield powerful magic items. Magi begin play able to cast just a single spell each day, but gain access to extremely potent magic as they advance.
 
 ==== Starting Equipment ====
 
 **Weapon (roll 1d6):** 1–3. Dagger. 4–6. Staff.
 
-**Class items:** Ritual robes. A Level 1 magician starts play with a single spell book and has learned to cast the spells contained within. The player should roll or choose one of the books listed under Starting Spell Books.
+**Class items:** Ritual robes. A Level 1 magi starts play with a single spell book and has learned to cast the spells contained within. The player should roll or choose one of the books listed under Starting Spell Books.
 
 ==== Starting Spell Books ====
 
-A Level 1 magician possesses a single spell book and has learned to cast the spells it describes. A magician’s first spell book may be an item inherited from a mysterious ancestor, stolen from a cruel master, or meticulously copied under the tutelage of a mentor. The player should roll or choose one of the following books.
+A Level 1 magi possesses a single spell book and has learned to cast the spells it describes. A magician’s first spell book may be an item inherited from a mysterious ancestor, stolen from a cruel master, or meticulously copied under the tutelage of a mentor. The player should roll or choose one of the following books.
 
   * **Charms of the Fey Court:** Contains the following Rank 1 spells: [[Fairy Servant]], [[Ingratiate]], [[Ventriloquism]].
   * **Hogbrand’s Incandescence:** Contains the following Rank 1 spells: [[Firelight]], [[Ignite / Extinguish]], [[Shield of Force]].
@@ -34,11 +34,11 @@ A Level 1 magician possesses a single spell book and has learned to cast the spe
 
 See [[Arcane Magic]] for full details on arcane magic, including learning spells, spell memorisation, and the list of spells that magicians can learn.
 
-**Spell casting:** The Magician Spells Per Day table shows the number of spells a magician may memorise, determined by the character’s Level. For example, a Level 3 magician may memorise at most two Rank 1 spells and one Rank 2 spell.
+**Spell casting:** The Magi Spells Per Day table shows the number of spells a magi may memorise, determined by the character’s Level. For example, a Level 3 magi may memorise at most two Rank 1 spells and one Rank 2 spell.
 
-**Using magic items:** Magicians can use magic items exclusive to arcane spell-casters (for example, magic wands or scrolls of arcane spells).
+**Using magic items:** Magi can use magic items exclusive to arcane spell-casters (for example, magic wands or scrolls of arcane spells).
 
-==== Magician Spells Per Day ====
+==== Magi Spells Per Day ====
 
 ^ ^  Spell Rank  ^^^^^^
 ^ Level^ 1^ 2^ 3^ 4^ 5^ 6^
@@ -58,25 +58,25 @@ See [[Arcane Magic]] for full details on arcane magic, including learning spells
 | 14| 5| 4| 4| 3| 3| 2|
 | 15| 5| 4| 4| 3| 3| 3|
 
-===== Magician Skills =====
+===== Magi Skills =====
 
-Magicians have one additional, specialised skill. The Magician Skill Targets table lists the character’s Skill Targets as they advance in level.
+Magi have one additional, specialised skill. The Magi Skill Targets table lists the character’s Skill Targets as they advance in level.
 
 ==== Detect Magic ====
 
-A magician can attempt to detect the subtle resonances woven into an enchanted object, place, or creature. If the attempt succeeds, the magician knows if the object, place, or creature in question is magical—i.e. enchanted, affected by a spell, or possessed of innate magic of some kind.
+A magi can attempt to detect the subtle resonances woven into an enchanted object, place, or creature. If the attempt succeeds, the magi knows if the object, place, or creature in question is magical—i.e. enchanted, affected by a spell, or possessed of innate magic of some kind.
 
-**Requirements:** The magician must touch the object, place, or creature to be analysed and concentrate without distraction.
+**Requirements:** The magi must touch the object, place, or creature to be analysed and concentrate without distraction.
 
 **Time:** Each attempt to detect magic requires 1 Turn.
 
-**Retrying:** The magician may retry failed attempts as often as they wish, each attempt requiring an additional 1 Turn.
+**Retrying:** The magi may retry failed attempts as often as they wish, each attempt requiring an additional 1 Turn.
 
 **Referee rolls:** The Referee rolls all Detect Magic Checks, so that players do not know if the roll failed or if there is no magic present.
 
-**Downtime:** Given an hour of solitude in a safe location, a magician automatically detects magic on an object, place, or creature.
+**Downtime:** Given an hour of solitude in a safe location, a magi automatically detects magic on an object, place, or creature.
 
-===== Magician Skill Targets =====
+===== Magi Skill Targets =====
 
 ^ Level^ Detect Magic^
 | 1| 6|
@@ -90,7 +90,7 @@ A magician can attempt to detect the subtle resonances woven into an enchanted o
 | 9| 3|
 | 10+| 3|
 
-===== Magician Advancement =====
+===== Magi Advancement =====
 
 ^ ^ ^ ^ ^  Save Targets  ^^^^^
 ^ Level^ XP^ Hit Points^ Attack^ Doom^ Ray^ Hold^ Blast^ Spell^
