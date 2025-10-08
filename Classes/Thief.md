@@ -4,7 +4,7 @@ layout: default
 parent: Classes
 ---
 
-====== Thief ======
+# Thief 
 
   * **Prime Abilities:** Dexterity
   * **Hit Points:** 1d4 per Level, +1 after Level 10
@@ -14,7 +14,7 @@ parent: Classes
 
 Inveterate scoundrels, thieves are always on the lookout for their next mark, scam, or get rich quick scheme. Many thieves are drawn to a life of adventure, relishing exploration, peril, and the promise of great wealth.
 
-==== Starting Equipment ====
+#### Starting Equipment 
 
 **Armour (roll 1d6):** 1–3. None. 4–6. Leather.
 
@@ -22,7 +22,7 @@ Inveterate scoundrels, thieves are always on the lookout for their next mark, sc
 
 **Class items:** Thieves’ tools.
 
-===== Back-Stab =====
+## Back-Stab 
 
 Thieves are proficient in dealing deadly blows when attacking from behind with a dagger in melee.
 
@@ -32,11 +32,11 @@ Thieves are proficient in dealing deadly blows when attacking from behind with a
 
 **Bonuses:** The thief gains a +4 Attack bonus and inflicts 3d4 damage (modified by Strength) on a successful strike. Magic daggers also add their enchantment bonus to back-stab damage.
 
-===== Thief Skills =====
+## Thief Skills 
 
 As they advance in level, thieves improve their chance of success with the Listen and Search skills. They also have six additional, specialised skills. The Thief Skill Targets table lists the character’s Skill Targets as they advance in Level.
 
-==== Climb Wall ====
+### Climb Wall 
 
 A successful check allows a thief to climb vertical or very steep surfaces with only minimal handholds. The thief does not require any special climbing equipment.
 
@@ -50,13 +50,13 @@ A successful check allows a thief to climb vertical or very steep surfaces with 
 
 **Retrying:** The thief may retry failed attempts as often as they wish, each subsequent attempt requiring 1 Turn.
 
-==== Decipher Document ====
+### Decipher Document 
 
 A successful check allows a thief to understand the gist of a non-magical text in a language they do not speak, unravel a cypher, or identify cryptically labelled landmarks on a map.
 
 **Retrying:** The thief may only attempt to read the same document again after gaining a Level.
 
-==== Disarm Mechanism ====
+### Disarm Mechanism 
 
 A successful check allows a thief to disarm complex, clockwork-like trap mechanisms hidden in a lock, lid, door handle, or similar. Thieves’ tools are required for disarming mechanism traps (see [[Adventuring Gear]]).
 
@@ -66,7 +66,7 @@ A successful check allows a thief to disarm complex, clockwork-like trap mechani
 
 **Natural 1:** On a roll of natural 1, the thief must Save Versus Doom or accidentally spring the trap.
 
-==== Legerdemain ====
+### Legerdemain 
 
 A successful check allows a thief to pilfer a small item in the possession of another creature or perform a trick of sleight of hand, such as palming a small object or slipping a poison into a drink.
 
@@ -74,7 +74,7 @@ A successful check allows a thief to pilfer a small item in the possession of an
 
 **Natural 1:** On a roll of natural 1, the thief must Save Versus Doom to avoid being noticed. The Referee determines the victim’s reaction.
 
-==== Pick Lock ====
+### Pick Lock 
 
 A successful check allows a thief to open a lock without the key. Thieves’ tools are required for picking locks (see [[Adventuring Gear]]).
 
@@ -84,13 +84,13 @@ A successful check allows a thief to open a lock without the key. Thieves’ too
 
 **Difficult locks:** The Referee may rule that certain locks are more difficult. Advanced locks incur a penalty to the Pick Lock Check or only allow a fixed number of attempts, after which the thief is stymied and may only try again after gaining a Level.
 
-==== Stealth ====
+### Stealth 
 
 **Hiding:** A thief may make a Stealth Check to remain undetected when shadows are the only cover available. See Hiding and Ambushes under [[Hazards and Challenges#Stealth]].
 
 **Sneaking:** If a Surprise Roll indicates that a thief’s party has been detected, the thief may make a Stealth Check to remain undetected. See [[Encounters#Surprise]] and Sneaking under [[Hazards and Challenges#Stealth]].
 
-===== Thief Skill Targets =====
+#### Thief Skill Targets 
 
 ^ Level^ Climb Wall^ Decipher Doc.^ Disarm Mech.^ Legerdemain^ Listen^ Pick Lock^ Search^ Stealth^
 | 1| 4| 6| 6| 6| 6| 5| 6| 5|
@@ -109,7 +109,7 @@ A successful check allows a thief to open a lock without the key. Thieves’ too
 | 14| 2| 3| 2| 3| 2| 2| 2| 2|
 | 15| 2| 2| 2| 2| 2| 2| 2| 2|
 
-==== Customising Thief Skills (Optional Rule) ====
+#### Customising Thief Skills (Optional Rule) 
 
 The Thief Skill Targets table lists the standard skill progression, granting a balanced advancement across all skills. Players wishing to customise their character’s skill advancement may use this optional rule.
 
@@ -123,11 +123,11 @@ The Thief Skill Targets table lists the standard skill progression, granting a b
 
 **Minimum Skill Target:** No Skill Target may be lowered below 2.
 
-===== Thieves’ Cant =====
+### Thieves’ Cant 
 
 In addition to their native languages, thieves learn a secret language of gestures and code words that allows them to hide messages in seemingly normal conversations.
 
-===== Thief Advancement =====
+## Thief Advancement 
 
 ^ ^ ^ ^ ^  Save Targets  ^^^^^
 ^ Level^ XP^ Hit Points^ Attack^ Doom^ Ray^ Hold^ Blast^ Spell^

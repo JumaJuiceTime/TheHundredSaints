@@ -62,15 +62,15 @@ Somatophylakes of Levels 1–2 are known as a phylax and are not yet regarded as
 
 **Hospitality:** Once appointed, the character earns rights of hospitality and aid from nobles and other somatophylax of the same Alignment. Hospitality extends to any companions the somatophylax is willing to vouch for. The somatophylax is expected to extend such hospitality in kind.
 
-#### Somatophylax Skills 
-##### Decipher Document
+### Somatophylax Skills 
+#### Decipher Document
 A somatophylax can Decipher Documents 
 A successful check allows a somatophylax to understand the gist of a non-magical text in a language they do not speak, unravel a cypher, or identify cryptically labelled landmarks on a map.
 
 Retrying: The somatophylax may only attempt to read the same document again after gaining a Level.
-##### Alertness
+#### Alertness
 If a somatophylax's party is surprised, the phylax may make an Alertness Check to act normally in the Surprise Round. See Surprise.
-##### Tumbling
+#### Tumbling
 When able to tumble, phylakes suffer no damage from the first 10' fallen.
 
 ### Monster Slayer 
@@ -92,7 +92,7 @@ Somatophylakes gain a +2 bonus to Saving Throws against magic and effects that c
   - **House Nodlock (Neutral):** Bombastic and decaying. Under the rulership of Lord Harald Nodlock.
   - **House Ramius (Neutral):** Dignified and shrewd. One of the ancient breggle noble houses, under the rulership of Lord Shadgore Ramius.
 
-### Somatophylax Advancement 
+## Somatophylax Advancement 
 
 ^ ^ ^ ^ ^  Save Targets  ^^^^^
 ^ Level^ XP^ Hit Points^ Attack^ Doom^ Ray^ Hold^ Blast^ Spell^
