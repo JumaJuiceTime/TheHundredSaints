@@ -14,14 +14,15 @@ High or low Ability Scores may grant a bonus or penalty associated with other ro
 
 ==== Ability Modifiers ====
 
-^ Ability Score^ Modifier^
-| 3| –3|
-| 4–5| –2|
-| 6–8| –1|
-| 9–12| None|
-| 13–15| +1|
-| 16–17| +2|
-| 18| +3|
+| Ability Score | Modifier |
+| :---: | :---: |
+| 3 | –3 |
+| 4–5 | –2 |
+| 6–8 | –1 |
+| 9–12 | None |
+| 13–15 | +1 |
+| 16–17 | +2 |
+| 18 | +3 |
 
 ===== Ability Checks =====
 
@@ -30,18 +31,6 @@ The rules sometimes call for an Ability Check (see [[Core Rules#Ability Checks]]
 ===== Prime Abilities =====
 
 Each Class has one or more Prime Abilities of special importance to its function. For example, fighters rely on Strength and magicians rely on Intelligence.
-
-**XP modifier:** A character’s score in their Prime Ability determines a modifier applied to all Experience Points earned, as shown in the Prime Ability XP Modifiers table. 
-
-**Multiple Prime Abilities:** For Classes with multiple Prime Abilities, the lowest score determines a character’s XP modifier. For example, a bard with 8 Dexterity and 15 Charisma would suffer a –10% penalty to XP.
-
-==== Prime Ability XP Modifiers ====
-
-^ Prime Ability Score^ XP Modifier^
-| 3–5| –20%|
-| 6–8| –10%|
-| 13–15| +5%|
-| 16–18| +10%|
 
 ===== Strength =====
 

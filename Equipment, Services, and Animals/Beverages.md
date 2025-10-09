@@ -40,48 +40,51 @@ An inebriated character who ceases to drink loses one level of inebriation every
 
 ### Common Beverages 
 
-^ d8^ Name^ Type^ Cost^
-| 1| Barrowblaster| Beer / cider| 9cp|
-| 2| Keye’s Balm| Beer / cider| 1sp|
-| 3| Marrowhyte Dark| Beer / cider| 2sp|
-| 4| Pilston’s Heartbreaker| Beer / cider| 4cp|
-| 5| Bard’s Cordial| Spirit| 2sp|
-| 6| Old Swythener| Spirit| 5cp|
-| 7| Prigwort Tipple| Spirit| 3sp|
-| 8| Mason’s| Tea| 1cp|
+| d8 | Name | Type | Cost |
+| :---: | :---: | :---: | :---: |
+| 1 | Barrowblaster | Beer / cider | 9cp |
+| 2 | Keye’s Balm | Beer / cider | 1sp |
+| 3 | Marrowhyte Dark | Beer / cider | 2sp |
+| 4 | Pilston’s Heartbreaker | Beer / cider | 4cp |
+| 5 | Bard’s Cordial | Spirit | 2sp |
+| 6 | Old Swythener | Spirit | 5cp |
+| 7 | Prigwort Tipple | Spirit | 3sp |
+| 8 | Mason’s | Tea | 1cp |
 
 ### Uncommon Beverages 
 
-^ d20^ Name^ Type^ Cost^
-| 1–2| Cobsworth Pale| Beer / cider| 5sp|
-| 3| Halthwidden’s| Beer / cider| 3sp|
-| 4| Merryweather| Beer / cider| 4sp|
-| 5–6| Tithelands Cider| Beer / cider| 2sp|
-| 7| Glubwob| Specialist| 2sp|
-| 8–9| Mead| Specialist| 12sp|
-| 10| Distillation of Dusk| Spirit| 7sp|
-| 11| Ether of Blue| Spirit| 5sp|
-| 12–13| Pokey Nog| Spirit| 5sp|
-| 14| Porrid’s Full Moon| Spirit| 1sp|
-| 15| The Night Liqueur| Spirit| 6sp|
-| 16| Wakelyke’s Scarlet| Spirit| 4cp|
-| 17| Earl Yellow| Tea| 5cp|
-| 18| Buckston Fizz| Wine| 12sp|
-| 19| Faggley’s Iced| Wine| 14sp|
-| 20| Inkling Wine| Wine| 11sp|
+| d20 | Name | Type | Cost |
+| :---: | :---: | :---: | :---: |
+| 1–2 | Cobsworth Pale | Beer / cider | 5sp |
+| 3 | Halthwidden’s | Beer / cider | 3sp |
+| 4 | Merryweather | Beer / cider | 4sp |
+| 5–6 | Tithelands Cider | Beer / cider | 2sp |
+| 7 | Glubwob | Specialist | 2sp |
+| 8–9 | Mead | Specialist | 12sp |
+| 10 | Distillation of Dusk | Spirit | 7sp |
+| 11 | Ether of Blue | Spirit | 5sp |
+| 12–13 | Pokey Nog | Spirit | 5sp |
+| 14 | Porrid’s Full Moon | Spirit | 1sp |
+| 15 | The Night Liqueur | Spirit | 6sp |
+| 16 | Wakelyke’s Scarlet | Spirit | 4cp |
+| 17 | Earl Yellow | Tea | 5cp |
+| 18 | Buckston Fizz | Wine | 12sp |
+| 19 | Faggley’s Iced | Wine | 14sp |
+| 20 | Inkling Wine | Wine | 11sp |
 
 ### Rare Beverages 
 
-^ d12^ Name^ Type^ Cost^
-| 1| Moon’s Milk| Specialist| 2sp|
-| 2–3| Nippers| Specialist| 5sp|
-| 4| Lord Oberon’s Ambrosial| Spirit| 1gp|
-| 5–6| Prigwort Pure| Spirit| 7sp|
-| 7| Purple Aspintheon| Spirit| 1gp|
-| 8–9| Tomfoy’s| Tea| 1sp|
-| 10| Lady Mauve| Wine| 3gp|
-| 11| The Cold Prince| Wine| 35sp|
-| 12| Underbrood’s Vintage| Wine| 5gp|
+| d12 | Name | Type | Cost |
+| :---: | :---: | :---: | :---: |
+| 1 | Moon’s Milk | Specialist | 2sp |
+| 2–3 | Nippers | Specialist | 5sp |
+| 4 | Lord Oberon’s Ambrosial | Spirit | 1gp |
+| 5–6 | Prigwort Pure | Spirit | 7sp |
+| 7 | Purple Aspintheon | Spirit | 1gp |
+| 8–9 | Tomfoy’s | Tea | 1sp |
+| 10 | Lady Mauve | Wine | 3gp |
+| 11 | The Cold Prince | Wine | 35sp |
+| 12 | Underbrood’s Vintage | Wine | 5gp |
 
 ### Bottles and Casks 
 

@@ -47,26 +47,27 @@ Herbalists and apothecaries are often interested in purchasing herbs or mushroom
 
 ## Price List 
 
-^ Item^ Cost (gp)^ Type^ Availability^
-| Arrowhame| 100| Plant| 1-in-6|
-| Blood Canker| 50| Fungus| 3-in-6|
-| Bosun’s Balm| 50| Plant| 3-in-6|
-| Fenob| 40| Plant| Always|
-| Gillywort| 50| Plant| 3-in-6|
-| Grue’s Ear| 200| Fungus| Always|
-| Hogscap| 125| Fungus| 1-in-6|
-| Lankswith| 15| Plant| Always|
-| Lilywhite| 25| Plant| 3-in-6|
-| Marshwick| 200| Plant| 3-in-6|
-| Moonhaw| 100| Plant| 1-in-6|
-| Ofteritch| 150| Plant| 3-in-6|
-| Sallow Parsley| 80| Plant| 3-in-6|
-| Smottlebread| 25| Fungus| 3-in-6|
-| Spirithame| 80| Plant| 3-in-6|
-| Tom-a-Merry| 150| Fungus| 1-in-6|
-| Wallowmost| 150| Plant| 1-in-6|
-| Wayfarrow| 100| Plant| Always|
-| Witch’s Oyster| 50| Fungus| 1-in-6|
-| Wolfsbane| 25| Plant| 3-in-6|
+| Item | Cost (gp) | Type | Availability |
+| :---: | :---: | :---: | :---: |
+| Arrowhame | 100 | Plant | 1-in-6 |
+| Blood Canker | 50 | Fungus | 3-in-6 |
+| Bosun’s Balm | 50 | Plant | 3-in-6 |
+| Fenob | 40 | Plant | Always |
+| Gillywort | 50 | Plant | 3-in-6 |
+| Grue’s Ear | 200 | Fungus | Always |
+| Hogscap | 125 | Fungus | 1-in-6 |
+| Lankswith | 15 | Plant | Always |
+| Lilywhite | 25 | Plant | 3-in-6 |
+| Marshwick | 200 | Plant | 3-in-6 |
+| Moonhaw | 100 | Plant | 1-in-6 |
+| Ofteritch | 150 | Plant | 3-in-6 |
+| Sallow Parsley | 80 | Plant | 3-in-6 |
+| Smottlebread | 25 | Fungus | 3-in-6 |
+| Spirithame | 80 | Plant | 3-in-6 |
+| Tom-a-Merry | 150 | Fungus | 1-in-6 |
+| Wallowmost | 150 | Plant | 1-in-6 |
+| Wayfarrow | 100 | Plant | Always |
+| Witch’s Oyster | 50 | Fungus | 1-in-6 |
+| Wolfsbane | 25 | Plant | 3-in-6 |
 
 **Encumbrance:** Each portion of a fungus or herb weighs 4 coins.

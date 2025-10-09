@@ -38,7 +38,7 @@ A character’s advancement in the game is tracked by the accumulation of experi
 
 ===== Prime Abilities =====
 
-The Ability (or Abilities) most important to a character’s Class. A character with high scores in their Prime Abilities may gain a bonus to Experience Points awarded by the Referee. Conversely, a character with a low score in a Prime Ability may suffer a penalty to awarded Experience Points. See [[Ability Scores#Prime Abilities]].
+The Ability (or Abilities) most important to a character’s Class. 
 
 ===== Hit Points (HP) =====
 

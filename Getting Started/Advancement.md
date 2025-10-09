@@ -20,10 +20,6 @@ A party that survives an adventure and returns to safety gains Experience Points
 
 All XP awarded to the party is totalled and divided evenly between all party members who survived the adventure. Awarded XP is always divided evenly, irrespective of how the party decides to divide treasure.
 
-==== Prime Ability XP Modifiers ====
-
-Characters with especially low or high scores in their Class’s Prime Abilities receive a bonus or penalty applied to XP awarded to them (see [[Ability Scores#Prime Abilities]]).
-
 ==== Retainers ====
 
 [[Retainers]] are treated somewhat differently than Player Characters.

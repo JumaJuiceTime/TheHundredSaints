@@ -26,12 +26,13 @@ When a search for potential retainers succeeds, roll on the Applicants by Settle
 
 ==== Applicants by Settlement Size ====
 
-^ Settlement^ Townsfolk^ Adventurers^
-| Hamlet| 1d2| –|
-| Village| 1d4| 1|
-| Small Town| 1d6| 1d3|
-| Large Town| 2d4| 1d4|
-| City| 2d6| 1d6|
+| Settlement | Townsfolk | Adventurers |
+| :---: | :---: | :---: |
+| Hamlet | 1d2 | – |
+| Village | 1d4 | 1 |
+| Small Town | 1d6 | 1d3 |
+| Large Town | 2d4 | 1d4 |
+| City | 2d6 | 1d6 |
 
 ==== Townsfolk ====
 
@@ -67,13 +68,10 @@ Independent, Level 1 adventurers of a specific Class.
 | 5| Grimalkin| 12| Woodgrue|
 
 ==== Adventurer Class by Kindred ====
-^ Kindred^ Bard^ Cleric^ Enchanter^ Fighter^ Friar^ Hunter^ Knight^ Magician^ Thief^
-| Breggle| 1| 2| 3| 4–8| 9| 10–11| 12–15| 16–18| 19–20|
-| Elf| 1–2| –| 3–8| 9–12| –| 13–15| –| 16–17| 18–20|
-| Grimalkin| 1–4| –| 5–8| 9–10| –| 11–14| –| 15–16| 17–20|
-| Human| 1–2| 3–5| 6| 7–10| 11–12| 13–14| 15–16| 17–18| 19–20|
-| Mossling| 1–3| –| 4| 5–10| –| 11–16| –| 17| 18–20|
-| Woodgrue| 1–5| –| 6–8| 9–10| –| 11–14| –| 15–16| 17–20|
+| Kindred | Bard | Cleric | Enchanter | Fighter | Friar | Hunter | Knight | Magician | Thief |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Human | 1–2 | 3–5 | 6 | 7–10 | 11–12 | 13–14 | 15–16 | 17–18 | 19–20 |
+
 
 ===== Offering Wages =====
 
@@ -81,12 +79,13 @@ Once an applicant has been located, the hiring PC must explain what the job enta
 
 ==== Typical Wages ====
 
-^ Offer Generosity^ Reaction Modifier^ Townsfolk Daily Rate^ Adventurer Loot Share^
-| Mean| –2| 2sp| 1/4 share|
-| Poor| –1| 5sp| 1/3 share|
-| Standard| –| 1gp| 1/2 share|
-| Decent| 1| 5gp| 2/3 share|
-| Lavish| 2| 10gp| Full share|
+| Offer Generosity | Reaction Modifier | Townsfolk Daily Rate | Adventurer Loot Share |
+| :---: | :---: | :---: | :---: |
+| Mean | –2 | 2sp | 1/4 share |
+| Poor | –1 | 5sp | 1/3 share |
+| Standard | – | 1gp | 1/2 share |
+| Decent | 1 | 5gp | 2/3 share |
+| Lavish | 2 | 10gp | Full share |
 
 ==== Shares of Treasure ====
 
@@ -106,12 +105,13 @@ The applicant’s reaction to the offer is determined by rolling on the Hiring R
 
 ==== Hiring Reactions ====
 
-^ 2d6^ Reaction^
-| 2 or less| Angry refusal. Hiring reaction rolls for other applicants present suffer a –1 penalty|
-| 3–5| Refusal|
-| 6–8| Uncertain. Will accept an improved offer|
-| 9–11| Acceptance|
-| 12 or more| Keen acceptance. +1 bonus to Loyalty|
+| 2d6 | Reaction |
+| :---: | :---: |
+| 2 or less | Angry refusal. Hiring reaction rolls for other applicants present suffer a –1 penalty |
+| 3–5 | Refusal |
+| 6–8 | Uncertain. Will accept an improved offer |
+| 9–11 | Acceptance |
+| 12 or more | Keen acceptance. +1 bonus to Loyalty |
 
 ===== Retainer Loyalty =====
 

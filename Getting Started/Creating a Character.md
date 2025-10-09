@@ -28,16 +28,18 @@ Select one of the available Classes, bearing in mind the Prime Abilities of each
 
 ==== Summary of Classes ====
 
-^ Class^ Prime Abilities^ Hit Points^ Combat Aptitude^ Main Class Capabilities^
-| [[Bard]]| Charisma and Dexterity| 1d6| Semi-martial| Counter charm, enchantment, decipher script, folklore|
-| [[Cleric]]| Wisdom| 1d6| Semi-martial| Holy magic (from Level 2), holy order, turn undead|
-| [[Enchanter]]| Charisma and Intelligence| 1d6| Semi-martial| Glamours, fairy runes, detect magic, use arcane items|
-| [[Fighter]]| Strength| 1d8| Martial| Combat talents|
-| [[Friar]]| Intelligence and Wisdom| 1d4| Non-martial| Herbalism, holy magic (from Level 1), turn undead|
-| [[Hunter]]| Constitution and Dexterity| 1d8| Martial| Animal companion, alertness, tracking, missile attacks|
-| [[Knight]]| Charisma and Strength| 1d8| Martial| Horsemanship, monster slayer, strength of will|
-| [[Magician]]| Intelligence| 1d4| Non-martial| Arcane magic, detect magic|
-| [[Thief]]| Dexterity| 1d4| Semi-martial| Back-stab, climb, decipher script, disarm traps, pick locks|
+| Class | Prime Abilities | Hit Points | Combat Aptitude | Main Class Capabilities |
+| :---: | :---: | :---: | :---: | :---: |
+| Bard | Charisma and Dexterity | 1d6 | Semi-martial | Counter charm, enchantment, decipher script, folklore |
+| Klerikos | Wisdom | 1d6 | Semi-martial | Holy magic (from Level 2), holy order, turn undead |
+| Enchanter | Charisma and Intelligence | 1d6 | Semi-martial | Glamours, fairy runes, detect magic, use arcane items |
+| Fighter | Strength | 1d8 | Martial | Combat talents |
+| Hiereus | Intelligence and Wisdom | 1d4 | Non-martial | Herbalism, holy magic (from Level 1), turn undead |
+| Hunter | Constitution and Dexterity | 1d8 | Martial | Animal companion, alertness, tracking, missile attacks |
+| Scholae Palatinae | Charisma and Strength | 1d8 | Martial | Horsemanship, monster slayer, strength of will |
+| Somatophylax | Charisma and Strength | 1d8 | Martial | Intrigue, monster slayer, strength of will |
+| Magi | Intelligence | 1d4 | Non-martial | Arcane magic, detect magic |
+| Thief | Dexterity | 1d4 | Semi-martial | Back-stab, climb, decipher script, disarm traps, pick locks |
 
 ===== 4. Adjust Ability Scores =====
 
@@ -83,27 +85,28 @@ Your character’s starting equipment is determined by a few die rolls. Characte
 
 ==== Adventuring Items ====
 
-^ d20^ Item^
-| 1| Bedroll|
-| 2| Chalk (10 sticks)|
-| 3| Chisel|
-| 4| Cooking pots|
-| 5| Crowbar|
-| 6| Firewood (bundle)|
-| 7| Grappling hook|
-| 8| Ink, quill, 5 sheets paper|
-| 9| Iron spikes (12)|
-| 10| Lantern (hooded)|
-| 11| Marbles (bag of 20)|
-| 12| Oil flask|
-| 13| Rope (50′)|
-| 14| Sack|
-| 15| Shovel|
-| 16| Sledgehammer|
-| 17| Small hammer|
-| 18| Tent|
-| 19| Torches (3)|
-| 20| Twine (100′ ball)|
+| d20 | Item |
+| :---: | :---: |
+| 1 | Bedroll |
+| 2 | Chalk (10 sticks) |
+| 3 | Chisel |
+| 4 | Cooking pots |
+| 5 | Crowbar |
+| 6 | Firewood (bundle) |
+| 7 | Grappling hook |
+| 8 | Ink, quill, 5 sheets paper |
+| 9 | Iron spikes (12) |
+| 10 | Lantern (hooded) |
+| 11 | Marbles (bag of 20) |
+| 12 | Oil flask |
+| 13 | Rope (50′) |
+| 14 | Sack |
+| 15 | Shovel |
+| 16 | Sledgehammer |
+| 17 | Small hammer |
+| 18 | Tent |
+| 19 | Torches (3) |
+| 20 | Twine (100′ ball) |
 
 ==== Buying Equipment (Optional Rule) ====
 

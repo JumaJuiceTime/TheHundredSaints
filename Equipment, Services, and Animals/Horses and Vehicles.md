@@ -8,22 +8,24 @@ parent: Equipment, Services, and Animals
 
 ## Horses 
 
-^ Horse^ Cost (gp)^ Load^ Type^
-| Charger| 250| 4,000| War|
-| Dapple-doff| 40| 5,000| Draft|
-| Hop-clopper| 80| 5,000| Draft|
-| Mule| 30| 2,500| Mule|
-| Prigwort prancer| 75| 3,000| Riding|
-| Yellow-flank| 250| 3,500| Riding|
+| Horse | Cost (gp) | Load | Type |
+| :---: | :---: | :---: | :---: |
+| Charger | 250 | 4,000 | War |
+| Dapple-doff | 40 | 5,000 | Draft |
+| Hop-clopper | 80 | 5,000 | Draft |
+| Mule | 30 | 2,500 | Mule |
+| Prigwort prancer | 75 | 3,000 | Riding |
+| Yellow-flank | 250 | 3,500 | Riding |
 
 ### Accessories 
 
-^ Item^ Cost^ Weight^
-| Feed (1 day)| 5cp| 100|
-| Horse barding (+2 AC)| 150gp| 600|
-| Pack saddle and bridle| 10gp| 150|
-| Riding saddle and bridle| 25gp| 300|
-| Riding saddle bags| 5gp| 100|
+| Item | Cost | Weight |
+| :---: | :---: | :---: |
+| Feed (1 day) | 5cp | 100 |
+| Horse barding (+2 AC) | 150gp | 600 |
+| Pack saddle and bridle | 10gp | 150 |
+| Riding saddle and bridle | 25gp | 300 |
+| Riding saddle bags | 5gp | 100 |
 
 ### Horses 
 
@@ -97,19 +99,21 @@ Riding horses have Speed higher than 40, but can only move at this rate for shor
 
 ## Land Vehicles 
 
-^ Vehicle^ Cost (gp)^ AC^ HP^ Speed^ Cargo^ Animals^
-| Cart| 100| 10| 1d4| 30| 10,000| 1 draft horse or 2 mules|
-| Wagon| 200| 10| 2d4| 30| 20,000| 2 draft horses or 4 mules|
+| Vehicle | Cost (gp) | AC | HP | Speed | Cargo | Animals |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cart | 100 | 10 | 1d4 | 30 | 10,000 | 1 draft horse or 2 mules |
+| Wagon | 200 | 10 | 2d4 | 30 | 20,000 | 2 draft horses or 4 mules |
 
 ## Water Vehicles 
 
-^ Vehicle^ Cost (gp)^ AC^ HP^ Speed^ Cargo^ Crew^
-| Barge| 500| 11| 1d20 + 20| 30| 160,000| 2–4 sailors|
-| Canoe| 30| 10| 1d4| 60| 5,000| 1–2 untrained|
-| Fishing boat| 350| 12| 1d20 + 20| 60| 25,000| 1–2 sailors|
-| Raft| 1gp per sq.ft.| 10| 5 per 10′ sq.| 20| 500 per sq.ft.| 1 untrained|
-| Raft, makeshift| –| 10| 3 per 10′ sq.| 20| 250 per sq.ft.| 1 untrained|
-| Rowing boat| 25| 10| 2d4| 40| 5,000| 1–2 untrained|
+| Vehicle | Cost (gp) | AC | HP | Speed | Cargo | Crew |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Barge | 500 | 11 | 1d20 + 20 | 30 | 160,000 | 2–4 sailors |
+| Canoe | 30 | 10 | 1d4 | 60 | 5,000 | 1–2 untrained |
+| Fishing boat | 350 | 12 | 1d20 + 20 | 60 | 25,000 | 1–2 sailors |
+| Raft | 1gp per sq.ft. | 10 | 5 per 10′ sq. | 20 | 500 per sq.ft. | 1 untrained |
+| Raft, makeshift | – | 10 | 3 per 10′ sq. | 20 | 250 per sq.ft. | 1 untrained |
+| Rowing boat | 25 | 10 | 2d4 | 40 | 5,000 | 1–2 untrained |
 
 ### Land Vehicles 
 

@@ -26,36 +26,38 @@ If the hour passes undisturbed, the player may make an Intelligence Check. If se
 
 ==== Pipes ====
 
-^ Item^ Cost (gp)^
-| Bog-oak pipe| 15|
-| Cherry-wood pipe| 5|
-| Clay pipe| 1|
-| Gourd pipe (mossling style)| 2|
+| Item | Cost (gp) |
+| :---: | :---: |
+| Bog-oak pipe | 15 |
+| Cherry-wood pipe | 5 |
+| Clay pipe | 1 |
+| Gourd pipe (mossling style) | 2 |
 
 **Encumbrance:** Pipes weigh 10 coins.
 
 ==== Pipeleaf (Cost per Smoke) ====
 
-^ Type^ Cost^ Availability^
-| Barley Blend| 4 cp| Always|
-| Burglar’s Blend| 3 cp| 3-in-6|
-| Crofter’s Daughter| 5 cp| Always|
-| Dusty Abbot| 2 sp| 1-in-6|
-| Fatty Lumper| 7 cp| 3-in-6|
-| Flufftop| 1 sp| 3-in-6|
-| Gamgy Weed| 5 cp| Always|
-| The Gibbet’s Gift| 7 cp| 3-in-6|
-| Green Jenny| 8 cp| 3-in-6|
-| Lanksbottom Leaf| 6 cp| Always|
-| Mogglemoss| 18 cp| 3-in-6|
-| Mummer’s Farce| 8 cp| Always|
-| Old Doby| 6 cp| Always|
-| Pedlar Puff| 7 cp| Always|
-| Shaggy Pony| 7 cp| Always|
-| Special Shag| 3 sp| 3-in-6|
-| Speckled Wyrm| 25 cp| 3-in-6|
-| Wayside Wisp| 25 cp| 1-in-6|
-| Westling’s Weed| 2 sp| 1-in-6|
-| Witch’s Shag| 8 cp| 3-in-6|
+| Type | Cost | Availability |
+| :---: | :---: | :---: |
+| Barley Blend | 4 cp | Always |
+| Burglar’s Blend | 3 cp | 3-in-6 |
+| Crofter’s Daughter | 5 cp | Always |
+| Dusty Abbot | 2 sp | 1-in-6 |
+| Fatty Lumper | 7 cp | 3-in-6 |
+| Flufftop | 1 sp | 3-in-6 |
+| Gamgy Weed | 5 cp | Always |
+| The Gibbet’s Gift | 7 cp | 3-in-6 |
+| Green Jenny | 8 cp | 3-in-6 |
+| Lanksbottom Leaf | 6 cp | Always |
+| Mogglemoss | 18 cp | 3-in-6 |
+| Mummer’s Farce | 8 cp | Always |
+| Old Doby | 6 cp | Always |
+| Pedlar Puff | 7 cp | Always |
+| Shaggy Pony | 7 cp | Always |
+| Special Shag | 3 sp | 3-in-6 |
+| Speckled Wyrm | 25 cp | 3-in-6 |
+| Wayside Wisp | 25 cp | 1-in-6 |
+| Westling’s Weed | 2 sp | 1-in-6 |
+| Witch’s Shag | 8 cp | 3-in-6 |
 
 **Encumbrance:** One smoke of pipeleaf weighs 1 coin.

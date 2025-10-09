@@ -8,21 +8,23 @@ parent: Equipment, Services, and Animals
 
 ## Hounds 
 
-^ Hound^ Cost (gp)^ Type^
-| Bloodhound| 25| Tracking|
-| Dapper| 60| Companion|
-| Dolmen pincher| 30| Hunting|
-| Lankston mastiff| 50| Guard dog|
-| Lichhound| 150| Undead ward|
-| Pisker| 75| Fairy ward|
-| Seelie dog| 60| Companion|
-| Spookhound| 120| Undead ward|
+| Hound | Cost (gp) | Type |
+| :---: | :---: | :---: |
+| Bloodhound | 25 | Tracking |
+| Dapper | 60 | Companion |
+| Dolmen pincher | 30 | Hunting |
+| Lankston mastiff | 50 | Guard dog |
+| Lichhound | 150 | Undead ward |
+| Pisker | 75 | Fairy ward |
+| Seelie dog | 60 | Companion |
+| Spookhound | 120 | Undead ward |
 
 ### Accessories 
 
-^ Item^ Cost (gp)^ Weight^
-| Dog armour (+2 AC)| 25| 200|
-| Feed (1 day)| 1| 20|
+| Item | Cost (gp) | Weight |
+| :---: | :---: | :---: |
+| Dog armour (+2 AC) | 25 | 200 |
+| Feed (1 day) | 1 | 20 |
 
 ### Hounds 
 
