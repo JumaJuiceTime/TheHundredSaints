@@ -1,4 +1,10 @@
-== Vessel Dimensions ==
+---
+title: Water Vessels
+layout: default
+parent: Equipment, Services, and Animals
+---
+
+## Vessel Dimensions
 
 A ship’s '''''beam''''' is its width and its '''''draft''''' is the depth it extends beneath the water.
 
@@ -7,82 +13,6 @@ A ship’s '''''beam''''' is its width and its '''''draft''''' is the depth it e
 The vessels described in this section span various historical periods, from the ancient period to the medieval. Not all types of vessels may be available in a campaign setting.
 
 == Seaworthy Vessels ==
-
-{| class="mw-datatable wikitable" style="text-align: center;"
-|+ style="caption-side: top; text-align: center;" | Seaworthy Vessels
-|-
-! scope="col" style="text-align:left;" | Vessel
-! scope="col" | Cost (gp)
-! scope="col" | Cargo Capacity<br />(Coins)
-! scope="col" style="text-align:left;" | Usage
-! scope="col" | Length
-! scope="col" | Beam
-! scope="col" | Draft
-|-
-| style="text-align:left;" | Lifeboat
-| 1,000
-| 15,000
-| style="text-align:left;" | Any
-| 20’
-| 4’–5’
-| 1’–2’
-|-
-| style="text-align:left;" | Longship
-| 15,000
-| 40,000
-| style="text-align:left;" | Any
-| 60’–80’
-| 10’–15’
-| 2’–3’
-|-
-| style="text-align:left;" | Sailing ship (large)
-| 20,000
-| 300,000
-| style="text-align:left;" | Coastal waters, open seas
-| 100’–150’
-| 25’–30’
-| 10’–12’
-|-
-| style="text-align:left;" | Sailing ship (small)
-| 5,000
-| 100,000
-| style="text-align:left;" | Coastal waters, open seas
-| 60’–80’
-| 20’–30’
-| 5’–8’
-|-
-| style="text-align:left;" | Troop transport (large)
-| 26,600
-| 300,000
-| style="text-align:left;" | Coastal waters, open seas
-| 100’–150’
-| 25’–30’
-| 10’–12’
-|-
-| style="text-align:left;" | Troop transport (small)
-| 6,600
-| 100,000
-| style="text-align:left;" | Coastal waters, open seas
-| 60’–80’
-| 20’–30’
-| 5’–8’
-|-
-| style="text-align:left;" | Warship (large)
-| 26,600
-| 300,000
-| style="text-align:left;" | Coastal waters, open seas
-| 100’–150’
-| 25’–30’
-| 10’–12’
-|-
-| style="text-align:left;" | Warship (small)
-| 6,600
-| 100,000
-| style="text-align:left;" | Coastal waters, open seas
-| 60’–80’
-| 20’–30’
-| 5’–8’
-|}
 
 === Descriptions ===
 
@@ -99,82 +29,6 @@ The vessels described in this section span various historical periods, from the 
 '''Warship (large, small):''' Vessels similar to normal sailing ships, but adapted for warfare, with space for [[mercenaries]] and catapults.
 
 == Unseaworthy Vessels ==
-
-{| class="mw-datatable wikitable" style="text-align: center;"
-|+ style="caption-side: top; text-align: center;" | Unseaworthy Vessels
-|-
-! scope="col" style="text-align:left;" | Vessel
-! scope="col" | Cost (gp)
-! scope="col" | Cargo Capacity<br />(Coins)
-! scope="col" style="text-align:left;" | Usage
-! scope="col" | Length
-! scope="col" | Beam
-! scope="col" | Draft
-|-
-| style="text-align:left;" | Boat (river)
-| 4,000
-| 30,000
-| style="text-align:left;" | Rivers, lakes
-| 20’–30’
-| 10’
-| 2’–3’
-|-
-| style="text-align:left;" | Boat (sailing)
-| 2,000
-| 20,000
-| style="text-align:left;" | Lakes, coastal waters
-| 20’–40’
-| 10’–15’
-| 2’–3’
-|-
-| style="text-align:left;" | Canoe
-| 50
-| 6,000
-| style="text-align:left;" | Rivers, swamps
-| 15’
-| 3’
-| 1’
-|-
-| style="text-align:left;" | Galley (large)
-| 30,000
-| 40,000
-| style="text-align:left;" | Coastal waters
-| 120’–150’
-| 15’–20’
-| 3’
-|-
-| style="text-align:left;" | Galley (small)
-| 10,000
-| 20,000
-| style="text-align:left;" | Coastal waters
-| 60’–100’
-| 10’–15’
-| 2’–3’
-|-
-| style="text-align:left;" | Galley (war)
-| 60,000
-| 60,000
-| style="text-align:left;" | Coastal waters
-| 120’–150’
-| 20’–30’
-| 4’–6’
-|-
-| style="text-align:left;" | Raft (makeshift)
-| &mdash;
-| 50 per square foot
-| style="text-align:left;" | Rivers, lakes
-| Varies
-| Varies
-| {{1/2}}’
-|-
-| style="text-align:left;" | Raft (professional)
-| 1gp per square foot
-| 100 per square foot
-| style="text-align:left;" | Rivers, lakes
-| Varies
-| Varies
-| {{1/2}}’
-|}
 
 === Descriptions ===
 
