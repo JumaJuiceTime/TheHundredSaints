@@ -4,6 +4,19 @@ layout: default
 parent: Equipment, Services, and Animals
 ---
 
+Specialist	Wage per Month
+Alchemist	1,000gp
+Animal trainer	500gp
+Armourer	100gp
+Assistant armourer	15gp
+Blacksmith	25gp
+Engineer	750gp
+Navigator	150gp
+Oarsman	2gp
+Sage	2,000gp
+Sailor	10gp
+Ship’s captain	250gp
+Spy	500gp (or more)
 
 All types of characters that PCs may wish to hire for non-combat and non-adventuring purposes (i.e. not [[mercenaries]] or [[retainers]]) are termed '''''specialists'''''.
 
@@ -18,48 +31,6 @@ Specialists can be located by posting notices or inquiring at suitable guilds. T
 == Wages and Upkeep ==
 
 The monthly rate of pay includes food and basic gear.
-
-{| class="mw-datatable wikitable" style="text-align: center;"
-|+ style="caption-side: top; text-align: center;" | Specialists
-! scope="col" style="text-align:left;" | Specialist
-! scope="col" | Wage per Month
-|-
-| style="text-align:left;" | Alchemist
-| 1,000gp
-|-
-| style="text-align:left;" | Animal trainer
-| 500gp
-|-
-| style="text-align:left;" | Armourer
-| 100gp
-|-
-| style="text-align:left;" | Assistant armourer
-| 15gp
-|-
-| style="text-align:left;" | Blacksmith
-| 25gp
-|-
-| style="text-align:left;" | Engineer
-| 750gp
-|-
-| style="text-align:left;" | Navigator
-| 150gp
-|-
-| style="text-align:left;" | Oarsman
-| 2gp
-|-
-| style="text-align:left;" | Sage
-| 2,000gp
-|-
-| style="text-align:left;" | Sailor
-| 10gp
-|-
-| style="text-align:left;" | Ship’s captain
-| 250gp
-|-
-| style="text-align:left;" | Spy
-| 500gp (or more)
-|}
 
 == Alchemist ==
 

@@ -4,13 +4,13 @@ layout: default
 parent: Equipment, Services, and Animals
 ---
 
-====== Common Fungi and Herbs ======
+# Common Fungi and Herbs 
 
-===== Availability =====
+## Availability 
 
 Lists the chance that an item is available in a settlement when sought (typically from a herbalist or apothecary).
 
-===== Common Fungi and Herbs =====
+## Common Fungi and Herbs 
 
   - **Arrowhame:** Tiny, dried leaves of a climbing plant. Rehydrated and applied as a paste to diseased flesh, grants a Save Versus Doom against a disease of magical origin. If the save succeeds, the disease recedes within 1d3 days. Repeat applications of Arrowhame are ineffective.
   - **Blood Canker:** Rust-red dried residue of a slime-mould prevalent in Mulchgrove. Mixed with alcohol and drunk, cures 1d3 Hit Points. Each usage of Blood Canker has a 2-in-6 chance of permanently reducing the character’s Constitution by 1.
@@ -33,19 +33,19 @@ Lists the chance that an item is available in a settlement when sought (typicall
   - **Witch’s Oyster:** Miniature, bright violet oyster mushrooms that grow in high tree branches. Boiling a portion and drinking the water induces a visionary trance lasting 1d4 hours. Upon awakening, the character gains an oracular insight into a topic that puzzles them. The Referee should describe the insight to the player, determining its accuracy by rolling 1d6: 1–2: the insight is entirely apposite and truthful, 3–4: the insight hints at the truth in a mysterious manner, 5–6: the insight is entirely misleading.
   - **Wolfsbane:** Long sprigs of purple flowers. Werewolves find Wolfsbane repulsive, but the bloom is odourless to others. A werewolf must make a successful Save Versus Doom each Round in order to make a melee attack against someone decorated with sprigs of Wolfsbane.
 
-===== Foraging =====
+### Foraging 
 
 When PCs forage in Dolmenwood, in addition to finding food, they may also come across interesting mushrooms or herbs. These may include the useful varieties listed here and other less well-known species that grow in the wild reaches of the Wood. The Referee determines the types of mushrooms or herbs found, depending on the region of the Wood being explored.
 
-==== Identifying Specimens ====
+### Identifying Specimens 
 
 The species of fungi and herbs listed here are common enough that all adventurers can identify them. Other species require the services of a herbalist. See [[Specialist Services]].
 
-==== Selling Foraged Specimens ====
+## Selling Foraged Specimens 
 
 Herbalists and apothecaries are often interested in purchasing herbs or mushrooms foraged from the woods. See [[Specialist Services]].
 
-===== Price List =====
+## Price List 
 
 ^ Item^ Cost (gp)^ Type^ Availability^
 | Arrowhame| 100| Plant| 1-in-6|

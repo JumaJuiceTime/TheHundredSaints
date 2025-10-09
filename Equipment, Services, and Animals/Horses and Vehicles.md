@@ -4,9 +4,9 @@ layout: default
 parent: Equipment, Services, and Animals
 ---
 
-====== Horses and Vehicles ======
+# Horses and Vehicles 
 
-===== Horses =====
+## Horses 
 
 ^ Horse^ Cost (gp)^ Load^ Type^
 | Charger| 250| 4,000| War|
@@ -16,7 +16,7 @@ parent: Equipment, Services, and Animals
 | Prigwort prancer| 75| 3,000| Riding|
 | Yellow-flank| 250| 3,500| Riding|
 
-===== Accessories =====
+### Accessories 
 
 ^ Item^ Cost^ Weight^
 | Feed (1 day)| 5cp| 100|
@@ -25,9 +25,9 @@ parent: Equipment, Services, and Animals
 | Riding saddle and bridle| 25gp| 300|
 | Riding saddle bags| 5gp| 100|
 
-===== Horses =====
+### Horses 
 
-==== Charger ====
+#### Charger 
 
 War horses bred for strength and courage in battle. Adapted to short bursts of speed; not suited to long-distance riding.
 
@@ -39,7 +39,7 @@ Level 3 AC 12 HP 3d8 (13) Saves D11 R12 H13 B14 S15 Att 2 hooves (+2, 1d6) Speed
 
 **Melee:** When in melee, both rider and horse can attack.
 
-==== Dapple-Doff ====
+#### Dapple-Doff 
 
 Mighty, shaggy-furred draft horses, bred for their great strength. Dull-witted and easily spooked.
 
@@ -47,7 +47,7 @@ Mighty, shaggy-furred draft horses, bred for their great strength. Dull-witted a
 
 Level 3 AC 12 HP 3d8 (13) Saves D11 R12 H13 B14 S15 Att None Speed 30 Morale 5 XP 40
 
-==== Hop-Clopper ====
+#### Hop-Clopper 
 
 Stocky, green-maned draft horses beloved by Prigwort breweries. Get tetchy without their daily pint of ale.
 
@@ -55,7 +55,7 @@ Stocky, green-maned draft horses beloved by Prigwort breweries. Get tetchy witho
 
 Level 3 AC 12 HP 3d8 (13) Saves D11 R12 H13 B14 S15 Att 2 hooves (+2, 1d4) Speed 30 Morale 7 XP 40
 
-==== Mule ====
+#### Mule 
 
 Stubborn horse/donkey cross-breeds used as beasts of burden. Unlike other horses, mules can be taken underground.
 
@@ -63,7 +63,7 @@ Stubborn horse/donkey cross-breeds used as beasts of burden. Unlike other horses
 
 Level 2 AC 12 HP 2d8 (9) Saves D12 R13 H14 B15 S16 Att Kick (+1, 1d4) or bite (+1, 1d3) Speed 40 Morale 8 XP 20
 
-==== Prigwort Prancer ====
+#### Prigwort Prancer 
 
 Lightly built horses adapted to run at high speed. Fond of snacking on acorns in the autumn.
 
@@ -71,7 +71,7 @@ Lightly built horses adapted to run at high speed. Fond of snacking on acorns in
 
 Level 2 AC 12 HP 2d8 (9) Saves D12 R13 H14 B15 S16  Att 2 hooves (+1, 1d4) Speed 80 Morale 7 XP 20
 
-==== Yellow-Flank ====
+#### Yellow-Flank 
 
 Tall, slender horses favoured by nobility, with flowing, silver manes and golden dappling along their sides. The haughty, laughing neigh of the yellow-flank bespeaks the breed’s rumoured fairy ancestry.
 
@@ -81,11 +81,11 @@ Level 3 AC 12 HP 3d8 (13) Saves D11 R12 H13 B14 S15 Att 2 hooves (+2, 1d4) Speed
 
 **Alignment:** The Referee should secretly determine the Alignment of each yellow-flank, at random. After 1d3 weeks of being owned by a character of differing Alignment, the horse attempts to escape, even chewing reins and tethers.
 
-===== Riding Horses and Overland Travel =====
+### Riding Horses and Overland Travel 
 
 Riding horses have Speed higher than 40, but can only move at this rate for short bursts (up to 1 hour). When travelling overland for long distances, parties mounted on riding horses are treated as having Speed 40 (see [[Travel]]).
 
-===== Accessories =====
+### Accessories 
 
 **Feed:** A sack of hay, oat grains, and the odd apple or carrot to chomp.
 
@@ -95,13 +95,13 @@ Riding horses have Speed higher than 40, but can only move at this rate for shor
 
 **Riding saddle bags:** Hold up to 500 coins of weight.
 
-===== Land Vehicles =====
+## Land Vehicles 
 
 ^ Vehicle^ Cost (gp)^ AC^ HP^ Speed^ Cargo^ Animals^
 | Cart| 100| 10| 1d4| 30| 10,000| 1 draft horse or 2 mules|
 | Wagon| 200| 10| 2d4| 30| 20,000| 2 draft horses or 4 mules|
 
-===== Water Vehicles =====
+## Water Vehicles 
 
 ^ Vehicle^ Cost (gp)^ AC^ HP^ Speed^ Cargo^ Crew^
 | Barge| 500| 11| 1d20 + 20| 30| 160,000| 2–4 sailors|
@@ -111,13 +111,13 @@ Riding horses have Speed higher than 40, but can only move at this rate for shor
 | Raft, makeshift| –| 10| 3 per 10′ sq.| 20| 250 per sq.ft.| 1 untrained|
 | Rowing boat| 25| 10| 2d4| 40| 5,000| 1–2 untrained|
 
-===== Land Vehicles =====
+### Land Vehicles 
 
 **Cart:** A two-wheeled vehicle. If pulled by twice as many animals (2 draft horses or 4 mules), a cart can hold up to 20,000 coins of weight.
 
 **Wagon:** A four-wheeled, open vehicle. If pulled by twice as many animals (4 draft horses or 8 mules), a wagon can hold up to 40,000 coins of weight.
 
-===== Water Vehicles =====
+### Water Vehicles 
 
 **Barge:** A flat-bottomed boat, 20′ long and 10′ wide, designed for carrying cargo. Barges may be rowed, pushed with poles, or pulled by horses on the riverbank.
 
@@ -131,7 +131,7 @@ Riding horses have Speed higher than 40, but can only move at this rate for shor
 
 **Rowing boat:** A small wooden boat for 1–2 people, 10′ long and 4′ wide.
 
-===== Rules For Vehicles =====
+## Rules For Vehicles 
 
 **Basic stats:** Vehicles have Armour Class, Hit Points, and Speed.
 
@@ -149,7 +149,7 @@ Riding horses have Speed higher than 40, but can only move at this rate for shor
 
 **Passengers:** Vehicles can carry passengers in place of cargo: one Small or Medium person per 5,000 coins of cargo space.
 
-===== Water Travel =====
+## Water Travel 
 
 Drifting along Dolmenwood’s waterways is handled using the normal travel rules (see [[Travel]]). The Referee tracks the party’s position along the body of water as they travel. 
 

@@ -4,11 +4,11 @@ layout: default
 parent: Equipment, Services, and Animals
 ---
 
-====== Beverages ======
+# Beverages 
 
 **Further details:** The //Dolmenwood Player's Book// provides further flavour and details of the beverages characters can buy.
 
-===== Availability =====
+## Availability 
 
 Beverages are stocked at inns and taverns according to the quality of the establishment (see [[Food and Lodgings]]), as follows.
 
@@ -18,11 +18,11 @@ Beverages are stocked at inns and taverns according to the quality of the establ
 
 **Fancy:** All common and uncommon beverages, 3–4 rare.
 
-===== Inebriation (Optional Rule) =====
+### Inebriation (Optional Rule) 
 
 For each measure of an alcoholic drink consumed, make a Constitution Check. Failure indicates that the character has reached the next level of inebriation.
 
-==== Levels of Inebriation ====
+#### Levels of Inebriation 
 
 **Tipsy:** The effects noted in the beverage’s description become appreciable. The character suffers a –1 penalty to Attack Rolls.
 
@@ -32,13 +32,13 @@ For each measure of an alcoholic drink consumed, make a Constitution Check. Fail
 
 **Unconscious:** The character passes out.
 
-==== Sobering Up ====
+#### Sobering Up
 
 An inebriated character who ceases to drink loses one level of inebriation every 2 hours.
 
-===== Price Lists =====
+## Price Lists 
 
-==== Common Beverages ====
+### Common Beverages 
 
 ^ d8^ Name^ Type^ Cost^
 | 1| Barrowblaster| Beer / cider| 9cp|
@@ -50,7 +50,7 @@ An inebriated character who ceases to drink loses one level of inebriation every
 | 7| Prigwort Tipple| Spirit| 3sp|
 | 8| Mason’s| Tea| 1cp|
 
-==== Uncommon Beverages ====
+### Uncommon Beverages 
 
 ^ d20^ Name^ Type^ Cost^
 | 1–2| Cobsworth Pale| Beer / cider| 5sp|
@@ -70,7 +70,7 @@ An inebriated character who ceases to drink loses one level of inebriation every
 | 19| Faggley’s Iced| Wine| 14sp|
 | 20| Inkling Wine| Wine| 11sp|
 
-==== Rare Beverages ====
+### Rare Beverages 
 
 ^ d12^ Name^ Type^ Cost^
 | 1| Moon’s Milk| Specialist| 2sp|
@@ -83,6 +83,6 @@ An inebriated character who ceases to drink loses one level of inebriation every
 | 11| The Cold Prince| Wine| 35sp|
 | 12| Underbrood’s Vintage| Wine| 5gp|
 
-==== Bottles and Casks ====
+### Bottles and Casks 
 
 Wines, spirits, and specialist beverages can sometimes be bought in bottles (30 coins weight) containing 5 portions of the drink for the price of 4 portions. Likewise, a cask of beer or cider (80 coins weight) contains 10 portions of the drink for the price of 8 portions.

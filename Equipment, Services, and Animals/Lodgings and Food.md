@@ -4,17 +4,17 @@ layout: default
 parent: Equipment, Services, and Animals
 ---
 
-====== Lodgings and Food ======
+# Lodgings and Food 
 
 **Further details:** The //Dolmenwood Player's Book// provides further details of specific meals characters can buy.
 
-===== Establishment Quality =====
+### Establishment Quality 
 
 Lodgings in Dolmenwood are classified as one of three levels of quality: poor, common, or fancy. The lodgings, food, and services offered by an establishment depend on its quality. The following lists describe some of the most common dishes served in the inns and taverns of Dolmenwood. Certain establishments additionally serve their own specialities.
 
-===== Price Lists =====
+## Price Lists 
 
-==== Poor Lodgings ====
+### Poor Lodgings 
 
 ^ Item^ Cost^
 | Food: main dish| 1sp|
@@ -24,7 +24,7 @@ Lodgings in Dolmenwood are classified as one of three levels of quality: poor, c
 | Lodging: shared room (4 beds), 1 night| 2sp|
 | Stabling and fodder, 1 night| 2sp|
 
-==== Common Lodgings ====
+### Common Lodgings 
 
 ^ Item^ Cost^
 | Bath in private room| 5sp|
@@ -35,7 +35,7 @@ Lodgings in Dolmenwood are classified as one of three levels of quality: poor, c
 | Lodging: private room, 1 night| 8sp|
 | Stabling and fodder, 1 night| 4sp|
 
-==== Fancy Lodgings ====
+### Fancy Lodgings 
 
 ^ Item^ Cost^
 | Bath in private room| 4sp|
