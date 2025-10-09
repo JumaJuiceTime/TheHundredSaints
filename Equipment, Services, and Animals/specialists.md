@@ -1,3 +1,10 @@
+---
+title: Specialists
+layout: default
+parent: Equipment, Services, and Animals
+---
+
+
 All types of characters that PCs may wish to hire for non-combat and non-adventuring purposes (i.e. not [[mercenaries]] or [[retainers]]) are termed '''''specialists'''''.
 
 Note that as specialists are hired to perform non-adventuring services, they are not treated as retainers. Unlike retainers, there is no limit on the number of specialists a character may employ.

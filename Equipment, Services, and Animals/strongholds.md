@@ -1,16 +1,8 @@
-__TOC__
-
-= Construction =
-
-{{:Construction}}
-
-= Domain Management =
-
-{{:Domain Management}}
-
-= Structures =
-
-{{:Structures}}
+---
+title: Strongholds
+layout: default
+parent: Equipment, Services, and Animals
+---
 
 When PCs wish to construct [[strongholds]] or any other type of building, the following procedure should be used:
 
