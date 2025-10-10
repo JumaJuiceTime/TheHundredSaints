@@ -3,7 +3,7 @@ title: Scholae Palatinae
 layout: default
 parent: Classes
 ---
-# Palatinae
+# Scholae Palatinae
 
 * **Prime Abilities:** Charisma and Strength
 * **Hit Points:** 1d8 per Level, +2 after Level 10
