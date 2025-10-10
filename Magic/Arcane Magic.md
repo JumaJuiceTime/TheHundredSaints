@@ -1,5 +1,5 @@
 ---
-title: Arcane Magcic
+title: Arcane Magic
 layout: default
 parent: Magic
 ---
