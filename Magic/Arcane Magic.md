@@ -78,90 +78,95 @@ A memorised spell is cast by precisely replicating a specific set of hand gestur
 
 ### Rank 1 Arcane Spells
 
-* [[Crystal Resonance]]
-* [[Decipher]]
-* [[Fairy Servant]]
-* [[Firelight]]
-* [[Floating Disc]]
-* [[Glyph of Sealing]]
-* [[Ignite / Extinguish]]
-* [[Ingratiate]]
-* [[Ioun Shard]]
-* [[Shield of Force]]
-* [[Vapours of Dream]]
-* [[Ventriloquism]]
+* **Crystal Resonance**
+* **Decipher**
+* **Fairy Servant**
+* **Firelight**
+* **Floating Disc**
+* **Glyph of Sealing**
+* **Ignite / Extinguish**
+* **Ingratiate**
+* **Ioun Shard**
+* **Shield of Force**
+* **Vapours of Dream**
+* **Ventriloquism**
 
+---
 ### Rank 2 Arcane Spells
 
-* [[Arcane Cypher]]
-* [[Dweomerlight]]
-* [[Flaming Spirit]]
-* [[Glyph of Locking]]
-* [[Invisibility]]
-* [[Knock]]
-* [[Levitate]]
-* [[Mind Crystal]]
-* [[Mirror Image]]
-* [[Perceive the Invisible]]
-* [[Phantasm]]
-* [[Web]]
+* **Arcane Cypher**
+* **Dweomerlight**
+* **Flaming Spirit**
+* **Glyph of Locking**
+* **Invisibility**
+* **Knock**
+* **Levitate**
+* **Mind Crystal**
+* **Mirror Image**
+* **Perceive the Invisible**
+* **Phantasm**
+* **Web**
 
+---
 ### Rank 3 Arcane Spells
 
-* [[Circle of Invisibility]]
-* [[Crystal Vision]]
-* [[Dark Sight]]
-* [[Dispel Magic]]
-* [[Fireball]]
-* [[Fly]]
-* [[Haste]]
-* [[Lightning Bolt]]
-* [[Missile Ward]]
-* [[Paralysation]]
-* [[Serpent Glyph]]
-* [[Water Breathing]]
+* **Circle of Invisibility**
+* **Crystal Vision**
+* **Dark Sight**
+* **Dispel Magic**
+* **Fireball**
+* **Fly**
+* **Haste**
+* **Lightning Bolt**
+* **Missile Ward**
+* **Paralysation**
+* **Serpent Glyph**
+* **Water Breathing**
 
+---
 ### Rank 4 Arcane Spells
 
-* [[Acid Globe]]
-* [[Arcane Eye]]
-* [[Confusion]]
-* [[Dimension Door]]
-* [[Dominate]]
-* [[Hallucinatory Terrain]]
-* [[Hex Weaving]]
-* [[Plant Growth]]
-* [[Polymorph]]
-* [[Wall of Fire]]
-* [[Wall of Ice]]
-* [[Woodland Veil]]
+* **Acid Globe**
+* **Arcane Eye**
+* **Confusion**
+* **Dimension Door**
+* **Dominate**
+* **Hallucinatory Terrain**
+* **Hex Weaving**
+* **Plant Growth**
+* **Polymorph**
+* **Wall of Fire**
+* **Wall of Ice**
+* **Woodland Veil**
 
+---
 ### Rank 5 Arcane Spells
 
-* [[Air Sphere]]
-* [[Animate Dead]]
-* [[Cloudkill]]
-* [[Conjure Elemental]]
-* [[Fabricate]]
-* [[Feeblemind]]
-* [[Mire]]
-* [[Passwall]]
-* [[Sending]]
-* [[Telekinesis]]
-* [[Teleport]]
-* [[Wall of Stone]]
+* **Air Sphere**
+* **Animate Dead**
+* **Cloudkill**
+* **Conjure Elemental**
+* **Fabricate**
+* **Feeblemind**
+* **Mire**
+* **Passwall**
+* **Sending**
+* **Telekinesis**
+* **Teleport**
+* **Wall of Stone**
 
+---
 ### Rank 6 Arcane Spells
 
-* [[Anti-Magic Ward]]
-* [[Control Weather]]
-* [[Disintegrate]]
-* [[Dweomerfire]]
-* [[Geas]]
-* [[Invisible Stalker]]
-* [[Move Terrain]]
-* [[Oracle]]
-* [[Petrification]]
-* [[Project Image]]
-* [[Wave of Force]]
-* [[Word of Doom]]
+* **Anti-Magic Ward**
+* **Control Weather**
+* **Disintegrate**
+* **Dweomerfire**
+* **Geas**
+* **Invisible Stalker**
+* **Move Terrain**
+* **Oracle**
+* **Petrification**
+* **Project Image**
+* **Wave of Force**
+* **Word of Doom**

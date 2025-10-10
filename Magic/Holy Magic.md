@@ -47,49 +47,53 @@ A bestowed spell may be cast by reciting a prayer in the Liturgic tongue. When a
 
 ### Rank 1 Holy Spells
 
-* [[Detect Evil]]
-* [[Detect Magic]]
-* [[Frost Ward]]
-* [[Lesser Healing]]
-* [[Light]]
-* [[Mantle of Protection]]
-* [[Purify Food and Drink]]
-* [[Rally]]
+* **Detect Evil**
+* **Detect Magic**
+* **Frost Ward**
+* **Lesser Healing**
+* **Light**
+* **Mantle of Protection**
+* **Purify Food and Drink**
+* **Rally**
 
+---
 ### Rank 2 Holy Spells
 
-* [[Bless]]
-* [[Charm Serpents]]
-* [[Find Traps]]
-* [[Flame Ward]]
-* [[Hold Person]]
-* [[Reveal Alignment]]
-* [[Silence]]
-* [[Speak With Animals]]
+* **Bless**
+* **Charm Serpents**
+* **Find Traps**
+* **Flame Ward**
+* **Hold Person**
+* **Reveal Alignment**
+* **Silence**
+* **Speak With Animals**
 
+---
 ### Rank 3 Holy Spells
 
-* [[Animal Growth]]
-* [[Bless Weapon]]
-* [[Cure Affliction]]
-* [[Holy Light]]
-* [[Locate Object]]
-* [[Remove Curse]]
+* **Animal Growth**
+* **Bless Weapon**
+* **Cure Affliction**
+* **Holy Light**
+* **Locate Object**
+* **Remove Curse**
 
+---
 ### Rank 4 Holy Spells
 
-* [[Circle of Protection]]
-* [[Create Water]]
-* [[Greater Healing]]
-* [[Remove Poison]]
-* [[Speak With Plants]]
-* [[Serpent Transformation]]
+* **Circle of Protection**
+* **Create Water**
+* **Greater Healing**
+* **Remove Poison**
+* **Speak With Plants**
+* **Serpent Transformation**
 
+---
 ### Rank 5 Holy Spells
 
-* [[Communion]]
-* [[Create Food]]
-* [[Holy Fire]]
-* [[Holy Quest]]
-* [[Insect Plague]]
-* [[Raise Dead]]
+* **Communion**
+* **Create Food**
+* **Holy Fire**
+* **Holy Quest**
+* **Insect Plague**
+* **Raise Dead**
