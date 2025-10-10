@@ -3,34 +3,34 @@ title: Magi
 layout: default
 parent: Classes
 ---
-====== Magi ======
+# Magi
 
-Prime Abilities	Intelligence
-Hit Points	1d4 per Level, +1 after Level 10
-Combat Aptitude	Non-martial
-Armour	None
-Weapons	Dagger, holy water, oil, staff, torch
+Prime Abilities Intelligence
+Hit Points 1d4 per Level, +1 after Level 10
+Combat Aptitude Non-martial
+Armour None
+Weapons Dagger, holy water, oil, staff, torch
 
 Magi—sometimes called wizards or sorcerers—hone innate sparks of magical sensitivity through years of arduous study. Magi are arcane generalists, accumulating secret lore from any source they can get their hands on—magic of illusion, crystalmancy, elementalism, conjuration, and sometimes even stolen Drune spells. Their accumulation of knowledge allows magicians to cast spells and to wield powerful magic items. Magi begin play able to cast just a single spell each day, but gain access to extremely potent magic as they advance.
 
-==== Starting Equipment ====
+## Starting Equipment
 
 **Weapon (roll 1d6):** 1–3. Dagger. 4–6. Staff.
 
 **Class items:** Ritual robes. A Level 1 magi starts play with a single spell book and has learned to cast the spells contained within. The player should roll or choose one of the books listed under Starting Spell Books.
 
-==== Starting Spell Books ====
+## Starting Spell Books
 
 A Level 1 magi possesses a single spell book and has learned to cast the spells it describes. A magician’s first spell book may be an item inherited from a mysterious ancestor, stolen from a cruel master, or meticulously copied under the tutelage of a mentor. The player should roll or choose one of the following books.
 
-  * **Charms of the Fey Court:** Contains the following Rank 1 spells: [[Fairy Servant]], [[Ingratiate]], [[Ventriloquism]].
-  * **Hogbrand’s Incandescence:** Contains the following Rank 1 spells: [[Firelight]], [[Ignite / Extinguish]], [[Shield of Force]].
-  * **Lord Oberon’s Seals:** Contains the following Rank 1 spells: [[Decipher]], [[Glyph of Sealing]], [[Vapours of Dream]].
-  * **Oliphan’s Folio:** Contains the following Rank 1 spells: [[Crystal Resonance]], [[Ioun Shard]], [[Shield of Force]].
-  * **Smythe’s Illuminations:** Contains the following Rank 1 spells: [[Decipher]], [[Ignite / Extinguish]], [[Ioun Shard]].
-  * **The Treatise on Force and Dissolution:** Contains the following Rank 1 spells: [[Crystal Resonance]], [[Floating Disc]], [[Vapours of Dream]].
+* **Charms of the Fey Court:** Contains the following Rank 1 spells: [[Fairy Servant]], [[Ingratiate]], [[Ventriloquism]].
+* **Hogbrand’s Incandescence:** Contains the following Rank 1 spells: [[Firelight]], [[Ignite / Extinguish]], [[Shield of Force]].
+* **Lord Oberon’s Seals:** Contains the following Rank 1 spells: [[Decipher]], [[Glyph of Sealing]], [[Vapours of Dream]].
+* **Oliphan’s Folio:** Contains the following Rank 1 spells: [[Crystal Resonance]], [[Ioun Shard]], [[Shield of Force]].
+* **Smythe’s Illuminations:** Contains the following Rank 1 spells: [[Decipher]], [[Ignite / Extinguish]], [[Ioun Shard]].
+* **The Treatise on Force and Dissolution:** Contains the following Rank 1 spells: [[Crystal Resonance]], [[Floating Disc]], [[Vapours of Dream]].
 
-===== Arcane Magic =====
+## Arcane Magic
 
 See [[Arcane Magic]] for full details on arcane magic, including learning spells, spell memorisation, and the list of spells that magicians can learn.
 
@@ -38,7 +38,7 @@ See [[Arcane Magic]] for full details on arcane magic, including learning spells
 
 **Using magic items:** Magi can use magic items exclusive to arcane spell-casters (for example, magic wands or scrolls of arcane spells).
 
-==== Magi Spells Per Day ====
+### Magi Spells Per Day
 
 | Level | 1 | 2 | 3 | 4 | 5 | 6 |
 | :---: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -58,11 +58,11 @@ See [[Arcane Magic]] for full details on arcane magic, including learning spells
 | 14 | 5 | 4 | 4 | 3 | 3 | 2 |
 | 15 | 5 | 4 | 4 | 3 | 3 | 3 |
 
-===== Magi Skills =====
+## Magi Skills
 
 Magi have one additional, specialised skill. The Magi Skill Targets table lists the character’s Skill Targets as they advance in level.
 
-==== Detect Magic ====
+### Detect Magic
 
 A magi can attempt to detect the subtle resonances woven into an enchanted object, place, or creature. If the attempt succeeds, the magi knows if the object, place, or creature in question is magical—i.e. enchanted, affected by a spell, or possessed of innate magic of some kind.
 
@@ -76,7 +76,7 @@ A magi can attempt to detect the subtle resonances woven into an enchanted objec
 
 **Downtime:** Given an hour of solitude in a safe location, a magi automatically detects magic on an object, place, or creature.
 
-===== Magi Skill Targets =====
+### Magi Skill Targets
 
 | Level | Detect Magic |
 | :---: | :---: |
@@ -91,7 +91,7 @@ A magi can attempt to detect the subtle resonances woven into an enchanted objec
 | 9 | 3 |
 | 10+ | 3 |
 
-===== Magi Advancement =====
+## Magi Advancement
 
 | Level | XP | Hit Points | Attack | Doom | Ray | Hold | Blast | Spell |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -110,4 +110,3 @@ A magi can attempt to detect the subtle resonances woven into an enchanted objec
 | 13 | 920,000 | +1 | +4 | 10 | 10 | 9 | 12 | 10 |
 | 14 | 1,070,000 | +1 | +4 | 10 | 10 | 9 | 12 | 10 |
 | 15 | 1,220,000 | +1 | +4 | 10 | 10 | 9 | 12 | 10 |
-

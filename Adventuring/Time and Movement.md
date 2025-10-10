@@ -3,78 +3,120 @@ title: Time and Movement
 layout: default
 parent: Adventuring
 ---
-====== Time and Movement ======
+# Core Rules
 
-When exploring the untracked wilds or the depths of the underworld, time is a critical resource. Every moment wasted presents a chance for malignant creatures to note the party’s presence. As time passes, light sources in dark places dwindle, beneficial spells falter, and thirst, exhaustion, and hunger set in. Wise adventurers do not linger, making the most of every moment in perilous places.
+Most situations of peril and uncertainty are resolved using one of a handful of core game rules: a Skill Check, Ability Check, Saving Throw, or Attack Roll. In situations where none of these core rules obviously applies, the Referee may simply judge a chance of success and ask the player to roll. See [[Core Rules#Chance Rolls]].
 
-===== Measures of Time: Rounds and Turns =====
+## Skill Checks
 
-Aside from everyday time increments (minutes, hours, days, and so on), the following special units are used in the game. 
+Skills represent specific competencies practiced by adventurers. All adventurers can use the Listen, Search, and Survival skills, and some Classes grant the use of additional, specialised skills.
 
-**Turns:** Approximately 10 minutes of game time. There are 6 Turns in an hour. Time is measured in Turns when exploring dungeons (see [[Dungeons]]).
+**Rolling:** Roll 1d6 and add any situational modifiers. If the result equals or exceeds the character’s Skill Target for the skill being tested, the check succeeds. Skills default to a target of 6, unless the character’s Kindred or Class specifies a lower target.
 
-**Rounds:** Approximately 10 seconds of game time. There are 60 Rounds in a Turn. Time is measured in Rounds during encounters, especially in combat (see [[Encounters]] and [[Combat]]).
+**1s and 6s:** A roll of natural 1 always fails and a roll of natural 6 always succeeds, irrespective of modifiers.
 
-===== Measures of Distance: Inches, Feet, Miles =====
+**Kindred and Class:** In cases where a Kindred and Class grant an improved chance of success with a skill (i.e. a lower Skill Target), use the more favourable.
 
-Distances are measured in imperial or customary US units: inches (notated with the ″ symbol), feet (notated with the ′ symbol), and miles.
+### When to Roll a Skill Check
 
-**Conversions:** 1 foot = 12 inches. 1 mile = 5,280 feet.
+Each skill applies in certain specific situations, when called for in the rules.
 
-===== Measures of Weight: Coins =====
+**Listen Checks:** Rolled when a character presses their ear to a door to detect the presence of creatures on the other side (see [[Hazards and Challenges#Doors]]).
 
-Weight measures typically come into play only when discussing how much characters can carry (see [[Encumbrance]]). As coins are the most common form of treasure found by adventurers, all weights are measured in coins (ten coins equal one pound).
+**Search Checks:** Rolled when searching for secret doors or traps (see [[Hazards and Challenges#Hidden Features]]).
 
-===== Tracking Time =====
+**Survival Checks:** Rolled when trying to find food in the wild (see [[Hazards and Challenges#Finding Food in the Wild]]).
 
-When an adventure is under way, the Referee should keep track of the time that elapses in the imagined world, known as game time. This is distinct from real time: what may take the players and Referee mere seconds to describe may take PCs hours or even days to complete.
+**Specialised skills:** Specialised Class skills are explained in each Class description. These skills can only be used by characters of the appropriate Class.
 
-**Units of time:** When characters are exploring a dungeon, the Referee tracks the number of Turns that have elapsed; when characters are exploring outdoors, the number of days elapsed is tracked.
+## Ability Checks
 
-**Judgement:** The Referee adjudicates what characters may accomplish in a given period of time.
+An Ability Check represents a test of a character’s basic physical or mental aptitudes (one of their [[Ability Scores]]), rather than learned aptitudes due to their Class or Level.
 
-==== Resources ====
+**Rolling:** Roll 1d6 and add the Modifier of the Ability being tested, along with any situational modifiers. If the result equals or exceeds a target number of 4, the check succeeds
 
-As game time passes, the Referee should pay attention to resources that the party consumes. For example: food, water, fuel for light sources, durations of spells or magical effects, etc.
+**1s and 6s:** A roll of natural 1 always fails and a roll of natural 6 always succeeds, irrespective of modifiers.
 
-===== Tracking Movement =====
+### When to Roll an Ability Check
 
-As Player Characters explore the imagined world, the Referee should keep track of their location on a prepared map. The map is usually kept secret from the players, who must rely on the Referee’s descriptions of the areas they explore.
+Ability Checks apply in certain specific situations, when called for elsewhere in the rules (see the list under [[Ability Scores]]). The Referee may also optionally call for an Ability Check in other situations as desired.
 
-To determine how long it takes for characters to move from one area to the next, the Referee should refer to the characters’ Speed (see [[Character Statistics]]).
+## Saving Throws
 
-==== Party Speed ====
+Certain dangerous or detrimental effects—for example, a banshee’s deadly wail or a wyrm’s acidic breath—call for a Saving Throw (sometimes called a save). This is a roll to determine whether a character succumbs to or avoids the effect. There are 5 Save Categories, each rolled for a different type of hazard: Doom, Ray, Hold, Blast, Spell.
 
-An adventuring party usually wants to stay together. The Speed of the party as a whole is determined by the Speed of the slowest member.
+**Rolling:** Roll 1d20 and add any applicable modifiers. If the result equals or exceeds the character’s Save Target for the applicable Save Category, the Saving Throw succeeds.
 
-==== Encounter Movement: Speed / Round ====
+**Modifiers:** For Saving Throws against effects of magical origin, add the character’s Wisdom Modifier. Also add any situational modifiers determined by the Referee.
 
-During an encounter, a character’s Speed indicates the number of feet they can move each Round. This is especially relevant during combat. For example, a character with Speed 40 can move up to 40′ each Round.
+**1s and 20s:** A roll of natural 1 always fails and a roll of natural 20 always succeeds, irrespective of modifiers.
 
-==== Exploration: Speed × 3 Per Turn ====
+### When to Roll a Saving Throw
 
-When exploring unknown areas of a dungeon or other indoor area, characters can move up to 3 times their Speed in feet each Turn. For example, a party whose slowest member has Speed 30 can explore up to 90′ each Turn. This very slow rate of movement accounts for PCs exploring in a dark, unknown environment, moving carefully and stealthily, and mapping progress.
+The description of a spell, magic item, monster special power, and so forth notes when to roll a Saving Throw and which Save Category to roll against. For example, the description of a spell may call for a Save Versus Spell.
 
-**In familiar areas:** When PCs are moving through previously explored areas which they have mapped, they may move at up to 10 times their Speed in feet each Turn. For example, a party whose slowest member has Speed 30 can travel through up to 300′ of familiar areas each Turn.
+### Save Categories
 
-==== Running: Speed × 3 Per Round ====
+**Doom:** Effects that instantly kill or inflict ongoing physical malignities—for example, poison, disease, death magic. Doom also serves as a general category for avoiding unfortunate fates that do not fall under any other Save Category.
 
-When fleeing or pursuing enemies (see [[Encounters#Evasion]]), characters can move up to 3 times their Speed in feet each Round. For example, a party whose slowest member has Speed 30 can run up to 90′ each Round.
+**Ray:** Rapidly moving, directional effects that can be dodged—for example, energy rays, lightning bolts.
 
-**Mapping:** No mapping is possible when running.
+**Hold:** Effects that hinder or prevent movement—for example, paralysis, petrification, falling rocks that may crush or pin characters.
 
-**Exhaustion:** Characters become exhausted (see [[Hazards and Challenges#Exhaustion]]) after running at this rate for 30 Rounds. The penalties for exhaustion last until characters have rested for 3 Turns.
+**Blast:** Lethal energy effects that fill a wide area—for example, wyrm breath, explosions.
 
-==== Overland Travel: Speed / 5 Travel Points Per Day ====
+**Spell:** Potent, directly targeted effects—for example, arcane or holy spells, fairy glamours, magic staves.
 
-The Referee’s map of Dolmenwood (provided in the Dolmenwood Campaign Book) is based on a hex grid, with each hex being 6 miles across. When travelling along roads or in the wilds, characters gain Travel Points each day equal to their Speed divided by 5. For example, a party whose slowest members has Speed 30 gains 6 Travel Points per day. Travel Points are expended as characters explore hexes of different terrain types. See [[Travel]] for full details on Travel Points and overland travel.
+### Choosing a Save Category
 
-==== Using Miniatures ====
+In situations not covered by the rules (e.g. when creating new spells or monsters), the Referee must choose an appropriate Save Category. A simple approach is to run down the categories list above (from Doom to Spell) and choose the first that fits the effect in question. For very unusual effects that don’t fit in any category, default to Doom.
 
-Some groups like to use miniatures along with a gridded tabletop surface to track exploration and combat.
+### Item Saving Throws
 
-**Play surface:** The most convenient type of surface is something on which maps can be drawn with erasable pens. The surface should be gridded for ease of tracking the movements of characters.
+The equipment of a character killed by a destructive effect (e.g. lightning) is assumed to be destroyed. Magic items may be allowed a Save Versus Doom (using the character’s Save Targets) to survive.
 
-**Scale:** The typical scale used is 1″ on the play surface = 5′ in the game world.
+## Attack Rolls
 
-**Miniatures:** Miniature figures are available to purchase from many different companies. Alternatively, simple tokens like dice or beads can be used.
+In the chaos of combat, the sequence of feints, dodges, parries, and glancing blows that may occur each Round are abstracted into an Attack Roll. This roll determines whether an attacker lands a blow on their opponent.
+
+**Rolling:** Roll 1d20 and add any applicable modifiers. If the result equals or exceeds the defender’s Armour Class, the attack hits. Make a Damage Roll.
+
+**Modifiers:** Add the character’s Attack bonus (see the Class progression table). For melee attacks, add the character’s Strength Modifier. For missile attacks, add the character’s Dexterity Modifier. Also add any situational modifiers determined by the Referee.
+
+**1s and 20s:** A roll of natural 1 always fails and a roll of natural 20 always succeeds, irrespective of modifiers.
+
+### When to Roll an Attack Roll
+
+An Attack Roll is made whenever one creature attempts to physically harm another, whether using fists, claws, melee weapons, or missile weapons. See [[Combat]].
+
+### Damage Rolls
+
+The equipment list ([[Armour and Weapons]]) notes the damage die rolled for each type of weapon. Likewise, the descriptions of creatures with natural attack forms (e.g. claws, fangs) note the damage die rolled.
+
+**Modifiers:** Attacks with melee weapons apply the Strength Modifier to the damage roll.
+
+**Hit Points:** Rolled damage is subtracted from the target’s Hit Points.
+
+**Minimum damage:** A successful attack always inflicts at least 1 damage, irrespective of modifiers.
+
+**Death:** A target that reaches 0 Hit Points dies. Hit Points are never reduced below 0.
+
+**Immunities:** Some monsters are immune to attacks of certain kinds. In this case, even if an attack hits, damage is not rolled.
+
+**Recovering lost HP:** Lost Hit Points can be recovered by rest and healing. See [[Settlements#Rest and Healing]].
+
+## Situational Modifiers
+
+The Referee may apply modifiers to a Skill Check, Ability Check, Saving Throw, or Attack Roll, depending on the difficulty of the situation.
+
+**Skill Check / Ability Check modifiers:** Generally range from –2 to +2, with a –2 penalty representing a very challenging situation and a +2 bonus representing a very easy situation.
+
+**Saving Throw / Attack Roll modifiers:** Generally range from –4 to +4, with a –4 penalty representing a very challenging situation and a +4 bonus representing a very easy situation.
+
+## Chance Rolls
+
+In situations where no specific skill or Ability plays a role or where sheer luck is the deciding factor, the Referee may judge a chance of success and have the player roll. Two common methods are judging an X-in-6 or a percentage chance.
+
+**X-in-6:** The Referee judges the chance of success as a likelihood out of 6. For example, a 3-in-6 chance for a situation of even chances, or a 1-in-6 chance for a very challenging situation.
+
+**Percentage chance:** The Referee judges the chance of success as a percentage. For example, a 50% chance for a situation of even chances, or a 10% chance for a very challenging situation.

@@ -3,32 +3,31 @@ title: Enchanter
 layout: default
 parent: Classes
 ---
+# Enchanter
 
-====== Enchanter ======
+* **Prime Abilities:** Charisma and Intelligence
+* **Hit Points:** 1d6 per Level, +1 after Level 10
+* **Combat Aptitude:** Semi-martial
+* **Armour:** Light and Medium, no shields
+* **Weapons:** Small and Medium
 
-  * **Prime Abilities:** Charisma and Intelligence
-  * **Hit Points:** 1d6 per Level, +1 after Level 10
-  * **Combat Aptitude:** Semi-martial
-  * **Armour:** Light and Medium, no shields
-  * **Weapons:** Small and Medium
+Individuals whose contact with Fairy has imbued them with innate magic known as glamours. Enchanters are also blessed with the use of the **fairy runes**, guarded by the lords of Fairy, though such gifts are not always without cost.
 
-Individuals whose contact with Fairy has imbued them with innate magic known as glamours. Enchanters are also blessed with the use of the fairy runes, guarded by the lords of Fairy, though such gifts are not always without cost.
+## Restrictions
 
-==== Restrictions ====
+**Kindred:** Typically only fairies and demi-fey (**elves**, **grimalkins**, and **woodgrues**) are enchanters. Occasionally a mortal with a strong connection to Fairy may also be an enchanter—for example, a human with mixed elfish ancestry, an individual kidnapped by fairies in childhood, or someone who wandered lost in Fairy for many years.
 
-**Kindred:** Typically only fairies and demi-fey (elves, grimalkins, and woodgrues) are enchanters. Occasionally a mortal with a strong connection to Fairy may also be an enchanter—for example, a human with mixed elfish ancestry, an individual kidnapped by fairies in childhood, or someone who wandered lost in Fairy for many years. 
-
-==== Starting Equipment ====
+## Starting Equipment
 
 **Armour (roll 1d6):** 1–2. None. 3–4. Leather armour. 5–6. Chainmail.
 
 **Weapons (roll 1d6 twice):** 1. Club. 2. Dagger. 3. Longsword. 4. Shortbow + 20 arrows. 5. Spear. 6. Staff.
 
-===== Enchanter Skills =====
+## Enchanter Skills
 
 Enchanters have one additional, specialised skill. The Enchanter Skill Targets table lists the character’s Skill Targets as they advance in level.
 
-==== Detect Magic ====
+### Detect Magic
 
 An enchanter can attempt to detect the subtle resonances woven into an enchanted object, place, or creature. If the attempt succeeds, the enchanter knows if the object, place, or creature in question is magical—i.e. enchanted, affected by a spell, or possessed of innate magic of some kind.
 
@@ -42,22 +41,22 @@ An enchanter can attempt to detect the subtle resonances woven into an enchanted
 
 **Downtime:** Given an hour of solitude in a safe location, an enchanter automatically detects magic on an object, place, or creature.
 
-===== Enchanter Skill Targets =====
+## Enchanter Skill Targets
 
 | Level | Detect Magic |
-|-------|--------------|
-| 1     | 5            |
-| 2     | 5            |
-| 3     | 5            |
-| 4     | 5            |
-| 5     | 4            |
-| 6     | 4            |
-| 7     | 3            |
-| 8     | 3            |
-| 9     | 2            |
-| 10+   | 2            |
+| :---: | :---: |
+| 1 | 5 |
+| 2 | 5 |
+| 3 | 5 |
+| 4 | 5 |
+| 5 | 4 |
+| 6 | 4 |
+| 7 | 3 |
+| 8 | 3 |
+| 9 | 2 |
+| 10+ | 2 |
 
-===== Fairy Runes =====
+## Fairy Runes
 
 Enchanters are granted the use of fairy runes—the secret, magical sigils guarded by the rulers of Fairy. As a character advances, fairy nobles may be drawn by the enchanter’s great deeds and grant new runes. See [[Fairy Magic]] for details on the fairy runes.
 
@@ -65,21 +64,21 @@ Enchanters are granted the use of fairy runes—the secret, magical sigils guard
 
 **Subsequent Levels:** Each time the character gains a Level, the player should roll for the chance of acquiring a new rune. See [[Fairy Magic#Learning Runes]].
 
-===== Glamours =====
+## Glamours
 
-Enchanters possess minor magical talents known as glamours (see [[Fairy Magic]]). The number of glamours known is determined by the character’s level as shown in the Enchanter Advancement table. Known glamours are determined randomly.
+Enchanters possess minor magical talents known as **glamours** (see [[Fairy Magic]]). The number of glamours known is determined by the character’s level as shown in the Enchanter Advancement table. Known glamours are determined randomly.
 
 **Kindred glamours:** Some Kindreds (e.g. elf, grimalkin) gain glamours as a result of their ancestry. Such glamours are in addition to glamours gained by this Class. For example, a Level 1 human enchanter knows 1 glamour, whereas a Level 1 elf enchanter knows 2 glamours—one from their Kindred and one from their Class.
 
-===== Magic Items =====
+## Magic Items
 
 The enchanter’s natural affinities allow the use of magical items exclusive to arcane spell-casters (for example, magic wands or scrolls of arcane spells).
 
-===== Resistance to Divine Aid =====
+## Resistance to Divine Aid
 
-The saints of the Pluritine Church are loath to aid those allied with the godless world of Fairy. If an enchanter is the subject of a beneficial holy spell, there is a 2-in-6 chance it has no effect.
+The saints of the Pluritine Church are loath to aid those allied with the godless world of Fairy. If an enchanter is the subject of a beneficial holy spell, there is a **2-in-6 chance** it has no effect.
 
-===== Enchanter Advancement =====
+## Enchanter Advancement
 
 | Level | XP | Hit Points | Attack | Glamours | Doom | Ray | Hold | Blast | Spell |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

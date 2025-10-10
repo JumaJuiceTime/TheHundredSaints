@@ -3,12 +3,11 @@ title: Advancement
 layout: default
 parent: Getting Started
 ---
-
-====== Advancement ======
+# Advancement
 
 Adventurers begin play at Level 1 with no Experience Points. Those who have success in adventuring gain Experience Points, gradually accumulating enough to increase in Level.
 
-===== Party XP Awards =====
+## Party XP Awards
 
 A party that survives an adventure and returns to safety gains Experience Points (XP). XP is awarded by the Referee, based on how successful the adventure was. The main factors are as follows.
 
@@ -16,13 +15,13 @@ A party that survives an adventure and returns to safety gains Experience Points
 
 **Foes defeated:** The party gains XP for every foe defeated (i.e. slain, outsmarted, captured, scared away, etc.). The XP award for a creature is determined by its Level and the number of potent special traits it has.
 
-===== Dividing Party XP =====
+## Dividing Party XP
 
 All XP awarded to the party is totalled and divided evenly between all party members who survived the adventure. Awarded XP is always divided evenly, irrespective of how the party decides to divide treasure.
 
-==== Retainers ====
+### Retainers
 
-[[Retainers]] are treated somewhat differently than Player Characters.
+Retainers are treated somewhat differently than Player Characters.
 
 **Townsfolk retainers:** Do not gain XP, so are not counted as party members for the purposes of XP division.
 
@@ -30,11 +29,11 @@ All XP awarded to the party is totalled and divided evenly between all party mem
 
 **Example:** A party of four PCs, three adventurer retainers, and two townsfolk retainers is awarded a total of 7,000 XP. This total is divided by 7 (4 PCs + 3 retainers—not counting the townsfolk), resulting in an award of 1,000 XP per character. The PCs gain 1,000 XP each and the retainers gain 500 XP each.
 
-===== Maximum XP Per Session =====
+## Maximum XP Per Session
 
 A character cannot advance more than one Level in a single session. Any additional XP that would take a character two or more Levels above their current Level are lost, leaving the character at 1 XP below the total for the next Level.
 
-===== Levelling Up =====
+## Levelling Up
 
 When a character gains enough XP to reach the next Level (found on the advancement table for each Class), update the character sheet with improvements.
 
@@ -48,7 +47,7 @@ When a character gains enough XP to reach the next Level (found on the advanceme
 
 **XP for next Level:** Note the XP total required for the next Level.
 
-===== Training (Optional Rule) =====
+## Training (Optional Rule)
 
 The Referee may require characters to engage in a period of training in order to level up. Until the training is complete, the character cannot advance to the next Level and can gain no further XP.
 

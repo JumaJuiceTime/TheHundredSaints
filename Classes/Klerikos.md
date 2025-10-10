@@ -3,18 +3,17 @@ title: Klerikos
 layout: default
 parent: Classes
 ---
+# Klerikos
 
-====== Klerikos ======
-
-  * **Prime Abilities:** Wisdom
-  * **Hit Points:** 1d6 per Level, +1 after Level 10
-  * **Combat Aptitude:** Semi-martial
-  * **Armour:** Any, including shields (except arcane or fairy magic armour)
-  * **Weapons:** Any (except arcane or fairy magic weapons)
+* **Prime Abilities:** Wisdom
+* **Hit Points:** 1d6 per Level, +1 after Level 10
+* **Combat Aptitude:** Semi-martial
+* **Armour:** Any, including shields (except arcane or fairy magic armour)
+* **Weapons:** Any (except arcane or fairy magic weapons)
 
 Klerikos are members of an order of holy warriors sworn to the service of the Pluritine Church. They are organised in a strict religious hierarchy, under the command of higher-ranking Church officials. Player Character klerikos are typically granted a writ of self-determination, allowing them to roam freely and carry out the will of God as they see fit.
 
-==== Restrictions ====
+## Restrictions
 
 **Alignment:** As servants of the Church, klerikos must be Lawful or Neutral.
 
@@ -22,7 +21,7 @@ Klerikos are members of an order of holy warriors sworn to the service of the Pl
 
 **Magic armaments:** Klerikos are forbidden to use magic weapons, armour, and shields of arcane or otherworldy origin. They may only use holy magic armaments.
 
-==== Starting Equipment ====
+## Starting Equipment
 
 **Armour (roll 1d6):** 1. Leather. 2. Leather + shield. 3. Chainmail. 4. Chainmail + shield. 5. Plate mail. 6. Plate mail + shield.
 
@@ -30,7 +29,7 @@ Klerikos are members of an order of holy warriors sworn to the service of the Pl
 
 **Class items:** Wooden holy symbol.
 
-===== Klerikitai Tenets =====
+## Klerikitai Tenets
 
 **Evangelism:** Non-believers are to be brought into the fold and converted.
 
@@ -40,7 +39,7 @@ Klerikos are members of an order of holy warriors sworn to the service of the Pl
 
 **Sanctity of life:** Sentient life is sacred. Klerikos must protect the innocent with all means available.
 
-===== Detect Holy Magic Items =====
+## Detect Holy Magic Items
 
 A cleric can detect whether an item is enchanted with holy magic.
 
@@ -48,7 +47,7 @@ A cleric can detect whether an item is enchanted with holy magic.
 
 **Time:** Detecting holy magic takes 1 Turn.
 
-===== Holy Magic =====
+## Holy Magic
 
 See [[Holy Magic]] for full details on holy magic, including praying for spells and the list of spells that klerikos can cast.
 
@@ -58,7 +57,7 @@ See [[Holy Magic]] for full details on holy magic, including praying for spells 
 
 **Using magic items:** Klerikos can use magic items exclusive to holy spell-casters (for example, magic rods or scrolls of holy spells).
 
-==== Klerikos Spells Per Day ====
+### Klerikos Spells Per Day
 
 | Level | 1 | 2 | 3 | 4 | 5 |
 | :---: | :-: | :-: | :-: | :-: | :-: |
@@ -78,11 +77,11 @@ See [[Holy Magic]] for full details on holy magic, including praying for spells 
 | 14 | 4 | 4 | 3 | 3 | 2 |
 | 15 | 5 | 4 | 4 | 3 | 2 |
 
-===== Holy Order =====
+## Holy Order
 
 Upon reaching Level 2, a cleric is initiated into one of the following holy orders, selected by the player. Klerikos of each order gain a special power and bear the order’s holy symbol.
 
-==== The Order of St Faxis ====
+### The Order of St Faxis
 
 The order of seekers; klerikos who follow an edict to root out practitioners of dark magic—those who truck with devils or deal in necromancy.
 
@@ -90,7 +89,7 @@ The order of seekers; klerikos who follow an edict to root out practitioners of 
 
 **Holy symbol:** Three crossed swords.
 
-==== The Order of St Sedge ====
+### The Order of St Sedge
 
 The defenders of the Church; klerikos who protect the lands of the Church from invaders.
 
@@ -98,7 +97,7 @@ The defenders of the Church; klerikos who protect the lands of the Church from i
 
 **Holy symbol:** A hand with two fingers raised.
 
-==== The Order of St Signis ====
+### The Order of St Signis
 
 The order of Lichwards; klerikos who watch over the dead and hunt those which rise again as undead.
 
@@ -106,21 +105,21 @@ The order of Lichwards; klerikos who watch over the dead and hunt those which ri
 
 **Holy symbol:** A human skull crowned with ivy.
 
-===== Languages =====
+## Languages
 
 In addition to their native languages, klerikos speak Liturgic, the language of Church scripture.
 
-===== Turning the Undead =====
+## Turning the Undead
 
 A cleric may attempt to drive off undead monsters by presenting their holy symbol and invoking the might of the One True God.
 
 **Range:** The undead must be within 30′. Concealed undead (e.g. behind doors or in coffers) are unaffected.
 
 **Turning roll:** When a cleric attempts to turn the undead, roll 2d6 to determine the result (modifiers listed below):
-  * **4 or lower:** The undead are unaffected.
-  * **5–6:** 2d4 undead are stunned for 1 Round, unable to act.
-  * **7–12:** 2d4 undead flee from the cleric for 1 Turn.
-  * **13 or higher:** 2d4 undead are permanently destroyed.
+* **4 or lower:** The undead are unaffected.
+* **5–6:** 2d4 undead are stunned for 1 Round, unable to act.
+* **7–12:** 2d4 undead flee from the cleric for 1 Turn.
+* **13 or higher:** 2d4 undead are permanently destroyed.
 
 **Lower Level undead:** If the undead are lower Level than the cleric, the turning roll is modified by +2 per Level difference (maximum +6). For example, a Level 5 cleric turning Level 3 undead would gain a +4 bonus.
 
@@ -130,7 +129,7 @@ A cleric may attempt to drive off undead monsters by presenting their holy symbo
 
 **Usage frequency:** One attempt per Turn.
 
-===== Klerikos Advancement =====
+## Klerikos Advancement
 
 | Level | XP | Hit Points | Attack | Doom | Ray | Hold | Blast | Spell |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

@@ -3,8 +3,7 @@ title: Holy Magic
 layout: default
 parent: Magic
 ---
-
-====== Holy Magic ======
+# Holy Magic
 
 Holy spells take the form of blessings bestowed upon characters by the grace of the saints of the Pluritine Church. When a spell is cast, the blessing expires until it is bestowed again.
 
@@ -12,11 +11,11 @@ Holy spells take the form of blessings bestowed upon characters by the grace of 
 
 **Saintly legends and patronages:** The //Dolmenwood Player's Book// recounts the primary legend of each saint beside the associated spell, along with a list of the saint’s areas of patronage.
 
-===== Spell Ranks =====
+## Spell Ranks
 
 Spells are categorised by Rank, from Rank 1 (the least powerful) to Rank 5 (the most powerful). A holy spell-caster’s Level determines which Rank of spells they are able to cast.
 
-===== Praying For Spells =====
+## Praying For Spells
 
 A holy spell-caster may pray to the saints once per day, receiving their blessings in the form of spells. Once bestowed, a blessing remains with the character until the spell is cast.
 
@@ -30,11 +29,11 @@ A holy spell-caster may pray to the saints once per day, receiving their blessin
 
 **Duplicate spells:** Characters capable of casting more than one spell of a given Rank may pray for multiple copies of the same spell.
 
-===== Praying at Shrines =====
+## Praying at Shrines
 
 Shrines dedicated to specific saints are scattered throughout Dolmenwood. A holy spell-caster who prays for 1 hour at such a shrine earns the blessing of the saint in the form of an additional spell. Once bestowed, a blessing remains with the character until the spell is cast. The DCB has full details on praying at shrines.
 
-===== Casting Spells =====
+## Casting Spells
 
 A bestowed spell may be cast by reciting a prayer in the Liturgic tongue. When a spell is cast, the saint’s blessing expires until it is bestowed again.
 
@@ -44,54 +43,53 @@ A bestowed spell may be cast by reciting a prayer in the Liturgic tongue. When a
 
 **Cumulative effects:** If multiple spells increasing the same statistic (e.g. bonuses to Attack, AC, damage, Saving Throws, etc.) are cast on a single subject, only the most powerful has effect.
 
-===== Holy Spell List =====
+## Holy Spell List
 
-==== Rank 1 Holy Spells ====
+### Rank 1 Holy Spells
 
-  - [[Detect Evil]]
-  - [[Detect Magic]]
-  - [[Frost Ward]]
-  - [[Lesser Healing]]
-  - [[Light]]
-  - [[Mantle of Protection]]
-  - [[Purify Food and Drink]]
-  - [[Rally]]
+* [[Detect Evil]]
+* [[Detect Magic]]
+* [[Frost Ward]]
+* [[Lesser Healing]]
+* [[Light]]
+* [[Mantle of Protection]]
+* [[Purify Food and Drink]]
+* [[Rally]]
 
-==== Rank 2 Holy Spells ====
+### Rank 2 Holy Spells
 
-  - [[Bless]]
-  - [[Charm Serpents]]
-  - [[Find Traps]]
-  - [[Flame Ward]]
-  - [[Hold Person]]
-  - [[Reveal Alignment]]
-  - [[Silence]]
-  - [[Speak With Animals]]
+* [[Bless]]
+* [[Charm Serpents]]
+* [[Find Traps]]
+* [[Flame Ward]]
+* [[Hold Person]]
+* [[Reveal Alignment]]
+* [[Silence]]
+* [[Speak With Animals]]
 
-==== Rank 3 Holy Spells ====
+### Rank 3 Holy Spells
 
-  - [[Animal Growth]]
-  - [[Bless Weapon]]
-  - [[Cure Affliction]]
-  - [[Holy Light]]
-  - [[Locate Object]]
-  - [[Remove Curse]]
+* [[Animal Growth]]
+* [[Bless Weapon]]
+* [[Cure Affliction]]
+* [[Holy Light]]
+* [[Locate Object]]
+* [[Remove Curse]]
 
-==== Rank 4 Holy Spells ====
+### Rank 4 Holy Spells
 
-  - [[Circle of Protection]]
-  - [[Create Water]]
-  - [[Greater Healing]]
-  - [[Remove Poison]]
-  - [[Speak With Plants]]
-  - [[Serpent Transformation]]
+* [[Circle of Protection]]
+* [[Create Water]]
+* [[Greater Healing]]
+* [[Remove Poison]]
+* [[Speak With Plants]]
+* [[Serpent Transformation]]
 
-==== Rank 5 Holy Spells ====
+### Rank 5 Holy Spells
 
-  - [[Communion]]
-  - [[Create Food]]
-  - [[Holy Fire]]
-  - [[Holy Quest]]
-  - [[Insect Plague]]
-  - [[Raise Dead]]
-
+* [[Communion]]
+* [[Create Food]]
+* [[Holy Fire]]
+* [[Holy Quest]]
+* [[Insect Plague]]
+* [[Raise Dead]]

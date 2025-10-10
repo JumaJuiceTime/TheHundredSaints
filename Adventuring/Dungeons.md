@@ -3,50 +3,50 @@ title: Dungeons
 layout: default
 parent: Adventuring
 ---
-====== Dungeons ======
+# Dungeons
 
-===== Dungeon Exploration Procedure Per Turn =====
+## Dungeon Exploration Procedure Per Turn
 
-  - **Decide actions:** The party decides what actions to take (e.g. moving, searching, listening, entering rooms).
-  - **Wandering monsters:** The Referee makes a check for random encounters as applicable.
-  - **Description:** The Referee describes what happens. If monsters are encountered, follow the procedure described in [[Encounters]].
-  - **End of Turn:** The Referee updates time records, with special attention to light sources, spell durations, and the party’s need to rest.
+  - **Decide actions:** The party decides what actions to take (e.g. moving, searching, listening, entering rooms).
+  - **Wandering monsters:** The Referee makes a check for random encounters as applicable.
+  - **Description:** The Referee describes what happens. If monsters are encountered, follow the procedure described in [[Encounters]].
+  - **End of Turn:** The Referee updates time records, with special attention to light sources, spell durations, and the party’s need to rest.
 
-===== What is a Dungeon? =====
+## What is a Dungeon?
 
 The term dungeon is used to denote any underground, indoor, or enclosed adventuring locale. Crystal caverns, barrow mounds, abandoned mines, ruined castles, enemy fortresses, giant worm tunnels, unhallowed crypts, and haunted manors are all examples of dungeon locales.
 
-===== Dungeon Levels =====
+## Dungeon Levels
 
 Dungeons typically consist of a series of floors or distinct regions known as levels. Adventurers usually begin exploring the first level of a dungeon and may discover entrances to the second, third, and further levels as they explore. Dungeon levels are often connected by stairways, but trap doors, chutes, chasms, pits, and magical portals also sometimes provide means of moving between levels or accessing secret areas.
 
-==== Danger and Reward ====
+### Danger and Reward
 
 Dungeon levels further from an entrance (e.g. deeper underground) present greater challenges but also greater rewards. More powerful monsters live in deeper levels and guard more valuable treasure hoards. Generally, a dungeon level presents suitable challenges and rewards for characters of equal Level. For example, the first level of a dungeon is suited to Level 1 characters.
 
-===== Time =====
+## Time
 
 When exploring dungeons, game time is tracked in Turns (around 10 minutes). See [[Time and Movement]].
 
-===== Movement =====
+## Movement
 
 Characters move at exploration speed: 3 times their Speed in feet each Turn (or up to 10 times their Speed through previously explored, fully mapped areas). See [[Time and Movement]].
 
-==== Established Safe Paths (Optional Rule) ====
+### Established Safe Paths (Optional Rule)
 
 To speed up play, the Referee may choose to accelerate travel along safe, previously explored routes through the dungeon, rather than playing out the whole journey on a Turn by Turn basis.
 
-  - **Length:** Gauge the length of the route.
-  - **Time:** Calculate the number of Turns required to follow the route: divide the route’s length in feet by 10 times the party’s Speed.
-  - **Resources:** Check that the party has sufficient resources (e.g. light sources) to follow the route without incident. If resources expire part way, resume play at the point along the route where this occurs.
-  - **Wandering monsters:** Make wandering monster checks as appropriate for the number of Turns required to follow the route. If a check results in an encounter, resume play at the point along the route where it occurs.
-  - **Journey:** Otherwise, describe the journey briefly without going into detail about each area traversed.
+  - **Length:** Gauge the length of the route.
+  - **Time:** Calculate the number of Turns required to follow the route: divide the route’s length in feet by 10 times the party’s Speed.
+  - **Resources:** Check that the party has sufficient resources (e.g. light sources) to follow the route without incident. If resources expire part way, resume play at the point along the route where this occurs.
+  - **Wandering monsters:** Make wandering monster checks as appropriate for the number of Turns required to follow the route. If a check results in an encounter, resume play at the point along the route where it occurs.
+  - **Journey:** Otherwise, describe the journey briefly without going into detail about each area traversed.
 
-===== Resting =====
+## Resting
 
 Characters must rest for 1 Turn per hour (i.e. 5 Turns of exploration, 1 Turn of rest) or become exhausted (see [[Hazards and Challenges#Exhaustion]]).
 
-==== Sleeping in Dungeons ====
+### Sleeping in Dungeons
 
 Dungeons are perilous places not conducive to sleep. When adventurers become fatigued and their resources run low, it is usually best to retreat to the safety of a settlement to rest. However, adventurers may occasionally wish to camp out in a dungeon.
 
@@ -56,13 +56,13 @@ Dungeons are perilous places not conducive to sleep. When adventurers become fat
 
 **Wandering monsters:** If adventurers set up camp in a hidden or little-frequented corner of a dungeon, the frequency of wandering monster checks may be reduced (per the Referee’s judgement). See [[Dungeons#Wandering Monsters]]. For example, camping behind a closed door in an out-of-the-way area may entail a check once every 2 hours, while camping in a secret room unknown to most dungeon denizens may entail only a single check while PCs sleep.
 
-===== Food in Dungeons =====
+## Food in Dungeons
 
 The weird animals, plants, and fungi of the underworld are sometimes edible—if adventurers dare to sample them. Otherwise, it is advisable to bring rations on longer dungeon expeditions (see [[Adventuring Gear]]).
 
 **Spoilage:** Fresh rations spoil and become inedible after 1 day in a dank environment (e.g. a typical dungeon), while preserved rations last for 1 week.
 
-===== Wandering Monsters =====
+## Wandering Monsters
 
 The typical chance of wandering monster encounters is listed below. At the Referee’s discretion, some dungeons may have higher or lower chances of wandering monsters. See [[Hazards and Challenges#Wandering Monsters]] for more information.
 
@@ -72,15 +72,15 @@ The typical chance of wandering monster encounters is listed below. At the Refer
 
 **Distance:** Wandering monsters are encountered 2d6 × 10′ away, moving towards the party. If both sides are surprised (see [[Encounters]]), this is reduced to 1d4 × 10′.
 
-===== Exiting the Dungeon (Optional Rule) =====
+## Exiting the Dungeon (Optional Rule)
 
 Characters wishing to leave a dungeon must make their way to a known exit to return to the safety of civilisation. Rather than playing out the whole return journey on a Turn by Turn basis, it is sometimes convenient to use an accelerated procedure for exiting a dungeon. For example, some groups prefer to end each session of play outside of the dungeon, enabling a different group of characters and players to reconvene in the next session. In such situations, one of the following procedures may be used.
 
-==== Option 1: Established Safe Paths ====
+### Option 1: Established Safe Paths
 
 If players know of a safe, previously explored route to a dungeon exit, the procedure listed under [[Dungeons#Movement]] may be used.
 
-==== Option 2: Dungeon Escape Roll ====
+### Option 2: Dungeon Escape Roll
 
 This option strongly encourages players to exit the dungeon at the end of each game session. Characters who do not exit the dungeon in a timely manner risk an uncertain doom determined by random rolls. Each character must Save Versus Doom (with modifiers listed below) to escape unscathed. If the save fails, the player must roll on the Dungeon Doom table to determine their character’s fate.
 
@@ -92,9 +92,10 @@ This option strongly encourages players to exit the dungeon at the end of each g
 
 **Dungeon size:** The Referee may apply a Saving Throw bonus for very small dungeons or a penalty for especially sprawling dungeons.
 
-==== Dungeon Doom ====
+### Dungeon Doom
 
-^ d10^ Result^
+| d10| Result|
+|:---|:---|
 | 1| Escaped. 1d6 random items of equipment lost.|
 | 2| Escaped. 1 Hit Point remaining.|
 | 3| Escaped. 1 Hit Point remaining and a permanent loss of 1 point from a random Ability Score.|

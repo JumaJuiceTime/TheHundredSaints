@@ -4,36 +4,36 @@ layout: default
 parent: Classes
 ---
 
-====== Fighter ======
+# Fighter
 
-  * **Prime Abilities:** Strength
-  * **Hit Points:** 1d8 per Level, +2 after Level 10
-  * **Combat Aptitude:** Martial
-  * **Armour:** Any, including shields
-  * **Weapons:** Any
+* **Prime Abilities:** Strength
+* **Hit Points:** 1d8 per Level, +2 after Level 10
+* **Combat Aptitude:** Martial
+* **Armour:** Any, including shields
+* **Weapons:** Any
 
 Fighters are experienced in combat and warfare, whether as brigands, tavern brawlers, town guards, or veterans of a noble house’s army. In an adventuring party, fighters usually take the front-line, battling foes and defending weaker characters.
 
-==== Starting Equipment ====
+## Starting Equipment
 
 **Armour (roll 1d6):** 1. Leather armour. 2. Leather armour + shield. 3. Chainmail. 4. Chainmail + shield. 5. Plate mail. 6. Plate mail + shield.
 
 **Weapons (roll 1d6 twice):** 1. Crossbow + 20 quarrels. 2. Dagger. 3. Longsword. 4. Mace. 5. Shortsword. 6. Spear.
 
-===== Combat Talents =====
+## Combat Talents
 
 Fighters’ expert training grants them special talents to aid in battle. At Levels 2, 6, 10, and 14 the player should roll or choose one of the following talents.
 
-  - **Battle rage:** When in melee, the fighter can choose to enter a berserk rage that lasts until the end of combat. While in the rage, the fighter gains a +2 bonus to Attack and Damage Rolls, but suffers a –4 penalty to Armour Class and is unable to flee. 
-  - **Cleave:** When in melee with multiple foes, if the fighter strikes a killing blow, they may immediately make another attack against a second foe. The second Attack Roll is penalised at –2.
-  - **Defender:** When the fighter is in melee with a foe, any Attack Rolls the foe makes against characters other than the fighter are penalised at –2.
-  - **Last stand:** If the fighter is killed by being reduced to 0 Hit Points, they can continue to act for up to 5 additional Rounds before dying. Each time the fighter suffers further damage during this period, they must Save Versus Doom or die. Magical healing is effective during this period, but the fighter must still Save Versus Doom when damaged, even if healed to above 0 HP.
-  - **Leader:** Mercenaries or retainers under the fighter’s command and within 60′ gain a +1 bonus to Morale or Loyalty. All the fighter’s allies within 60′ gain a +2 bonus to Saving Throws against fear effects.
-  - **Main gauche:** When fighting with a Small melee weapon (e.g. a dagger or hand axe) in the off hand (in place of a shield), the fighter may choose each Round to gain either a +1 Armour Class bonus or a +1 Attack bonus.
-  - **Slayer:** The fighter gains a +1 bonus to Attack and Damage Rolls when in combat with foes of a specific type. The type of enemy must be chosen when this talent is selected (examples: bears, crookhorns, undead, wyrms, etc.). This talent may be chosen multiple times, each time for a different type of foe.
-  - **Weapon specialist:** The fighter is an expert with a specific type of weapon chosen by the player (e.g. maces, two-handed swords, longbows, etc.). They gain a +1 bonus to Attack and Damage Rolls using this type of weapon. This talent may be chosen multiple times, each time for a different type of weapon.
+* **Battle rage:** When in melee, the fighter can choose to enter a berserk rage that lasts until the end of combat. While in the rage, the fighter gains a +2 bonus to Attack and Damage Rolls, but suffers a –4 penalty to Armour Class and is unable to flee. 
+* **Cleave:** When in melee with multiple foes, if the fighter strikes a killing blow, they may immediately make another attack against a second foe. The second Attack Roll is penalised at –2.
+* **Defender:** When the fighter is in melee with a foe, any Attack Rolls the foe makes against characters other than the fighter are penalised at –2.
+* **Last stand:** If the fighter is killed by being reduced to 0 Hit Points, they can continue to act for up to 5 additional Rounds before dying. Each time the fighter suffers further damage during this period, they must Save Versus Doom or die. Magical healing is effective during this period, but the fighter must still Save Versus Doom when damaged, even if healed to above 0 HP.
+* **Leader:** Mercenaries or retainers under the fighter’s command and within 60′ gain a +1 bonus to Morale or Loyalty. All the fighter’s allies within 60′ gain a +2 bonus to Saving Throws against fear effects.
+* **Main gauche:** When fighting with a Small melee weapon (e.g. a dagger or hand axe) in the off hand (in place of a shield), the fighter may choose each Round to gain either a +1 Armour Class bonus or a +1 Attack bonus.
+* **Slayer:** The fighter gains a +1 bonus to Attack and Damage Rolls when in combat with foes of a specific type. The type of enemy must be chosen when this talent is selected (examples: bears, crookhorns, undead, wyrms, etc.). This talent may be chosen multiple times, each time for a different type of foe.
+* **Weapon specialist:** The fighter is an expert with a specific type of weapon chosen by the player (e.g. maces, two-handed swords, longbows, etc.). They gain a +1 bonus to Attack and Damage Rolls using this type of weapon. This talent may be chosen multiple times, each time for a different type of weapon.
 
-===== Fighter Advancement =====
+## Fighter Advancement
 
 | Level | XP | Hit Points | Attack | Combat Talents | Doom | Ray | Hold | Blast | Spell |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

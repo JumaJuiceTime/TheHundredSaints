@@ -4,27 +4,27 @@ layout: default
 parent: Classes
 ---
 
-====== Hunter ======
+# Hunter
 
-  * **Prime Abilities:** Constitution and Dexterity
-  * **Hit Points:** 1d8 per Level, +2 after Level 10
-  * **Combat Aptitude:** Martial
-  * **Armour:** Light, shields
-  * **Weapons:** Any
+* **Prime Abilities:** Constitution and Dexterity
+* **Hit Points:** 1d8 per Level, +2 after Level 10
+* **Combat Aptitude:** Martial
+* **Armour:** Light, shields
+* **Weapons:** Any
 
 Hardened to a life in the wilds, hunters develop a keen survival instinct and an intuitive connection with wild animals. A hunter’s knowledge of tracking, hunting, and survival is invaluable to any party travelling deep into the wild.
 
-==== Starting Equipment ====
+## Starting Equipment
 
 **Armour (roll 1d6):** 1–3. Leather armour. 4–6. Leather armour + shield.
 
 **Weapons (roll 1d6 twice):** 1. Dagger. 2. Longsword. 3–4. Longbow + 20 arrows (shortbow + 20 arrows for Small characters). 5. Shortsword. 6. Sling + 20 stones.
 
-===== Animal Companion =====
+## Animal Companion
 
 A hunter may attempt to forge a bond with an animal. If the bond is successfully established, the animal becomes the hunter’s loyal companion.
 
-==== Requirements ====
+### Requirements
 
 **One companion:** A hunter may have but a single animal companion. If a companion dies or is dismissed, the hunter may attempt to forge a connection with a new animal.
 
@@ -32,23 +32,23 @@ A hunter may attempt to forge a bond with an animal. If the bond is successfully
 
 **Level:** An animal companion may not exceed the hunter’s Level.
 
-==== Establishing a Connection ====
+### Establishing a Connection
 
 The hunter must approach the animal and interact in a peaceful manner for 1 Turn. On a successful Charisma Check, the animal becomes the hunter’s companion.
 
-==== Companion’s Behaviour ====
+### Companion’s Behaviour
 
 Once a connection is successfully established, the animal companion follows the hunter everywhere. It understands basic commands from the hunter (even if its species would not normally do so). The companion fights to defend the hunter, never checking Morale.
 
-===== Hunter Skills =====
+## Hunter Skills
 
 As they advance in Level, hunters improve their chance of success with the Survival skill. They also have three additional, specialised skills. The Hunter Skill Targets table lists the character’s Skill Targets as they advance in Level.
 
-==== Alertness ====
+### Alertness
 
 If a hunter’s party is surprised, the hunter may make an Alertness Check to act normally in the Surprise Round. See [[Encounters#Surprise]].
 
-==== Stalking ====
+### Stalking
 
 **Hiding:** A hunter may make a Stalking Check to remain undetected when the only cover available is light brush (see Hiding and Ambushes under [[Hazards and Challenges#Stealth]]).
 
@@ -56,7 +56,7 @@ If a hunter’s party is surprised, the hunter may make an Alertness Check to ac
 
 **Wilderness only:** Hunters can only use Stalking in the wilds (i.e. not in settlements, indoors, or in subterranean space).
 
-==== Tracking ====
+### Tracking
 
 A successful check allows a hunter to find tracks left by creatures in a 30′ × 30′ area. The hunter knows the type of creatures that made the tracks and may follow the tracks.
 
@@ -70,7 +70,7 @@ A successful check allows a hunter to find tracks left by creatures in a 30′ �
 
 **Wilderness only:** Hunters can only use Tracking in the wilds (i.e. not in settlements, indoors, or in subterranean space).
 
-===== Hunter Skill Targets =====
+## Hunter Skill Targets
 
 | Level | Alertness | Stalking | Survival | Tracking |
 | :---: | :---: | :---: | :---: | :---: |
@@ -90,7 +90,7 @@ A successful check allows a hunter to find tracks left by creatures in a 30′ �
 | 14 | 3 | 2 | 2 | 2 |
 | 15 | 2 | 2 | 2 | 2 |
 
-==== Customising Hunter Skills (Optional Rule) ====
+### Customising Hunter Skills (Optional Rule)
 
 The Hunter Skill Targets table lists the standard skill progression, granting a balanced advancement across all skills. Players wishing to customise their character’s skill advancement may use this optional rule.
 
@@ -104,11 +104,11 @@ The Hunter Skill Targets table lists the standard skill progression, granting a 
 
 **Minimum Skill Target:** No Skill Target may be lowered below 2.
 
-===== Missile Attacks =====
+## Missile Attacks
 
 Hunters gain a +1 Attack bonus with all missile weapons.
 
-===== Trophies =====
+## Trophies
 
 After hunting down (i.e. tracking, ambushing, or chasing) and slaying a creature, a hunter may take a trophy from it—for example, a stag’s antlers, a wyrm’s tooth, etc.
 
@@ -116,11 +116,11 @@ After hunting down (i.e. tracking, ambushing, or chasing) and slaying a creature
 
 **Boon:** If a trophy is either on the hunter’s person or mounted in their home, it acts as a charm: the hunter gains a +1 bonus to Attack Rolls against other creatures of the same type and a +1 bonus to Saving Throws against their special attacks.
 
-===== Wayfinding =====
+## Wayfinding
 
 If the Referee determines that the hunter’s party has become lost, there is a 3-in-6 chance that the hunter can find the path again.
 
-===== Hunter Advancement =====
+## Hunter Advancement
 
 | Level | XP | Hit Points | Attack | Doom | Ray | Hold | Blast | Spell |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

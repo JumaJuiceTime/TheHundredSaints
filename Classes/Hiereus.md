@@ -3,18 +3,17 @@ title: Hiereus
 layout: default
 parent: Classes
 ---
+# Hiereus
 
-====== Hiereus ======
-
-  * **Prime Abilities:** Intelligence and Wisdom
-  * **Hit Points:** 1d4 per Level, +1 after Level 10
-  * **Combat Aptitude:** Non-martial
-  * **Armour:** None
-  * **Weapons:** Club, dagger, holy water, oil, sling, staff, torch
+* **Prime Abilities:** Intelligence and Wisdom
+* **Hit Points:** 1d4 per Level, +1 after Level 10
+* **Combat Aptitude:** Non-martial
+* **Armour:** None
+* **Weapons:** Club, dagger, holy water, oil, sling, staff, torch
 
 Hiereus are monks or nuns who have taken to a life of wandering, doing good wherever they can. They are only loosely affiliated with the Church and exist outside the strict religious hierarchy of the clergy. Hiereus are thus beloved by the common folk, whom they often aid where the Church does not.
 
-==== Restrictions ====
+## Restrictions
 
 **Alignment:** As servants of the Church, hiereus must be Lawful or Neutral.
 
@@ -22,13 +21,13 @@ Hiereus are monks or nuns who have taken to a life of wandering, doing good wher
 
 **Kindred:** Only mortals are trained as friars—fairies and demi-fey have no spiritual connection with the deities of mortals.
 
-==== Starting Equipment ====
+## Starting Equipment
 
 **Weapon (roll 1d6):** 1. Club. 2. Dagger. 3–4. Sling + 20 stones. 5–6. Staff.
 
 **Class items:** Hierius’s habit, wooden holy symbol.
 
-===== Hiereus Tenets =====
+## Hiereus Tenets
 
 **Sanctity of life:** All life is sacred. Hiereus must protect and aid the needy with all means available.
 
@@ -38,23 +37,23 @@ Hiereus are monks or nuns who have taken to a life of wandering, doing good wher
 
 **Mentorship:** Hiereus must share their wisdom with common folk and non-believers, guiding them into the ways of the Pluritine Church.
 
-===== Armour of Faith =====
+## Armour of Faith
 
 The divine blessing of the One True God grants hiereus a bonus to Armour Class, depending on their Level. See the Hiereus Advancement table.
 
-===== Culinary Implements =====
+## Culinary Implements
 
 A hiereus can employ a frying pan, cured sausage, or even a ham shank as a melee weapon, doing 1d4 damage.
 
-===== Hiereus Skills =====
+## Hiereus Skills
 
 Hiereus have a Skill Target of 5 for Survival when foraging.
 
-===== Herbalism =====
+## Herbalism
 
 In the hands of a hiereus, a single dose of a medicinal herb (for example those listed under [[Common Fungi and Herbs]]) is sufficient for 2 subjects.
 
-===== Holy magic =====
+## Holy magic
 
 See [[Holy Magic]] for full details on holy magic, including praying for spells and the list of spells that hiereus can cast.
 
@@ -64,7 +63,7 @@ See [[Holy Magic]] for full details on holy magic, including praying for spells 
 
 **Using magic items:** Hiereus can use magic items exclusive to holy spell-casters (for example, magic rods or scrolls of holy spells).
 
-==== Hiereus Spells Per Day ====
+### Hiereus Spells Per Day
 
 | Level | 1 | 2 | 3 | 4 | 5 |
 | :---: | :-: | :-: | :-: | :-: | :-: |
@@ -84,17 +83,17 @@ See [[Holy Magic]] for full details on holy magic, including praying for spells 
 | 14 | 6 | 5 | 4 | 4 | 3 |
 | 15 | 6 | 5 | 5 | 4 | 3 |
 
-===== Languages =====
+## Languages
 
 In addition to their native languages, hiereus speak Liturgic, the language of Church scripture.
 
-===== Poverty =====
+## Poverty
 
 Due to their monastic vows, a hiereus’s worldly possessions are limited to that which can be carried on their person or mount. Excess wealth must be donated to worthy causes (not other PCs).
 
 Furthermore, a hiereus must dress in a simple habit and cut their hair in a traditional tonsure.
 
-===== Turning the Undead =====
+## Turning the Undead
 
 A hiereus may attempt to drive off undead monsters by presenting their holy symbol and invoking the might of the One True God.
 
@@ -102,10 +101,10 @@ A hiereus may attempt to drive off undead monsters by presenting their holy symb
 
 **Turning roll:** When a hiereus attempts to turn the undead, roll 2d6 to determine the result (modifiers listed below):
 
-  * **4 or lower:** The undead are unaffected.
-  * **5–6:** 2d4 undead are stunned for 1 Round, unable to act.
-  * **7–12:** 2d4 undead flee from the hiereus for 1 Turn.
-  * **13 or higher:** 2d4 undead are permanently destroyed.
+* **4 or lower:** The undead are unaffected.
+* **5–6:** 2d4 undead are stunned for 1 Round, unable to act.
+* **7–12:** 2d4 undead flee from the hiereus for 1 Turn.
+* **13 or higher:** 2d4 undead are permanently destroyed.
 
 **Lower Level undead:** If the undead are lower Level than the hiereus, the turning roll is modified by +2 per Level difference (maximum +6). For example, a Level 5 hiereus turning Level 3 undead would gain a +4 bonus.
 
@@ -115,7 +114,7 @@ A hiereus may attempt to drive off undead monsters by presenting their holy symb
 
 **Usage frequency:** One attempt per Turn.
 
-===== Hiereus Advancement =====
+## Hiereus Advancement
 
 | Level | XP | Hit Points | Attack | AC Bonus | Doom | Ray | Hold | Blast | Spell |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

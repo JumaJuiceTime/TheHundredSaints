@@ -4,11 +4,11 @@ layout: default
 parent: Getting Started
 ---
 
-====== Terminology ======
+# Terminology 
 
 The most frequently used terms are described here, along with page references for further details.
 
-===== Glossary of Terms =====
+## Glossary of Terms 
 
 **Ability Check:** A d6 roll modified by one of a character’s Ability Scores, aiming to equal or beat 4. See [[Core Rules#Ability Checks]].
 

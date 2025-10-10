@@ -30,13 +30,13 @@ A somatophylax serves one of the imperial houses. The player should roll or choo
 
 **Armour:** Somatophylakes regard armour as a symbol of prowess and status, always favouring the most impressive and intimidating-looking armour available. They scorn Heavy armour as suitable only for the unskilled.
 
-#### Starting Equipment 
+## Starting Equipment 
 
 **Armour (roll 1d6):** 1. Triple-disc cuirass. 2–3. Muscle cuirass + shield. 4. Muscle cuirass with manica & greaves. 5–6. Triple-disc cuirass with manica & greaves + shield.
 
 **Weapons (roll 1d6 twice):** 1. Sling. 2–4. Spatha. 5. Spear. 6. Khopesh.
 
-### Somatophylax Code 
+## Somatophylax Code 
 
 Somatophylakes strive to uphold a stringent code of honour which binds all decision and deed. See The Somatophylax Code. The repercussions of performing acts at odds with the somatophylax code depend on the Alignment of the somatophylax and their liege.
 
@@ -44,7 +44,7 @@ Somatophylakes strive to uphold a stringent code of honour which binds all decis
 
 **Chaotic:** The somatophylax is unlikely to bring dishonour upon their liege, whose reputation is already villainous. Unchivalrous deeds are, however, perceived as besmirching the institution of scholae somatophylax. Other somatophylax hunt the Chaotic somatophylax and attempt to bring them to justice.
 
-#### The Somatophylax Code 
+## The Somatophylax Code 
 
 **Honour:** A somatophylax must behave honourably in all deeds. A somatophylax's honour is of utmost importance. Death is preferable to dishonour.
 
@@ -57,31 +57,31 @@ Somatophylakes strive to uphold a stringent code of honour which binds all decis
 **Hierarchy:** The hierarchy that binds society is to be upheld. Superiors must be honoured, equals respected, inferiors commanded, and the ignoble scorned.
 
 
-##### Somatophylax Status 
+### Somatophylax Status 
 Somatophylakes of Levels 1–2 are known as a phylax and are not yet regarded as true a somatophylax. They receive a feather mantle from their master when they are accepted. Upon reaching Level 3, the character is appointed by their liege and gains the right to bear a coat of arms, typically emblazoned upon the somatophylax's shield or lower disc.
 
 **Hospitality:** Once appointed, the character earns rights of hospitality and aid from nobles and other somatophylax of the same Alignment. Hospitality extends to any companions the somatophylax is willing to vouch for. The somatophylax is expected to extend such hospitality in kind.
 
-### Somatophylax Skills 
-#### Decipher Document
+## Somatophylax Skills 
+### Decipher Document
 A somatophylax can Decipher Documents 
 A successful check allows a somatophylax to understand the gist of a non-magical text in a language they do not speak, unravel a cypher, or identify cryptically labelled landmarks on a map.
 
 Retrying: The somatophylax may only attempt to read the same document again after gaining a Level.
-#### Alertness
+### Alertness
 If a somatophylax's party is surprised, the phylax may make an Alertness Check to act normally in the Surprise Round. See Surprise.
-#### Tumbling
+### Tumbling
 When able to tumble, phylakes suffer no damage from the first 10' fallen.
 
 ### Monster Slayer 
 
 From Level 5, a somatophylax gains a +2 bonus to Attack and Damage Rolls against Large creatures.
 
-### Strength of Will 
+## Strength of Will 
 
 Somatophylakes gain a +2 bonus to Saving Throws against magic and effects that cause fear.
 
-##### The Imperial Houses
+## The Imperial Houses
 
   - **House Guillefer (Neutral):** Dreamy and aloof. Rulership shared between family members on a rotating basis—currently Lord Edwin Guillefer.
   - **House Harrowmoor (Lawful):** Steadfast and militant. Under the rulership of Lady Theatrice Harrowmoor.

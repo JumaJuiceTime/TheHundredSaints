@@ -3,28 +3,28 @@ title: Encounters
 layout: default
 parent: Adventuring
 ---
-====== Encounters ======
+# Encounters
 
-===== Encounter Sequence =====
+## Encounter Sequence
 
-  - **Awareness:** The Referee establishes whether either side is already aware of the other.
-  - **Surprise:** The Referee rolls for surprise, if applicable.
-  - **Encounter distance:** The Referee determines the distance between the two sides.
-  - **Initiative:** Any sides that are not surprised roll initiative to determine who acts first.
-  - **Actions:** Any sides that are not surprised decide how they will respond to the encounter. The encounter is played out accordingly.
-  - **Conclusion:** One Turn has passed.
+  - **Awareness:** The Referee establishes whether either side is already aware of the other.
+  - **Surprise:** The Referee rolls for surprise, if applicable.
+  - **Encounter distance:** The Referee determines the distance between the two sides.
+  - **Initiative:** Any sides that are not surprised roll initiative to determine who acts first.
+  - **Actions:** Any sides that are not surprised decide how they will respond to the encounter. The encounter is played out accordingly.
+  - **Conclusion:** One Turn has passed.
 
-===== Sides =====
+## Sides
 
 Typically there are two sides in an encounter—a PC adventuring party and a group of NPCs or monsters. It is possible to have more than two sides in situations where multiple independent groups meet.
 
-===== Awareness =====
+## Awareness
 
 Sometimes one group is already aware of the other’s presence, negating the chance of being surprised. The Referee should judge this based on the situation—e.g. a group making a lot of noise or carrying a light in the dark usually makes its presence known to others at some distance.
 
 **Example:** An adventuring party exploring a dank cave network approaches the cobweb-strewn lair of a giant spider. The spider has spotted the approaching party’s torch light and lies quietly in wait. The spider does not need to make a Surprise Roll, but the party will.
 
-===== Surprise =====
+## Surprise
 
 A Surprise Roll is made for any side that is not already aware of the other’s presence. See [[Hazards and Challenges#Stealth]] for more details on avoiding detection.
 
@@ -32,7 +32,7 @@ A Surprise Roll is made for any side that is not already aware of the other’s 
 
 **Chance of being surprised:** The standard chance of a side being surprised is 2-in-6. This may be modified in certain situations. For example, attacking from hiding (see [[Hazards and Challenges#Stealth]]) increases the chance of the opposing side being surprised by 1, to 3-in-6.
 
-==== Effects of Surprise ====
+### Effects of Surprise
 
 **Neither side surprised:** Neither side has any advantage.
 
@@ -40,7 +40,7 @@ A Surprise Roll is made for any side that is not already aware of the other’s 
 
 **Both sides surprised:** There is simply a momentary confusion—neither side has any advantage.
 
-===== Encounter Distance =====
+## Encounter Distance
 
 The situation in which an encounter occurs often determines the distance between the two sides. If there is uncertainty, determine the distance randomly.
 
@@ -48,13 +48,13 @@ The situation in which an encounter occurs often determines the distance between
 
 **Outdoors:** 2d6 × 30′. (1d4 × 30′ if both sides are surprised.)
 
-==== Effects of Encounter Distance ====
+### Effects of Encounter Distance
 
 **Awareness:** Encounter distance indicates the distance at which one or both sides (determined by surprise) become aware of the other. This may be due to sighting, scent, sounds of movement, and so on.
 
 **Direction:** Unless the situation dictates otherwise, both sides are headed roughly towards each other.
 
-===== Initiative =====
+## Initiative
 
 Initiative determines which side acts first in an encounter.
 
@@ -66,15 +66,15 @@ Initiative determines which side acts first in an encounter.
 
 **Waiting:** A side may choose to voluntarily lose initiative, waiting to react to the other side’s actions.
 
-===== Actions =====
+## Actions
 
 The players decide their characters’ actions and the Referee determines the actions of other sides (see [[Encounters#Monster and NPC Reactions]]). The following actions are common.
 
-==== Attacking ====
+### Attacking
 
 If one side attacks, casts spells, or makes tactical movement, follow the procedure under [[Combat]]. Use the previously rolled initiative for the first Round of combat, re-rolling in the second and subsequent Rounds.
 
-==== Evasion ====
+### Evasion
 
 If one side wishes to avoid an encounter, it may attempt to flee. The opposing side must decide whether or not to pursue.
 
@@ -88,15 +88,15 @@ If one side wishes to avoid an encounter, it may attempt to flee. The opposing s
 
 **Obstacles and distractions:** The fleeing side may create obstacles to block pursuit (e.g. burning oil) or drop items to distract pursuers. Creatures that value wealth may stop pursuit if characters drop treasure (3-in-6 chance), and ravenous creatures may stop pursuit if characters drop food (3-in-6 chance).
 
-==== Parley ====
+### Parley
 
 A side may attempt to communicate with the other. If PCs begin an encounter with an attempt to parley, the Charisma of the speaking character can influence the other side’s reaction. See Monster and NPC Reactions.
 
-==== Waiting ====
+### Waiting
 
 A side may decide to wait to see how the other side acts, essentially forfeiting any element of surprise or initiative it may have had.
 
-===== Monster and NPC Reactions =====
+## Monster and NPC Reactions
 
 Circumstances often make it obvious how a monster or NPC will react upon encountering adventurers. If unsure, the Referee may make a Reaction Roll.
 
@@ -104,15 +104,16 @@ Circumstances often make it obvious how a monster or NPC will react upon encount
 
 **Charisma:** When parleying, the Charisma Modifier of the speaking PC is applied to Reaction Rolls.
 
-==== Encounter Reactions ====
+### Encounter Reactions
 
-^ 2d6^ Reaction^
+| 2d6| Reaction|
+|:---|:---|
 | 2 or less| Attacks|
 | 3–5| Hostile, may attack|
 | 6–8| Uncertain, wary|
 | 9–11| Indifferent, may negotiate|
 | 12 or more| Eager, friendly|
 
-===== Conclusion =====
+## Conclusion
 
 An encounter is assumed to take at least one full Turn to complete, including time to rest, regroup, clean weapons, bind wounds, and so on, afterwards.

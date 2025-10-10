@@ -3,72 +3,72 @@ title: Mercenaries
 layout: default
 parent: Equipment, Services, and Animals
 ---
-
+# Mercenaries
 
 Soldiers-for-hire who are typically enlisted to defend a stronghold. They will perform other military duties in a [[Designing a Wilderness|wilderness setting]], such as driving away monsters from surrounding lands, fighting other armies, and so on. Mercenaries will not accompany characters on adventures.
 
 Note that as mercenaries are hired by a character to perform specific services, they are not treated as [[retainers]] and thus do not count toward a character’s maximum number of retainers.
 
-== Locating Mercenaries ==
+## Locating Mercenaries
 
 Mercenaries can be located by posting notices. The response will depend on the availability of suitable troops in the area and the offer made.
 
-== Wages ==
+## Wages
 
-'''Outside of wartime:''' As listed below.
+**Outside of wartime:** As listed below.
 
-'''During wartime:''' All wages are doubled.
+**During wartime:** All wages are doubled.
 
-== Upkeep ==
+## Upkeep
 
-The monthly rate of pay includes food and basic gear. Most mercenaries already have [[Weapons And Armour|weapons and armour]] when hired, though their employer may give them additional gear. Note that armourers are required to repair mercenaries’ armour and weapons (see '''''[[Specialists]]''''').
+The monthly rate of pay includes food and basic gear. Most mercenaries already have [[Weapons And Armour|weapons and armour]] when hired, though their employer may give them additional gear. Note that **armourers** are required to repair mercenaries’ armour and weapons (see '''''[[Specialists]]''').
 
-== Archer ==
+## Archer
 
-Equipped with a shortbow, leather armour, and a shield.
+Equipped with a **shortbow**, **leather armour**, and a **shield**.
 
-== Archer, Mounted ==
+## Archer, Mounted
 
-Mounted on a [[Horse, Riding|riding horse]]. Equipped with a shortbow.
+Mounted on a [[Horse, Riding|riding horse]]. Equipped with a **shortbow**.
 
-== Crossbowman ==
+## Crossbowman
 
-Equipped with a crossbow and chainmail.
+Equipped with a **crossbow** and **chainmail**.
 
-== Crossbowman, Mounted ==
+## Crossbowman, Mounted
 
-Mounted on a [[mule]]. Equipped with a crossbow.
+Mounted on a [[mule]]. Equipped with a **crossbow**.
 
-== Footman, Light ==
+## Footman, Light
 
-Equipped with a sword, leather armour, and a shield.
+Equipped with a **sword**, **leather armour**, and a **shield**.
 
-== Footman, Heavy ==
+## Footman, Heavy
 
-Equipped with a sword, chainmail, and a shield.
+Equipped with a **sword**, **chainmail**, and a **shield**.
 
-== Horseman, Light ==
+## Horseman, Light
 
-Mounted on a [[Horse, Riding|riding horse]]. Equipped with a lance and leather armour.
+Mounted on a [[Horse, Riding|riding horse]]. Equipped with a **lance** and **leather armour**.
 
-== Horseman, Medium ==
+## Horseman, Medium
 
-Mounted on a [[Horse, War|warhorse]]. Equipped with a lance and chainmail.
+Mounted on a [[Horse, War|warhorse]]. Equipped with a **lance** and **chainmail**.
 
-== Horseman, Heavy ==
+## Horseman, Heavy
 
-Mounted on a [[Horse, War|warhorse]]. Equipped with a sword, a lance, and plate mail.
+Mounted on a [[Horse, War|warhorse]]. Equipped with a **sword**, a **lance**, and **plate mail**.
 
-== Longbowman ==
+## Longbowman
 
-Equipped with a longbow, a sword, and chainmail.
+Equipped with a **longbow**, a **sword**, and **chainmail**.
 
-== Peasant ==
+## Peasant
 
-Unarmed.
+**Unarmed**.
 
-== Wolf Rider ==
+## Wolf Rider
 
-Mounted on a [[Wolf, Dire|wolf]]. Equipped with a spear and leather armour.
+Mounted on a [[Wolf, Dire|wolf]]. Equipped with a **spear** and **leather armour**.
 
 [[Category:Hired Help]]

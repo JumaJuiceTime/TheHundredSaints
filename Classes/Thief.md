@@ -14,7 +14,7 @@ parent: Classes
 
 Inveterate scoundrels, thieves are always on the lookout for their next mark, scam, or get rich quick scheme. Many thieves are drawn to a life of adventure, relishing exploration, peril, and the promise of great wealth.
 
-#### Starting Equipment 
+## Starting Equipment 
 
 **Armour (roll 1d6):** 1–3. None. 4–6. Leather.
 
@@ -90,7 +90,7 @@ A successful check allows a thief to open a lock without the key. Thieves’ too
 
 **Sneaking:** If a Surprise Roll indicates that a thief’s party has been detected, the thief may make a Stealth Check to remain undetected. See [[Encounters#Surprise]] and Sneaking under [[Hazards and Challenges#Stealth]].
 
-#### Thief Skill Targets 
+### Thief Skill Targets 
 
 | Level | Climb Wall | Decipher Doc. | Disarm Mech. | Legerdemain | Listen | Pick Lock | Search | Stealth |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -110,7 +110,7 @@ A successful check allows a thief to open a lock without the key. Thieves’ too
 | 14 | 2 | 3 | 2 | 3 | 2 | 2 | 2 | 2 |
 | 15 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
-#### Customising Thief Skills (Optional Rule) 
+### Customising Thief Skills (Optional Rule) 
 
 The Thief Skill Targets table lists the standard skill progression, granting a balanced advancement across all skills. Players wishing to customise their character’s skill advancement may use this optional rule.
 
@@ -124,7 +124,7 @@ The Thief Skill Targets table lists the standard skill progression, granting a b
 
 **Minimum Skill Target:** No Skill Target may be lowered below 2.
 
-### Thieves’ Cant 
+## Thieves’ Cant 
 
 In addition to their native languages, thieves learn a secret language of gestures and code words that allows them to hide messages in seemingly normal conversations.
 

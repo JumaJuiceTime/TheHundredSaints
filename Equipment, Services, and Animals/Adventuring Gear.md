@@ -3,104 +3,109 @@ title: Adventuring Gear
 layout: default
 parent: Equipment, Services, and Animals
 ---
+# Adventuring Gear
 
-====== Adventuring Gear ======
+## Containers
 
-==== Containers ====
+| Item | Capacity | Cost (gp) | Weight |
+| :--- | :--- | :--- | :--- |
+| Backpack | 400 coins | 4 | 50 |
+| Barrel | 320 pints | 1 | 70 |
+| Belt pouch | 50 coins | 1 | 10 |
+| Bucket | 40 pints | 1 | 20 |
+| //Casket (iron, large)// | 800 coins | 30 | 400 |
+| //Casket (iron, small)// | 250 coins | 10 | 100 |
+| Chest (wooden, large) | 1,000 coins | 5 | 200 |
+| Chest (wooden, small) | 300 coins | 1 | 50 |
+| Sack | 600 coins | 1 | 5 |
+| //Scroll case// | 1 scroll | 1 | 5 |
+| //Vial (glass)// | 1/2 pint | 1 | 1 |
+| Waterskin | 2 pints | 1 | 50 (full) |
 
-^ Item^ Capacity^ Cost (gp)^ Weight^
-| Backpack| 400 coins| 4| 50|
-| Barrel| 320 pints| 1| 70|
-| Belt pouch| 50 coins| 1| 10|
-| Bucket| 40 pints| 1| 20|
-| //Casket (iron, large)//| 800 coins| 30| 400|
-| //Casket (iron, small)//| 250 coins| 10| 100|
-| Chest (wooden, large)| 1,000 coins| 5| 200|
-| Chest (wooden, small)| 300 coins| 1| 50|
-| Sack| 600 coins| 1| 5|
-| //Scroll case//| 1 scroll| 1| 5|
-| //Vial (glass)//| 1/2 pint| 1| 1|
-| Waterskin| 2 pints| 1| 50 (full)|
+## Light
 
-==== Light ====
+| Item | Cost (gp) | Weight |
+| :--- | :--- | :--- |
+| Candles (10) | 1 | 20 (2 each) |
+| Lantern (hooded) | 5 | 20 |
+| //Lantern (bullseye)// | 10 | 20 |
+| Oil (flask) | 1 | 10 |
+| Tinder box | 3 | 10 |
+| Torches (3) | 1 | 30 (10 each) |
 
-^ Item^ Cost (gp)^ Weight^
-| Candles (10)| 1| 20 (2 each)|
-| Lantern (hooded)| 5| 20|
-| //Lantern (bullseye)//| 10| 20|
-| Oil (flask)| 1| 10|
-| Tinder box| 3| 10|
-| Torches (3)| 1| 30 (10 each)|
+## Camping and Travel
 
-==== Camping and Travel ====
+| Item | Cost (gp) | Weight |
+| :--- | :--- | :--- |
+| Bedroll | 2 | 70 |
+| Cooking pots | 3 | 100 |
+| Firewood (bundle, 8 hours) | 1 | 200 |
+| Fishing rod and tackle | 4 | 50 |
+| Rations (preserved, 1 day) | 2 | 20 |
+| Rations (fresh, 1 day) | 1 | 20 |
+| //Tent// | 20 | 20 |
 
-^ Item^ Cost (gp)^ Weight^
-| Bedroll| 2| 70|
-| Cooking pots| 3| 100|
-| Firewood (bundle, 8 hours)| 1| 200|
-| Fishing rod and tackle| 4| 50|
-| Rations (preserved, 1 day)| 2| 20|
-| Rations (fresh, 1 day)| 1| 20|
-| //Tent//| 20| 20|
+## Holy Items
 
-==== Holy Items ====
+| Item | Cost (gp) | Weight |
+| :--- | :--- | :--- |
+| //Holy symbol (gold)// | 100 | 20 |
+| //Holy symbol (silver)// | 25 | 20 |
+| Holy symbol (wooden) | 5 | 10 |
+| //Holy water (vial)// | 25 | 10 |
 
-^ Item^ Cost (gp)^ Weight^
-| //Holy symbol (gold)//| 100| 20|
-| //Holy symbol (silver)//| 25| 20|
-| Holy symbol (wooden)| 5| 10|
-| //Holy water (vial)//| 25| 10|
+## Miscellaneous Tools
 
-==== Miscellaneous Tools ====
+| Item | Cost (gp) | Weight |
+| :--- | :--- | :--- |
+| //Bell (miniature)// | 1 | 1 |
+| //Block and tackle// | 5 | 50 |
+| //Caltrops (bag of 20)// | 1 | 20 (1 each) |
+| //Chain (10′ long)// | 30 | 100 |
+| Chalk (10 sticks) | 1 | 10 (1 each) |
+| Chisel | 2 | 20 |
+| Crowbar | 10 | 50 |
+| //Grappling hook// | 20 | 40 |
+| Hammer (small) | 2 | 30 |
+| Hammer (sledgehammer) | 5 | 100 |
+| //Ink (vial)// | 1 | 5 |
+| Iron spikes (12) | 1 | 60 (5 each) |
+| //Lock// | 20 | 10 |
+| //Magnifying glass// | 3 | 5 |
+| //Manacles// | 15 | 60 |
+| //Marbles (bag of 20)// | 1 | 20 (1 each) |
+| Mining pick | 3 | 100 |
+| Mirror (small) | 5 | 50 |
+| //Musical instrument (stringed)// | 20 | 50 |
+| //Musical instrument (wind)// | 5 | 20 |
+| //Paper or parchment (2 sheets)// | 1 | – |
+| Pole (10′ long, wooden) | 1 | 70 |
+| //Quill// | 1 | 1 |
+| Rope (50′ long) | 1 | 100 |
+| Rope ladder (25′ long) | 5 | 200 |
+| Saw | 1 | 20 |
+| Shovel | 2 | 50 |
+| //Spell book (blank)// | 100 | 50 |
+| //Thieves’ tools// | 25 | 10 |
+| Twine (100′ ball) | 1 | 10 |
+| Whistle | 1 | 1 |
 
-^ Item^ Cost (gp)^ Weight^
-| //Bell (miniature)//| 1| 1|
-| //Block and tackle//| 5| 50|
-| //Caltrops (bag of 20)//| 1| 20 (1 each)|
-| //Chain (10′ long)//| 30| 100|
-| Chalk (10 sticks)| 1| 10 (1 each)|
-| Chisel| 2| 20|
-| Crowbar| 10| 50|
-| //Grappling hook//| 20| 40|
-| Hammer (small)| 2| 30|
-| Hammer (sledgehammer)| 5| 100|
-| //Ink (vial)//| 1| 5|
-| Iron spikes (12)| 1| 60 (5 each)|
-| //Lock//| 20| 10|
-| //Magnifying glass//| 3| 5|
-| //Manacles//| 15| 60|
-| //Marbles (bag of 20)//| 1| 20 (1 each)|
-| Mining pick| 3| 100|
-| Mirror (small)| 5| 50|
-| //Musical instrument (stringed)//| 20| 50|
-| //Musical instrument (wind)//| 5| 20|
-| //Paper or parchment (2 sheets)//| 1| –|
-| Pole (10′ long, wooden)| 1| 70|
-| //Quill//| 1| 1|
-| Rope (50′ long)| 1| 100|
-| Rope ladder (25′ long)| 5| 200|
-| Saw| 1| 20|
-| Shovel| 2| 50|
-| //Spell book (blank)//| 100| 50|
-| //Thieves’ tools//| 25| 10|
-| Twine (100′ ball)| 1| 10|
-| Whistle| 1| 1|
+## Clothing
 
-==== Clothing ====
+| Item | Cost (gp) | Weight |
+| :--- | :--- | :--- |
+| Clothes, common | 1 | 30 |
+| //Clothes, extravagant// | 100 | 60 |
+| //Clothes, fine// | 20 | 40 |
+| //Habit, friar’s// | 2 | 30 |
+| //Robes, ritual// | 10 | 30 |
+| Winter cloak | 2 | 20 |
 
-^ Item^ Cost (gp)^ Weight^
-| Clothes, common| 1| 30|
-| //Clothes, extravagant//| 100| 60|
-| //Clothes, fine//| 20| 40|
-| //Habit, friar’s//| 2| 30|
-| //Robes, ritual//| 10| 30|
-| Winter cloak| 2| 20|
-
-===== Common and Uncommon Items =====
+### Common and Uncommon Items
 
 Items listed in italics are only available in towns and cities. Other items are available in all settlements.
 
-===== Coinage =====
+### Coinage
 
 **Gold pieces (gp):** Worth 10sp, 100cp.
 
@@ -110,7 +115,7 @@ Items listed in italics are only available in towns and cities. Other items are 
 
 **Pellucidium pieces (pp):** Worth 5gp, 50sp, 500cp. Pellucidium—commonly called fairy silver—is a pale, silvery metal originating in Fairy. Even in pitch darkness, it faintly glints as if under moonlight.
 
-===== Adventuring Gear =====
+## Adventuring Gear
 
 **Backpack:** A leather bag with shoulder straps. Holds up to 400 coins.
 
@@ -158,7 +163,7 @@ Items listed in italics are only available in towns and cities. Other items are 
 
 **Hammer (sledgehammer):** A big heavy hammer for breaking rock.
 
-**Holy symbol:** Servants of the Pluritine Church must carry a holy symbol worn around the neck. The quality of a holy symbol alters its effectiveness at turning the undead. A silver holy symbol grants a +1 bonus to the 2d6 roll which determines the success of the turning attempt. A gold holy symbol also grants a +1 bonus to the 2d4 roll which determines the number of monsters affected.
+**Holy symbol:** Servants of the Pluritine Church must carry a holy symbol worn around the neck. The quality of a holy symbol alters its effectiveness at turning the undead. A silver holy symbol grants a **+1 bonus** to the 2d6 roll which determines the success of the turning attempt. A gold holy symbol also grants a **+1 bonus** to the 2d4 roll which determines the number of monsters affected.
 
 **Holy water:** Water blessed by high-ranking clergy, stored in a special vial for use in religious rituals. Holy water inflicts damage on undead monsters (see [[Armour and Weapons#Weapons]]). Loses its power if transferred from the blessed vials it is stored in.
 
@@ -166,7 +171,7 @@ Items listed in italics are only available in towns and cities. Other items are 
 
 **Iron spikes:** May be used to wedge doors open or shut, anchor ropes, and many other purposes.
 
-**Lantern:** Shutters allow the light to be hidden and the flame protected. Burns one oil flask every 4 hours (24 Turns). A hooded lantern casts light in a 30′ radius. A bullseye lantern casts light in a narrow beam, 60′ long and 20′ wide at the end.
+**Lantern:** Shutters allow the light to be hidden and the flame protected. Burns one oil flask every 4 hours (24 Turns). A **hooded lantern** casts light in a **30′ radius**. A **bullseye lantern** casts light in a **narrow beam, 60′ long and 20′ wide** at the end.
 
 **Lock:** A basic iron lock with a key.
 
@@ -182,7 +187,7 @@ Items listed in italics are only available in towns and cities. Other items are 
 
 **Musical instrument:** A stringed instrument (e.g. a lute or mandolin) or a wind instrument (e.g. a flute or pipe). The listed price is for an instrument of basic quality. Higher quality instruments can cost up to 10 times as much.
 
-**Oil flask:** A flask of oil fuels a lantern for four hours (24 Turns). Burning oil can also be used as a weapon, either by throwing it at enemies (see [[Armour and Weapons#Weapons]]) or by pooling it on the ground (covers a 3′ diameter area, burns for 1 Turn, 1d8 Damage to creatures passing through).
+**Oil flask:** A flask of oil fuels a lantern for four hours (24 Turns). Burning oil can also be used as a weapon, either by throwing it at enemies (see [[Armour and Weapons#Weapons]]) or by pooling it on the ground (covers a **3′ diameter area**, burns for **1 Turn**, **1d8 Damage** to creatures passing through).
 
 **Paper or parchment:** Approximately 1′-square sheets.
 
@@ -190,7 +195,7 @@ Items listed in italics are only available in towns and cities. Other items are 
 
 **Quill:** A large feather sharpened into a writing point.
 
-**Rations:** Preserved rations last up to 2 months, or 1 week in dank conditions (e.g. fungal forest, dungeons). Fresh rations last for 1 week, or 1 day in dank conditions.
+**Rations:** **Preserved rations** last up to **2 months**, or **1 week** in dank conditions (e.g. fungal forest, dungeons). **Fresh rations** last for **1 week**, or **1 day** in dank conditions.
 
 **Robes, ritual:** Fine quality robes with embroidered symbols. Often used by magicians.
 
@@ -198,7 +203,7 @@ Items listed in italics are only available in towns and cities. Other items are 
 
 **Rope ladder:** Two ropes with looped rungs and a knot at the top to attach a grappling hook. Strong enough to hold the weight of three people and their equipment.
 
-**Sack:** A large, hessian sack that can hold 600 coins.
+**Sack:** A large, hessian sack that can hold **600 coins**.
 
 **Saw:** A carpenter’s hand saw for cutting wood.
 
@@ -206,21 +211,21 @@ Items listed in italics are only available in towns and cities. Other items are 
 
 **Shovel:** For excavating earth.
 
-**Spell book (blank):** A hefty tome of vellum pages bound in leather, suitable for inscribing spells. A spell book can contain up to three spells.
+**Spell book (blank):** A hefty tome of vellum pages bound in leather, suitable for inscribing spells. A spell book can contain up to **three spells**.
 
 **Tent:** Large enough for two people.
 
 **Thieves’ tools:** A set of lock picking tools in a small case.
 
-**Tinder box:** Used to light fires, including torches. In perilous situations, there is a 2-in-6 chance of success lighting a fire per Round.
+**Tinder box:** Used to light fires, including torches. In perilous situations, there is a **2-in-6 chance of success** lighting a fire per Round.
 
-**Torch:** When lit, casts light in a 30′ radius and burns for 1 hour (6 Turns). Torches may also be used in combat (see [[Armour and Weapons#Weapons]]).
+**Torch:** When lit, casts light in a **30′ radius** and burns for **1 hour (6 Turns)**. Torches may also be used in combat (see [[Armour and Weapons#Weapons]]).
 
-**Twine:** A wound ball of thin cord or string. Can support up to 300 coins of weight.
+**Twine:** A wound ball of thin cord or string. Can support up to **300 coins** of weight.
 
-**Vial:** A glass vial that can hold up to half a pint of liquid.
+**Vial:** A glass vial that can hold up to **half a pint** of liquid.
 
-**Waterskin:** A leather container that holds up to 2 pints of liquid. Weighs 5 coins when empty.
+**Waterskin:** A leather container that holds up to **2 pints** of liquid. Weighs **5 coins** when empty.
 
 **Winter cloak:** A thick, woollen traveller’s cloak.
 
