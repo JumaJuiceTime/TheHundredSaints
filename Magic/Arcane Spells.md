@@ -1,4 +1,3 @@
-
 ---
 title: Arcane Spells
 layout: default

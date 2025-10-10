@@ -77,96 +77,95 @@ A memorised spell is cast by precisely replicating a specific set of hand gestur
 ## Arcane Spell List
 
 ### Rank 1 Arcane Spells
-
-* **Crystal Resonance**
-* **Decipher**
-* **Fairy Servant**
-* **Firelight**
-* **Floating Disc**
-* **Glyph of Sealing**
-* **Ignite / Extinguish**
-* **Ingratiate**
-* **Ioun Shard**
-* **Shield of Force**
-* **Vapours of Dream**
-* **Ventriloquism**
+1. **Charm Person**
+2. **Detect Magic**
+3. **Floating Disc**
+4. **Hold Portal**
+5. **Light** (Darkness)
+6. **Magic Missile**
+7. **Protection from Evil**
+8. **Read Languages**
+9. **Read Magic**
+10. **Shield**
+11. **Sleep**
+12. **Ventriloquism**
 
 ---
+
 ### Rank 2 Arcane Spells
-
-* **Arcane Cypher**
-* **Dweomerlight**
-* **Flaming Spirit**
-* **Glyph of Locking**
-* **Invisibility**
-* **Knock**
-* **Levitate**
-* **Mind Crystal**
-* **Mirror Image**
-* **Perceive the Invisible**
-* **Phantasm**
-* **Web**
+1. **Continual Light** (Continual Darkness)
+2. **Detect Evil**
+3. **Detect Invisible**
+4. **ESP**
+5. **Invisibility**
+6. **Knock**
+7. **Levitate**
+8. **Locate Object**
+9. **Mirror Image**
+10. **Phantasmal Force**
+11. **Web**
+12. **Wizard Lock**
 
 ---
+
 ### Rank 3 Arcane Spells
-
-* **Circle of Invisibility**
-* **Crystal Vision**
-* **Dark Sight**
-* **Dispel Magic**
-* **Fireball**
-* **Fly**
-* **Haste**
-* **Lightning Bolt**
-* **Missile Ward**
-* **Paralysation**
-* **Serpent Glyph**
-* **Water Breathing**
+1. **Clairvoyance**
+2. **Dispel Magic**
+3. **Fire Ball**
+4. **Fly**
+5. **Haste**
+6. **Hold Person**
+7. **Infravision**
+8. **Invisibility 10’ Radius**
+9. **Lightning Bolt**
+10. **Protection from Evil 10’ Radius**
+11. **Protection from Normal Missiles**
+12. **Water Breathing**
 
 ---
+
 ### Rank 4 Arcane Spells
-
-* **Acid Globe**
-* **Arcane Eye**
-* **Confusion**
-* **Dimension Door**
-* **Dominate**
-* **Hallucinatory Terrain**
-* **Hex Weaving**
-* **Plant Growth**
-* **Polymorph**
-* **Wall of Fire**
-* **Wall of Ice**
-* **Woodland Veil**
+1. **Charm Monster**
+2. **Confusion**
+3. **Dimension Door**
+4. **Growth of Plants**
+5. **Hallucinatory Terrain**
+6. **Massmorph**
+7. **Polymorph Others**
+8. **Polymorph Self**
+9. **Remove Curse** (Curse)
+10. **Wall of Fire**
+11. **Wall of Ice**
+12. **Wizard Eye**
 
 ---
+
 ### Rank 5 Arcane Spells
-
-* **Air Sphere**
-* **Animate Dead**
-* **Cloudkill**
-* **Conjure Elemental**
-* **Fabricate**
-* **Feeblemind**
-* **Mire**
-* **Passwall**
-* **Sending**
-* **Telekinesis**
-* **Teleport**
-* **Wall of Stone**
+1. **Animate Dead**
+2. **Cloudkill**
+3. **Conjure Elemental**
+4. **Contact Higher Plane**
+5. **Feeblemind**
+6. **Hold Monster**
+7. **Magic Jar**
+8. **Pass-Wall**
+9. **Telekinesis**
+10. **Teleport**
+11. **Transmute Rock to Mud** (Mud to Rock)
+12. **Wall of Stone**
 
 ---
-### Rank 6 Arcane Spells
 
-* **Anti-Magic Ward**
-* **Control Weather**
-* **Disintegrate**
-* **Dweomerfire**
-* **Geas**
-* **Invisible Stalker**
-* **Move Terrain**
-* **Oracle**
-* **Petrification**
-* **Project Image**
-* **Wave of Force**
-* **Word of Doom**
+### Rank 6 Arcane Spells
+1. **Anti-Magic Shell**
+2. **Control Weather**
+3. **Death Spell**
+4. **Disintegrate**
+5. **Geas** (Remove Geas)
+6. **Invisible Stalker**
+7. **Lower Water**
+8. **Move Earth**
+9. **Part Water**
+10. **Projected Image**
+11. **Reincarnation**
+12. **Stone to Flesh** (Flesh to Stone)

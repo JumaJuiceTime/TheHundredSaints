@@ -46,54 +46,53 @@ A bestowed spell may be cast by reciting a prayer in the Liturgic tongue. When a
 ## Holy Spell List
 
 ### Rank 1 Holy Spells
-
-* **Detect Evil**
-* **Detect Magic**
-* **Frost Ward**
-* **Lesser Healing**
-* **Light**
-* **Mantle of Protection**
-* **Purify Food and Drink**
-* **Rally**
+1. **Cure Light Wounds** (Cause Lt. Wounds)
+2. **Detect Evil**
+3. **Detect Magic**
+4. **Light** (Darkness)
+5. **Protection from Evil**
+6. **Purify Food and Water**
+7. **Remove Fear** (Cause Fear)
+8. **Resist Cold**
 
 ---
+
 ### Rank 2 Holy Spells
-
-* **Bless**
-* **Charm Serpents**
-* **Find Traps**
-* **Flame Ward**
-* **Hold Person**
-* **Reveal Alignment**
-* **Silence**
-* **Speak With Animals**
+1. **Bless** (Blight)
+2. **Find Traps**
+3. **Hold Person**
+4. **Know Alignment**
+5. **Resist Fire**
+6. **Silence 15’ Radius**
+7. **Snake Charm**
+8. **Speak with Animals**
 
 ---
+
 ### Rank 3 Holy Spells
-
-* **Animal Growth**
-* **Bless Weapon**
-* **Cure Affliction**
-* **Holy Light**
-* **Locate Object**
-* **Remove Curse**
+1. **Continual Light** (Continual Darkness)
+2. **Cure Disease** (Cause Disease)
+3. **Growth of Animal**
+4. **Locate Object**
+5. **Remove Curse** (Curse)
+6. **Striking**
 
 ---
+
 ### Rank 4 Holy Spells
-
-* **Circle of Protection**
-* **Create Water**
-* **Greater Healing**
-* **Remove Poison**
-* **Speak With Plants**
-* **Serpent Transformation**
+1. **Create Water**
+2. **Cure Serious Wounds** (Cause Sr. Wounds)
+3. **Neutralize Poison**
+4. **Protection from Evil 10’ Radius**
+5. **Speak with Plants**
+6. **Sticks to Snakes**
 
 ---
-### Rank 5 Holy Spells
 
-* **Communion**
-* **Create Food**
-* **Holy Fire**
-* **Holy Quest**
-* **Insect Plague**
-* **Raise Dead**
+### Rank 5 Holy Spells
+1. **Commune**
+2. **Create Food**
+3. **Dispel Evil**
+4. **Insect Plague**
+5. **Quest** (Remove Quest)
+6. **Raise Dead** (Finger of Death)
