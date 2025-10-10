@@ -141,7 +141,7 @@ parent: Equipment, Services, and Animals
 
 ### Weapons of Special Metals
 
-Adventurers in Dolmenwood sometimes seek out weapons forged of **cold iron** or **silver**, as those metals are harmful to fairies or certain undead monsters.
+Adventurers in Ouran sometimes seek out weapons forged of **cold iron** or **silver**, as those metals are harmful to fairies or certain undead monsters.
 
 **Time:** Cold iron and silver weapons must be crafted to special order, incurring a delay of **2d6 days**.
 

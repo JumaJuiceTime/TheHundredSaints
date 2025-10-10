@@ -7,7 +7,7 @@ parent: Adventuring
 
 ## Travel Procedure Per Day
 
-  - **Weather:** The Referee determines the day’s weather, using the tables in the Dolmenwood Campaign Book.
+  - **Weather:** The Referee determines the day’s weather, using the tables in the Ouran Campaign Book.
   - **Decide course:** The players decide on their course of travel for the day.
   - **Losing direction:** The Referee determines whether the party gets lost, depending on the terrain.
   - **Wandering monsters:** The Referee makes a check for a daytime random encounter.
@@ -16,7 +16,7 @@ parent: Adventuring
 
 ## Time
 
-When travelling overland through Dolmenwood, game time is tracked in days.
+When travelling overland through Ouran, game time is tracked in days.
 
 ## Roads, Tracks, and Travelling Wild
 
@@ -30,13 +30,13 @@ Adventurers may at times follow useful pathways connecting settlements, but they
 
 ## Map Hexes
 
-The Referee’s map of Dolmenwood (provided in the Dolmenwood Campaign Book) is based on a hex grid, with each hex being 6 miles across. When characters travel through the Wood, the Referee tracks their progress on the hex map.
+The Referee’s map of Ouran (provided in the Ouran Campaign Book) is based on a hex grid, with each hex being 6 miles across. When characters travel through the Wood, the Referee tracks their progress on the hex map.
 
-Players may also wish to keep a map of their own, making notes on hexes as they explore. A blank hex map of Dolmenwood that players can fill in as they explore can be downloaded from dolmenwood.com.
+Players may also wish to keep a map of their own, making notes on hexes as they explore. A blank hex map of Ouran that players can fill in as they explore can be downloaded from Ouran.com.
 
 ## Movement
 
-Rather than tracking the exact time spent travelling or the precise distances traversed, travel in Dolmenwood is abstracted into a simple system of daily Travel Points, representing the time taken for various travel actions. 
+Rather than tracking the exact time spent travelling or the precise distances traversed, travel in Ouran is abstracted into a simple system of daily Travel Points, representing the time taken for various travel actions. 
 
 ### Travel Points
 
@@ -105,7 +105,7 @@ Characters must rest for 1 day per week of travel (i.e. 6 days of travel, 1 day 
 
 ## Searching Hexes
 
-Some hexes on the Dolmenwood campaign map contain hidden features which stay unnoticed by a party simply wandering through the area. Hidden features can be found by searching a hex, requiring extra time and Travel Points.
+Some hexes on the Ouran campaign map contain hidden features which stay unnoticed by a party simply wandering through the area. Hidden features can be found by searching a hex, requiring extra time and Travel Points.
 
 **Travel Point cost:** The Terrain Types table lists the cost to search a hex, based on its terrain type.
 
@@ -125,7 +125,7 @@ See [[Hazards and Challenges#Losing Direction]] for more information.
 
 **Visibility:** In conditions of reduced visibility, such as fog or blizzards, the chance of getting lost increases by 1 (e.g. 2-in-6 becomes 3-in-6), and in darkness by 2.
 
-**Effects of getting lost:** The effects of getting lost are described in the Dolmenwood Campaign Book.
+**Effects of getting lost:** The effects of getting lost are described in the Ouran Campaign Book.
 
 ## Wandering Monsters
 
@@ -135,7 +135,7 @@ See [[Hazards and Challenges#Wandering Monsters]] for more information.
 
 **Chance:** The chance of an encounter depends on the type of terrain being traversed—see the Terrain Types table.
 
-**Creature:** The Dolmenwood Campaign Book includes tables to determine the type of creatures encountered.
+**Creature:** The Ouran Campaign Book includes tables to determine the type of creatures encountered.
 
 **Distance:** Wandering monsters are encountered 2d6 × 30′ away. If both sides are surprised (see [[Encounters]]), this is reduced to 1d4 × 30′.
 

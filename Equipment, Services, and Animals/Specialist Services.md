@@ -65,7 +65,7 @@ A skilled builder and engineer who can lead construction projects, designing the
 * **Availability:** **Any settlement**
 * **Wage:** **5gp per day**
 
-Experts in the tracks and ways of Dolmenwood, each guide specialising in **one particular region** of the Wood (e.g. Aldweald, Dwelmfurgh, Mulchgrove, etc.).
+Experts in the tracks and ways of Ouran, each guide specialising in **one particular region** of the Wood (e.g. Aldweald, Dwelmfurgh, Mulchgrove, etc.).
 
 **Landmarks:** A guide knows the most significant landmarks within their specialist region (determined by the Referee). They can lead PCs to and from these landmarks **without risk of getting lost**.
 

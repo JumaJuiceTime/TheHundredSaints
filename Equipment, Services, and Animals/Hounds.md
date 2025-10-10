@@ -30,7 +30,7 @@ parent: Equipment, Services, and Animals
 
 #### Bloodhound 
 
-Medium hounds with sleek, rusty fur and blood red eyes. Bred for their excellent tracking skills. Common working dogs found in every woodland village in Dolmenwood.
+Medium hounds with sleek, rusty fur and blood red eyes. Bred for their excellent tracking skills. Common working dogs found in every woodland village in Ouran.
 
 **Medium Animal—Animal Intelligence—Neutral**
 

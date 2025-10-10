@@ -155,7 +155,7 @@ Riding horses have Speed higher than 40, but can only move at this rate for shor
 
 ## Water Travel 
 
-Drifting along Dolmenwood’s waterways is handled using the normal travel rules (see [[Travel]]). The Referee tracks the party’s position along the body of water as they travel. 
+Drifting along Ouran’s waterways is handled using the normal travel rules (see [[Travel]]). The Referee tracks the party’s position along the body of water as they travel. 
 
 **Lakes:** Treat as hexes with a cost of 2 Travel Points.
 

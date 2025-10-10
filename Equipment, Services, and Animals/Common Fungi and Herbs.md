@@ -35,7 +35,7 @@ Lists the chance that an item is available in a settlement when sought (typicall
 
 ### Foraging 
 
-When PCs forage in Dolmenwood, in addition to finding food, they may also come across interesting mushrooms or herbs. These may include the useful varieties listed here and other less well-known species that grow in the wild reaches of the Wood. The Referee determines the types of mushrooms or herbs found, depending on the region of the Wood being explored.
+When PCs forage in Ouran, in addition to finding food, they may also come across interesting mushrooms or herbs. These may include the useful varieties listed here and other less well-known species that grow in the wild reaches of the Wood. The Referee determines the types of mushrooms or herbs found, depending on the region of the Wood being explored.
 
 ### Identifying Specimens 
 

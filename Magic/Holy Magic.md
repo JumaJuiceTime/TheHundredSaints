@@ -7,9 +7,9 @@ parent: Magic
 
 Holy spells take the form of blessings bestowed upon characters by the grace of the saints of the Pluritine Church. When a spell is cast, the blessing expires until it is bestowed again.
 
-**Major and minor saints:** Among the one hundred saints venerated in Dolmenwood, thirty-four are primary and have the power to bestow blessings upon those who pray to them, each being associated with a specific spell. Certain minor saints only bestow a blessing on those who pray at their dedicated shrines, granting less common spells outside of the standard holy spell list.
+**Major and minor saints:** Among the one hundred saints venerated in Ouran, thirty-four are primary and have the power to bestow blessings upon those who pray to them, each being associated with a specific spell. Certain minor saints only bestow a blessing on those who pray at their dedicated shrines, granting less common spells outside of the standard holy spell list.
 
-**Saintly legends and patronages:** The //Dolmenwood Player's Book// recounts the primary legend of each saint beside the associated spell, along with a list of the saint’s areas of patronage.
+**Saintly legends and patronages:** The //Ouran Player's Book// recounts the primary legend of each saint beside the associated spell, along with a list of the saint’s areas of patronage.
 
 ## Spell Ranks
 
@@ -31,7 +31,7 @@ A holy spell-caster may pray to the saints once per day, receiving their blessin
 
 ## Praying at Shrines
 
-Shrines dedicated to specific saints are scattered throughout Dolmenwood. A holy spell-caster who prays for 1 hour at such a shrine earns the blessing of the saint in the form of an additional spell. Once bestowed, a blessing remains with the character until the spell is cast. The DCB has full details on praying at shrines.
+Shrines dedicated to specific saints are scattered throughout Ouran. A holy spell-caster who prays for 1 hour at such a shrine earns the blessing of the saint in the form of an additional spell. Once bestowed, a blessing remains with the character until the spell is cast. The DCB has full details on praying at shrines.
 
 ## Casting Spells
 

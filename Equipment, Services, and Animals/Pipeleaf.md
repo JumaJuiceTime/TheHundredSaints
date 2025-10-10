@@ -5,7 +5,7 @@ parent: Equipment, Services, and Animals
 ---
 # Pipeleaf
 
-**Further details:** The //Dolmenwood Player's Book// provides further flavour and details of the pipeleafs characters can buy.
+**Further details:** The //Ouran Player's Book// provides further flavour and details of the pipeleafs characters can buy.
 
 ## Availability
 

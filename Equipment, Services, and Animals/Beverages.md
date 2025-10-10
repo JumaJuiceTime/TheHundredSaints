@@ -6,7 +6,7 @@ parent: Equipment, Services, and Animals
 
 # Beverages 
 
-**Further details:** The //Dolmenwood Player's Book// provides further flavour and details of the beverages characters can buy.
+**Further details:** The //Ouran Player's Book// provides further flavour and details of the beverages characters can buy.
 
 ## Availability 
 

@@ -7,7 +7,7 @@ parent: Adventuring
 
 ## Settlement Procedure Per Day
 
-* **Weather:** The Referee determines the day’s weather, using the tables in the Dolmenwood Campaign Book.
+* **Weather:** The Referee determines the day’s weather, using the tables in the Ouran Campaign Book.
 * **Decide actions:** The players decide on their actions for the day (e.g. resting, shopping, researching).
 * **Random encounters:** The Referee makes a check for a daytime random encounter.
 * **Description:** The Referee describes what happens. If an encounter occurs, follow the procedure described in [[Encounters]].
@@ -58,7 +58,7 @@ When PCs are active in a settlement (i.e. not simply resting in an inn), there i
 
 ## Settlement Services
 
-The Dolmenwood Campaign Book describes the main points of interest in each settlement, including the most significant shops or services. In addition to any specific services mentioned, the following common services are available in most settlements.
+The Ouran Campaign Book describes the main points of interest in each settlement, including the most significant shops or services. In addition to any specific services mentioned, the following common services are available in most settlements.
 
 ### Apothecaries and Herbalists
 
@@ -100,7 +100,7 @@ Gems, jewellery, and art objects can be bought and sold at specialist jeweller�
 
 ## Settlement Sizes
 
-Settlements in Dolmenwood are classified into one of five size categories, based on their population.
+Settlements in Ouran are classified into one of five size categories, based on their population.
 
 ### Settlement Sizes
 

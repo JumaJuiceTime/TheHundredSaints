@@ -10,7 +10,7 @@ Characters adventuring in the wilds or the underworld must traverse all manner o
 
 The basic game procedure of the Referee describing the scene and players deciding what to do serves as the fundamental means of interacting with hazards and challenges. The environment is described and clarified with questions from the group, then the characters act and the Referee judges what happens. Sometimes a die roll is required—putting a character’s fate in the hands of chance—but it is often possible to bypass hazards using ingenuity, without any kind of random roll.
 
-**Example:** Exploring a cave system of crystal-encrusted grottoes, the party comes across a 10′ wide chasm blocking their path. The players ask the Referee if they can jump across. Consulting the rules for [[Hazards and Challenges#Jumping]], the Referee says that a Strength Check is required. Not liking the odds, the players discuss other approaches. Could the large statue they previously encountered be dragged here and tipped across the chasm as a bridge? Could they attach a rope and grappling hook to rocks on the other side and swing across?
+**Example:** Exploring a cave system of crystal-encrusted grottoes, the party comes across a 10′ wide chasm blocking their path. The players ask the Referee if they can jump across. , the Referee says that a Strength Check is required. Not liking the odds, the players discuss other approaches. Could the large statue they previously encountered be dragged here and tipped across the chasm as a bridge? Could they attach a rope and grappling hook to rocks on the other side and swing across?
 
 ## Adventurer Competency
 
@@ -94,7 +94,7 @@ Falling from a height onto a hard surface inflicts **1d6 damage per 10′ fallen
 
 ## Finding Food in the Wild
 
-Dolmenwood is rich in tasty plants, fish, and game animals. When on a long journey, a party may try to find food in the wilds, rather than relying on rations purchased in a settlement. The party may choose to fish, forage, or hunt—all handled by rolling a **Survival Check** for the day.
+Ouran is rich in tasty plants, fish, and game animals. When on a long journey, a party may try to find food in the wilds, rather than relying on rations purchased in a settlement. The party may choose to fish, forage, or hunt—all handled by rolling a **Survival Check** for the day.
 
 **Time:** If characters devote a whole day exclusively to finding food, without travelling, they gain a **+2 bonus** to the Survival Check. Otherwise, it is assumed they are looking for food during rest periods throughout the day.
 
@@ -104,7 +104,7 @@ Dolmenwood is rich in tasty plants, fish, and game animals. When on a long journ
 
 ### Fishing
 
-Using a fishing rod and tackle (see [[Adventuring Gear]]), fishing is possible in any hex on the Dolmenwood map which contains a lake or river. The DCB lists the kinds of fish that can be caught.
+Using a fishing rod and tackle (see [[Adventuring Gear]]), fishing is possible in any hex on the Ouran map which contains a lake or river. The DCB lists the kinds of fish that can be caught.
 
 **Yield:** Successful fishing provides **2d6 fresh rations**.
 
@@ -112,7 +112,7 @@ Using a fishing rod and tackle (see [[Adventuring Gear]]), fishing is possible i
 
 The DCB lists the kinds of plants and mushrooms that can be found.
 
-**Yield:** Successful foraging provides **1d6 fresh rations** (1d4 in winter, 1d8 in autumn). Rare and magical herbs—only found in certain areas of Dolmenwood—may also turn up in the harvest.
+**Yield:** Successful foraging provides **1d6 fresh rations** (1d4 in winter, 1d8 in autumn). Rare and magical herbs—only found in certain areas of Ouran—may also turn up in the harvest.
 
 ### Hunting
 
@@ -127,7 +127,7 @@ When exploring tangled woods, forsaken moors, or benighted ruins, not all is alw
 
 ### Hidden Features Outdoors
 
-Some areas of the Dolmenwood campaign map contain hidden features which go unnoticed by a party simply wandering past. Hidden features can be found by searching—see [[Travel#Searching Hexes]].
+Some areas of the Ouran campaign map contain hidden features which go unnoticed by a party simply wandering past. Hidden features can be found by searching—see [[Travel#Searching Hexes]].
 
 ### Hidden Features in Dungeons
 
@@ -145,7 +145,7 @@ In enclosed spaces, hidden features can often be located by [[Hazards and Challe
 
 **Hunger:** Adventurers must be careful to pack provisions sufficient for their journey, or be prepared to Find Food in the Wild. Characters who go without food for a whole day or longer begin to suffer deleterious effects as indicated in the Effects of Hunger table.
 
-**Thirst:** Water is easy to find throughout Dolmenwood, in pools and little streams. Characters without access to water suffer the effects of going without food (see the Effects of Hunger table) and lose **3 Constitution per day**. Death results if Constitution is reduced to 0.
+**Thirst:** Water is easy to find throughout Ouran, in pools and little streams. Characters without access to water suffer the effects of going without food (see the Effects of Hunger table) and lose **3 Constitution per day**. Death results if Constitution is reduced to 0.
 
 ### Effects of Hunger
 
@@ -181,7 +181,7 @@ Overland travel is described at an abstract level, without detailing the minutia
 
 **When to roll:** Typically, the roll for getting lost is made at the start of the travel day. If the party starts the day travelling along a road (no chance of getting lost), the roll for getting lost is made when they leave the road.
 
-**Getting lost:** The effects of becoming lost are described in the Dolmenwood Campaign Book.
+**Getting lost:** The effects of becoming lost are described in the Ouran Campaign Book.
 
 ### Getting Lost in Dungeons
 

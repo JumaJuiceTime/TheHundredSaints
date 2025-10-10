@@ -68,7 +68,7 @@ The typical chance of wandering monster encounters is listed below. At the Refer
 
 **Checks:** A check for wandering monsters is rolled once every 2 Turns. The chance of an encounter occurring is 1-in-6.
 
-**Creature:** The Dolmenwood Campaign Book includes tables to determine the type of creatures encountered.
+**Creature:** The Ouran Campaign Book includes tables to determine the type of creatures encountered.
 
 **Distance:** Wandering monsters are encountered 2d6 × 10′ away, moving towards the party. If both sides are surprised (see [[Encounters]]), this is reduced to 1d4 × 10′.
 

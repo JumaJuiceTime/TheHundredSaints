@@ -23,7 +23,7 @@ A Player Character’s native languages are determined by their Kindred. All cha
 | 5 | Old Woldish | Ancient language |
 | 6 | Sylvan | Demi-fey common tongue |
 
-**Obscure languages:** At the Referee’s discretion, characters may learn the following more obscure languages sometimes spoken in Dolmenwood: Boggin, Deorling, Drunic, Dwelve, High Elfish (fairies only), Merfolk, Mulch, Wyrm.
+**Obscure languages:** At the Referee’s discretion, characters may learn the following more obscure languages sometimes spoken in Ouran: Boggin, Deorling, Drunic, Dwelve, High Elfish (fairies only), Merfolk, Mulch, Wyrm.
 
 ## The Common Tongue
 
@@ -61,6 +61,6 @@ The common speech of the fairies and demi-fey of tbd, believed to be distantly d
 
 ### Dwelve
 
-The common speech of fairies and demi-fey that dwell in the underworld beneath Dolmenwood, as well as those with whom they trade. Distantly related to High Elfish.
+The common speech of fairies and demi-fey that dwell in the underworld beneath Ouran, as well as those with whom they trade. Distantly related to High Elfish.
 
 **Learning:** Dwelve is not commonly spoken by surface dwellers, but is easily learned by those with the desire.

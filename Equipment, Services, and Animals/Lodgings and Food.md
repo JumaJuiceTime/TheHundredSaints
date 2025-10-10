@@ -6,11 +6,11 @@ parent: Equipment, Services, and Animals
 
 # Lodgings and Food 
 
-**Further details:** The //Dolmenwood Player's Book// provides further details of specific meals characters can buy.
+**Further details:** The //Ouran Player's Book// provides further details of specific meals characters can buy.
 
 ### Establishment Quality 
 
-Lodgings in Dolmenwood are classified as one of three levels of quality: poor, common, or fancy. The lodgings, food, and services offered by an establishment depend on its quality. The following lists describe some of the most common dishes served in the inns and taverns of Dolmenwood. Certain establishments additionally serve their own specialities.
+Lodgings in Ouran are classified as one of three levels of quality: poor, common, or fancy. The lodgings, food, and services offered by an establishment depend on its quality. The following lists describe some of the most common dishes served in the inns and taverns of Ouran. Certain establishments additionally serve their own specialities.
 
 ## Price Lists 
 
