@@ -38,23 +38,6 @@ Players may also wish to keep a map of their own, making notes on hexes as they 
 
 Rather than tracking the exact time spent travelling or the precise distances traversed, travel in Ouran is abstracted into a simple system of daily Travel Points, representing the time taken for various travel actions. 
 
-### Travel Points
-
-A party has Travel Points each day equal to its Speed divided by 5, as shown in the Travel Points Per Day table. Any excess Travel Points not used by the end of the day are lost.
-
-### Travel Points Per Day
-
-^ ^   Travel Points Per Day  ^^
-^ Party’s Speed^ Normal Travel^ Forced March^
-| 40| 8| 12|
-| 30| 6| 9|
-| 20| 4| 6|
-| 10| 2| 3|
-
-**Mounted:** A mounted party has Speed 40.
-
-**Vehicles:** A party travelling with a cart or wagon has Speed 30.
-
 ### Normal Travel
 
 A normal day of travel (whether on roads, tracks, or in the wild) is assumed to last 12 hours, with 8 hours spent travelling and 4 hours spent resting, preparing meals, eating, setting up and taking down camp, and so forth.
@@ -64,14 +47,6 @@ A normal day of travel (whether on roads, tracks, or in the wild) is assumed to 
 A party may push itself to travel extra distance in a day, gaining a 50% increase in Travel Points (see the Travel Points Per Day table). This requires a 16 hour travel day, including 12 solid hours of travel.
 
 **Exhaustion:** Following a forced march, characters must rest for a full day or become exhausted (see [[Hazards and Challenges#Exhaustion]]). Characters who forced march again without resting suffer cumulative exhaustion penalties (–1 per day).
-
-### Travelling on Roads and Tracks
-
-The Referee tracks the party’s position along roads or tracks as they travel.
-
-**Travel Point cost:** 6 miles costs 2 Travel Points, unaffected by the type of terrain or the number of hexes passed through. On the Referee’s hex map (DCB), roads and tracks are annotated with 6 mile marker points.
-
-**Hex features:** The party may explore any features along the roadside in hexes they pass through. Features further from the road are missed.
 
 ### Travelling Wild
 
@@ -83,17 +58,9 @@ The Referee tracks the party’s position on the hex map, noting the current hex
 
 **End of day:** If the party does not have sufficient Travel Points to enter an adjacent hex, the Referee should note how many Travel Points they have expended and how many must be expended the next day to enter the hex.
 
-**Example:** A party with 2 Travel Points remaining is travelling from a farmland hex toward an adjacent hex consisting of bog (3 Travel Points to enter). The party spends the 2 Travel Points it has, nearing the edge of the bog hex but unable to enter it today due to being 1 Travel Point short. The party makes camp in the farmland hex. The following day the party need only spend 1 further Travel Point to enter the bog hex.
-
 ## Mounts and Vehicles
 
 Mounts and land vehicles provide convenient means of travelling with heavy loads, but they become inconvenient when characters are travelling wild.
-
-### Speed and Travel Points
-
-**Mounts:** A mounted party has Speed 40 (8 Travel Points per day). While some mounts have Speed faster than 40, they can only move at this rate for short bursts.
-
-**Land vehicles:** A party travelling with a cart or wagon has Speed 30 (6 Travel Points per day).
 
 ### Terrain Restrictions
 
@@ -101,7 +68,7 @@ Mounts and land vehicles can travel freely along roads and tracks, but travellin
 
 ## Resting
 
-Characters must rest for 1 day per week of travel (i.e. 6 days of travel, 1 day of rest) or become exhausted (see [[Hazards and Challenges#Exhaustion]]).
+Characters must rest for 1 day per week of travel (i.e. 6 days of travel, 1 day of rest) or become exhausted.
 
 ## Searching Hexes
 
@@ -113,8 +80,6 @@ Some hexes on the Ouran campaign map contain hidden features which stay unnotice
 
 ## Losing Direction
 
-See [[Hazards and Challenges#Losing Direction]] for more information.
-
 **Checks:** One roll for getting lost is made each day. The Referee makes this roll at the start of the travel day. If the party is travelling along a road (no chance of getting lost), the roll for getting lost is made when they leave the road.
 
 **Travelling wild:** The chance of getting lost depends on the terrain being explored—see the Terrain Types table.
@@ -125,7 +90,6 @@ See [[Hazards and Challenges#Losing Direction]] for more information.
 
 **Visibility:** In conditions of reduced visibility, such as fog or blizzards, the chance of getting lost increases by 1 (e.g. 2-in-6 becomes 3-in-6), and in darkness by 2.
 
-**Effects of getting lost:** The effects of getting lost are described in the Ouran Campaign Book.
 
 ## Wandering Monsters
 
@@ -139,34 +103,53 @@ See [[Hazards and Challenges#Wandering Monsters]] for more information.
 
 **Distance:** Wandering monsters are encountered 2d6 × 30′ away. If both sides are surprised (see [[Encounters]]), this is reduced to 1d4 × 30′.
 
-## Terrain Types
 
-^ Light Terrain^ ^
-| Farmland| Tilled fields and lanes|
-| Fungal forest| Giant fungi, few trees|
-| Hills| Undulating grassland|
-| Meadow| Flat grassland|
-| Open forest| Light, airy woods|
+Basic Overview:
+The world is a megadungeon, each hex a room, stock accordingly.
+3 mile hexes
+You can travel/explore overland for 8 hours.
+1 hour per hex to LEAVE through any face.
+Harder terrains like hills and forests take 2 hours to leave. Jungle, swamp, mountain etc. Take 3. (This makes hexes "sticky". It's easy to leave town for the Deep dark woods. It's harder to leave the Deep dark woods.
+Leaving a hex via a face with a road or trail is always Easy (1 hour) instead of the hex cost.
+Rivers add an hour to cross unless there is a bridge or Ford (road or path crossing)
+Conditions like any type of exhaustion or heavy encumbrance adds an hour to each hex cost.
+Fully mounted parties can subtract 1 hour once per day (unless they get fresh horses).
+Obvious things are revealed when the party enters a hex. Hidden or secret things have to be explored for (takes same time cost as to leave the hex).
+Terrain decides how many hexes you can see the terrain of around you. Usually one hex out unless heavy forest (0) or mountains (2) etc.
+For wandering monsters checks, every other Dungeon turn in dungeons, every other Hour during travel, every other Watch while camping or resting, and every other day in Safe Havens. (Or you can use a tension pool at similar intervals which is what I personally do).
+Moves fast, easy to remember, easy for players to intuit, covers most things I care to, and the sticky hexes act as fly traps instead of walls blocking tough hexes from being entered.
 
-  * Travel Points to enter/search: 2
-  * Lost/encounters: 1-in-6
-  * Mounts and vehicles may enter
 
-^ Moderate Terrain^ ^
-| Bog| Treeless mire|
-| Hilly forest| Undulating woods|
-| Tangled forest| Dense, gloomy woods|
+OD&D
 
-  * Travel Points to enter/search: 3
-  * Lost/encounters: 2-in-6
-  * Mounts must be led, no vehicles
+Man on foot: 3 hexes
+Wagon or Cart 4 hexes
+Draft horse: 5 hexes
+Heavy Horse: 6 hexes
+Medium Horse: 8 hexes
+Light horse: 10 hexes
 
-^ Difficult Terrain^ ^
-| Boggy forest| Wet, muddy woods|
-| Craggy forest| Broken terrain, cliffs|
-| Swamp| Wetland, sparse trees|
-| Thorny forest| Dense thorn thickets|
 
-  * Travel Points to enter/search: 4
-  * Lost/encounters: 3-in-6
-  * No mounts or vehicles
+Penalty
+Mountain: 3 points
+Swamp: 3 points
+Crossing rivers at non-ford hexes: 3 points
+Woods, deserts: 2 points
+Tracks in woods or swamps: no penalty
+
+Getting Lost
+A chance to get lost determined by terrain.
+Move in the direction indicated by the die roll 1-6. The party make only one direction change from that direction. When exploring the referee should indicate which direction the party is lost in.
+
+Checks
+
+Clear: lost: 1 Encounter: 6
+Woods: lost 1-2 Encounter: 5-6
+River: lost: 1 Encounter: 5-6
+Swamp: lost 1-3 Encounter 4-6
+Mountain: lost 1-2 Encounter 4-6
+Desert: lost 1-3 Encounter 5-6
+
+Roll navigation at the beginning of the day. If you are lost you travel in that direction.
+Roll an encounter at the end of the day
+
