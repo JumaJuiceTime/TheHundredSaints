@@ -7,7 +7,7 @@ parent: Classes
 # Somatophylax 
 
   * **Prime Abilities:** Charisma and Strength
-  * **Hit Points:** 1d8 per Level, +2 after Level 10
+  * **Hit Points:** 1d8 per Level, +2 after Level 9
   * **Combat Aptitude:** Martial
   * **Armour:** Light and Medium, shields
   * **Weapons:** Any weapons

@@ -7,7 +7,7 @@ parent: Classes
 # Fighter
 
 * **Prime Abilities:** Strength
-* **Hit Points:** 1d8 per Level, +2 after Level 10
+* **Hit Points:** 1d8 per Level, +2 after Level 9
 * **Combat Aptitude:** Martial
 * **Armour:** Any, including shields
 * **Weapons:** Any
@@ -16,9 +16,9 @@ Fighters are experienced in combat and warfare, whether as brigands, tavern braw
 
 ## Starting Equipment
 
-**Armour (roll 1d6):** 1. Leather armour. 2. Leather armour + shield. 3. Chainmail. 4. Chainmail + shield. 5. Plate mail. 6. Plate mail + shield.
+**Armour (roll 1d6):** 1. Textile armour. 2. Textile armour + shield. 3. Thorax. 4. Thorax + shield. 5. Panoply. 6. Panoply + shield.
 
-**Weapons (roll 1d6 twice):** 1. Crossbow + 20 quarrels. 2. Dagger. 3. Longsword. 4. Mace. 5. Shortsword. 6. Spear.
+**Weapons (roll 1d6 twice):** 1. Crossbow + 20 quarrels. 2. Dagger. 3. Spatha. 4. Mace. 5. Shortsword. 6. Spear.
 
 ## Combat Talents
 
@@ -41,14 +41,13 @@ Fighters’ expert training grants them special talents to aid in battle. At Lev
 | 2 | 2,000 | +1d8 | +1 | 1 | 12 | 13 | 14 | 15 | 16 |
 | 3 | 4,000 | +1d8 | +2 | 1 | 11 | 12 | 13 | 14 | 15 |
 | 4 | 8,000 | +1d8 | +3 | 1 | 10 | 11 | 12 | 13 | 14 |
-| 5 | 16,000 | +1d8 | +3 | 1 | 10 | 11 | 12 | 13 | 14 |
-| 6 | 32,000 | +1d8 | +4 | 2 | 9 | 10 | 11 | 12 | 13 |
-| 7 | 64,000 | +1d8 | +5 | 2 | 8 | 9 | 10 | 11 | 12 |
-| 8 | 128,000 | +1d8 | +5 | 2 | 8 | 9 | 10 | 11 | 12 |
-| 9 | 260,000 | +1d8 | +6 | 2 | 7 | 8 | 9 | 10 | 11 |
-| 10 | 380,000 | +1d8 | +7 | 3 | 6 | 7 | 8 | 9 | 10 |
-| 11 | 500,000 | +2 | +7 | 3 | 6 | 7 | 8 | 9 | 10 |
-| 12 | 620,000 | +2 | +8 | 3 | 5 | 6 | 7 | 8 | 9 |
-| 13 | 740,000 | +2 | +9 | 3 | 4 | 5 | 6 | 7 | 8 |
-| 14 | 860,000 | +2 | +9 | 4 | 4 | 5 | 6 | 7 | 8 |
-| 15 | 980,000 | +2 | +10 | 4 | 3 | 4 | 5 | 6 | 7 |
+| 5 | 16,000 | +1d8 | +3 | 1 | 10 | 11 | 12 | 12 | 14 |
+| 6 | 32,000 | +1d8 | +4 | 2 | 9 | 10 | 11 | 11 | 13 |
+| 7 | 64,000 | +1d8 | +5 | 2 | 8 | 9 | 10 | 10 | 12 |
+| 8 | 120,000 | +1d8 | +5 | 2 | 8 | 9 | 10 | 10 | 12 |
+| 9 | 240,000 | +1d8 | +6 | 2 | 7 | 8 | 9 | 9 | 11 |
+| 10 | 360,000 | +1d8 | +7 | 3 | 6 | 7 | 8 | 8 | 10 |
+| 11 | 480,000 | +2 | +7 | 3 | 6 | 7 | 8 | 8 | 10 |
+| 12 | 600,000 | +2 | +8 | 3 | 5 | 6 | 7 | 7 | 9 |
+| 13 | 720,000 | +2 | +9 | 3 | 4 | 5 | 6 | 6 | 8 |
+| 14 | 840,000 | +2 | +9 | 4 | 4 | 5 | 6 | 5 | 8 |

@@ -6,7 +6,7 @@ parent: Classes
 # Hiereus
 
 * **Prime Abilities:** Intelligence and Wisdom
-* **Hit Points:** 1d4 per Level, +1 after Level 10
+* **Hit Points:** 1d4 per Level, +1 after Level 9
 * **Combat Aptitude:** Non-martial
 * **Armour:** None
 * **Weapons:** Club, dagger, holy water, oil, sling, staff, torch

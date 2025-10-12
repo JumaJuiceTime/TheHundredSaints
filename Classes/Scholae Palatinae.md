@@ -6,7 +6,7 @@ parent: Classes
 # Scholae Palatinae
 
 * **Prime Abilities:** Charisma and Strength
-* **Hit Points:** 1d8 per Level, +2 after Level 10
+* **Hit Points:** 1d8 per Level, +2 after Level 9
 * **Combat Aptitude:** Martial
 * **Armour:** Medium and Heavy, shields
 * **Weapons:** Any melee weapons

@@ -7,18 +7,18 @@ parent: Classes
 # Thief 
 
   * **Prime Abilities:** Dexterity
-  * **Hit Points:** 1d4 per Level, +1 after Level 10
+  * **Hit Points:** 1d4 per Level, +1 after Level 9
   * **Combat Aptitude:** Semi-martial
   * **Armour:** Light, no shields
   * **Weapons:** Small and Medium
 
-Inveterate scoundrels, thieves are always on the lookout for their next mark, scam, or get rich quick scheme. Many thieves are drawn to a life of adventure, relishing exploration, peril, and the promise of great wealth.
+Many Rogues are drawn to a life of adventure, relishing exploration, peril, and the promise of great wealth.
 
 ## Starting Equipment 
 
-**Armour (roll 1d6):** 1–3. None. 4–6. Leather.
+**Armour (roll 1d6):** 1–3. None. 4–6. Light.
 
-**Weapons (roll 1d6 twice):** 1. Club. 2. 3 daggers. 3. Longsword. 4. Shortbow + 20 arrows. 5. Shortsword. 6. Sling + 20 stones.
+**Weapons (roll 1d6 twice):** 1. Club. 2. 3 daggers. 3. Spatha. 4. Shortbow + 20 arrows. 5. Shortsword. 6. Sling + 20 stones.
 
 **Class items:** Thieves’ tools.
 
@@ -108,7 +108,6 @@ A successful check allows a thief to open a lock without the key. Thieves’ too
 | 12 | 2 | 3 | 3 | 3 | 3 | 2 | 3 | 3 |
 | 13 | 2 | 3 | 3 | 3 | 3 | 2 | 2 | 2 |
 | 14 | 2 | 3 | 2 | 3 | 2 | 2 | 2 | 2 |
-| 15 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
 ### Customising Thief Skills (Optional Rule) 
 
@@ -141,9 +140,8 @@ In addition to their native languages, thieves learn a secret language of gestur
 | 7 | 38,400 | +1d4 | +3 | 10 | 11 | 10 | 12 | 12 |
 | 8 | 76,800 | +1d4 | +3 | 10 | 11 | 10 | 12 | 12 |
 | 9 | 150,000 | +1d4 | +4 | 9 | 10 | 9 | 11 | 11 |
-| 10 | 270,000 | +1d4 | +4 | 9 | 10 | 9 | 11 | 11 |
+| 10 | 270,000 | +1 | +4 | 9 | 10 | 9 | 11 | 11 |
 | 11 | 390,000 | +1 | +5 | 8 | 9 | 8 | 10 | 10 |
 | 12 | 510,000 | +1 | +5 | 8 | 9 | 8 | 10 | 10 |
 | 13 | 630,000 | +1 | +6 | 7 | 8 | 7 | 9 | 9 |
 | 14 | 750,000 | +1 | +6 | 7 | 8 | 7 | 9 | 9 |
-| 15 | 870,000 | +1 | +7 | 6 | 7 | 6 | 8 | 8 |

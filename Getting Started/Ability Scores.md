@@ -66,7 +66,7 @@ Agility, reflexes, quickness, and balance.
 
 Health, stamina, and endurance.
 
-**Hit Points:** The Constitution Modifier is added to the character’s Hit Points at Level 1 and every time a level is gained thereafter up to Level 10. A character always gains at least 1 Hit Point per Level, regardless of Constitution Modifier.
+**Hit Points:** The Constitution Modifier is added to the character’s Hit Points at Level 1 and every time a level is gained thereafter up to Level 9. A character always gains at least 1 Hit Point per Level, regardless of Constitution Modifier.
 
 **Constitution Checks:** Getting a good night’s rest when camping wild, resisting the effects of alcohol.
 

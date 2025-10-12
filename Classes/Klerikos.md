@@ -6,7 +6,7 @@ parent: Classes
 # Klerikos
 
 * **Prime Abilities:** Wisdom
-* **Hit Points:** 1d6 per Level, +1 after Level 10
+* **Hit Points:** 1d6 per Level, +1 after Level 9
 * **Combat Aptitude:** Semi-martial
 * **Armour:** Any, including shields (except arcane or fairy magic armour)
 * **Weapons:** Any (except arcane or fairy magic weapons)
@@ -75,7 +75,6 @@ See [[Holy Magic]] for full details on holy magic, including praying for spells 
 | 12 | 4 | 3 | 3 | 2 | 1 |
 | 13 | 4 | 4 | 3 | 2 | 2 |
 | 14 | 4 | 4 | 3 | 3 | 2 |
-| 15 | 5 | 4 | 4 | 3 | 2 |
 
 ## Holy Order
 
@@ -138,13 +137,12 @@ A cleric may attempt to drive off undead monsters by presenting their holy symbo
 | 3 | 3,000 | +1d6 | +1 | 10 | 11 | 12 | 15 | 13 |
 | 4 | 6,000 | +1d6 | +1 | 10 | 11 | 12 | 15 | 13 |
 | 5 | 12,000 | +1d6 | +2 | 9 | 10 | 11 | 14 | 12 |
-| 6 | 24,000 | +1d6 | +2 | 9 | 10 | 11 | 14 | 12 |
-| 7 | 48,000 | +1d6 | +3 | 8 | 9 | 10 | 13 | 11 |
-| 8 | 96,000 | +1d6 | +3 | 8 | 9 | 10 | 13 | 11 |
-| 9 | 190,000 | +1d6 | +4 | 7 | 8 | 9 | 12 | 10 |
-| 10 | 290,000 | +1d6 | +4 | 7 | 8 | 9 | 12 | 10 |
-| 11 | 390,000 | +1 | +5 | 6 | 7 | 8 | 11 | 9 |
-| 12 | 490,000 | +1 | +5 | 6 | 7 | 8 | 11 | 9 |
-| 13 | 590,000 | +1 | +6 | 5 | 6 | 7 | 10 | 8 |
-| 14 | 690,000 | +1 | +6 | 5 | 6 | 7 | 10 | 8 |
-| 15 | 790,000 | +1 | +7 | 4 | 5 | 6 | 9 | 7 |
+| 6 | 25,000 | +1d6 | +2 | 9 | 10 | 11 | 14 | 12 |
+| 7 | 50,000 | +1d6 | +3 | 8 | 9 | 10 | 13 | 11 |
+| 8 | 100,000 | +1d6 | +3 | 8 | 9 | 10 | 13 | 11 |
+| 9 | 200,000 | +1d6 | +4 | 7 | 8 | 9 | 12 | 10 |
+| 10 | 300,000 | +1 | +4 | 7 | 8 | 9 | 12 | 10 |
+| 11 | 400,000 | +1 | +5 | 6 | 7 | 8 | 11 | 9 |
+| 12 | 500,000 | +1 | +5 | 6 | 7 | 8 | 11 | 9 |
+| 13 | 600,000 | +1 | +6 | 5 | 6 | 7 | 10 | 8 |
+| 14 | 700,000 | +1 | +6 | 5 | 6 | 7 | 10 | 8 |
