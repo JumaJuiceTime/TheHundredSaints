@@ -10,8 +10,8 @@ parent: Equipment, Services, and Animals
 | Armour | Cost (gp) | AC | Bulk |
 | :---: | :---: | :---: | :---: |
 | Unarmoured | – | 10 | None |
-| Light | 20 | 12 | Light |
-| Medium | 40 | 14 | Medium |
+| Textile | 20 | 12 | Light |
+| Thorax | 40 | 14 | Medium |
 | Panoply | 60 | 16 | Heavy |
 | Kataphract | 120 | 17 | Heavy* |
 | Shield(Skoutarion) | 10 | 1 | None |
@@ -87,9 +87,9 @@ Oil flask: A flask of oil fuels a lantern for four hours (24 Turns). Burning oil
 
 ## Armour
 
-**Light armour:** Textile armor, Subarmalis with pteryges.
+**Textile:** Cloth/hide armor, Subarmalis with pteryges.
 
-**Medium armour:** Thorax(chain, scale, or segmented cuirass/tunic) often accompanied by ocreae(greaves) and pteryges.
+**Thorax:** chain, scale, or segmented cuirass/tunic often accompanied by ocreae(greaves) and pteryges.
 
 **Panoply:** A suit of armor including a thorax(armored tunic), manikia(armored sleeves), and ocreae(greaves)
 
