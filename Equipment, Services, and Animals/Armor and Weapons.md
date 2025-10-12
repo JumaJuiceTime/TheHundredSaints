@@ -89,7 +89,7 @@ Oil flask: A flask of oil fuels a lantern for four hours (24 Turns). Burning oil
 
 **Light armour:** Textile armor, Subarmalis with pteryges.
 
-**Medium armour:** Thorax(Lorica hamata, squamata, or segmentata) often accompanied by ocreae(greaves)
+**Medium armour:** Thorax(chain, scale, or segmented cuirass/tunic) often accompanied by ocreae(greaves) and pteryges.
 
 **Panoply:** A suit of armor including a thorax(armored tunic), manikia(armored sleeves), and ocreae(greaves)
 
