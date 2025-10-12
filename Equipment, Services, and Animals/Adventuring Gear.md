@@ -165,7 +165,7 @@ Items listed in italics are only available in towns and cities. Other items are 
 
 **Holy symbol:** Servants of the Pluritine Church must carry a holy symbol worn around the neck. The quality of a holy symbol alters its effectiveness at turning the undead. A silver holy symbol grants a **+1 bonus** to the 2d6 roll which determines the success of the turning attempt. A gold holy symbol also grants a **+1 bonus** to the 2d4 roll which determines the number of monsters affected.
 
-**Holy water:** Water blessed by high-ranking clergy, stored in a special vial for use in religious rituals. Holy water inflicts damage on undead monsters (see [[Armour and Weapons#Weapons]]). Loses its power if transferred from the blessed vials it is stored in.
+**Holy water:** Water blessed by high-ranking clergy, stored in a special vial for use in religious rituals. Holy water inflicts damage on undead monsters. Loses its power if transferred from the blessed vials it is stored in.
 
 **Ink:** A vial of black ink. Coloured ink costs double. Sufficient for about 50 pages of writing.
 
@@ -219,7 +219,7 @@ Items listed in italics are only available in towns and cities. Other items are 
 
 **Tinder box:** Used to light fires, including torches. In perilous situations, there is a **2-in-6 chance of success** lighting a fire per Round.
 
-**Torch:** When lit, casts light in a **30′ radius** and burns for **1 hour (6 Turns)**. Torches may also be used in combat (see [[Armour and Weapons#Weapons]]).
+**Torch:** When lit, casts light in a **30′ radius** and burns for **1 hour (6 Turns)**. Torches may also be used in combat.
 
 **Twine:** A wound ball of thin cord or string. Can support up to **300 coins** of weight.
 

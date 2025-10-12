@@ -7,28 +7,27 @@ parent: Equipment, Services, and Animals
 
 ## Armour
 
-| Armour | Cost (gp) | AC | Weight | Bulk |
-| :---: | :---: | :---: | :---: | :---: |
-| Unarmoured | – | 10 | – | None |
-| Leather | 20 | 12 | 200 | Light |
-| //Bark// | 30 | 13 | 300 | Light |
-| Chainmail | 40 | 14 | 400 | Medium |
-| //Pinecone// | 50 | 15 | 400 | Medium |
-| Plate mail | 60 | 16 | 500 | Heavy |
-| Full plate | 1,000 | 17 | 700 | Heavy |
-| Shield | 10 | 1 | 100 | None |
-
-**Italics:** Usually only made and worn by mosslings.
+| Armour | Cost (gp) | AC | Bulk |
+| :---: | :---: | :---: | :---: |
+| Unarmoured | – | 10 | None |
+| Light | 20 | 12 | Light |
+| Medium | 40 | 14 | Medium |
+| Panoply | 60 | 16 | Heavy |
+| Kataphract | 120 | 17 | Heavy* |
+| Shield(Skoutarion) | 10 | 1 | None |
 
 **Bulk:** Denotes which characters can use this type of armour.
 
+
+**Kataphract** Armor occupies 4 slots and reduces speed by 10' unless mounted.
+
 ## Ammunition
 
-| Ammunition | Cost (gp) | Weight |
-| :---: | :---: | :---: |
-| Arrows (quiver of 20) | 5 | 20 |
-| Quarrels (case of 20) | 10 | 20 |
-| Sling stones | Free | 1 each |
+| Ammunition | Cost (gp) |
+| :---: | :---: |
+| Arrows (quiver of 20) | 5 |
+| Quarrels (case of 20) | 10 |
+| Sling stones | Free |
 
 **Singles:** A single arrow costs 25cp and a single quarrel costs 5sp.
 
@@ -36,28 +35,28 @@ parent: Equipment, Services, and Animals
 
 ## Weapons
 
-| Weapon | Cost (gp) | Damage | Weight | Size | Qualities |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Battle axe | 7 | 1d8 | 100 | Medium | Melee |
-| Club | 3 | 1d4 | 20 | Medium | Melee |
-| Crossbow | 30 | 1d8 | 50 | Medium | Armour piercing, Missile (80′ / 160′ / 240′), Reload, Two-handed |
-| Dagger | 3 | 1d4 | 10 | Small | Melee, Missile (10′ / 20′ / 30′) |
-| Hand axe | 4 | 1d6 | 20 | Small | Melee, Missile (10′ / 20′ / 30′) |
-| Holy water vial | 25 | 1d8 | 10 | Small | (See [[Adventuring Gear]]) Missile (10′ / 30′ / 50′), Splash |
-| Lance | 5 | 1d6 | 100 | Large | Brace, Charge, Melee, Reach |
-| Longbow | 40 | 1d6 | 40 | Large | Missile (70′ / 140′ / 210′), Two-handed |
-| Longsword | 10 | 1d8 | 30 | Medium | Melee |
-| Mace | 5 | 1d6 | 40 | Medium | Melee |
-| Oil flask (burning) | 1 | 1d8 | 10 | Small | (See [[Adventuring Gear]]) Missile (10′ / 30′ / 50′), Splash |
-| Polearm | 7 | 1d10 | 140 | Large | Brace, Melee, Reach, Two-handed |
-| Shortbow | 25 | 1d6 | 20 | Medium | Missile (50′ / 100′ / 150′), Two-handed |
-| Shortsword | 7 | 1d6 | 20 | Medium | Melee |
-| Sling | 2 | 1d4 | 10 | Small | Missile (40′ / 80′ / 160′) |
-| Spear | 3 | 1d6 | 30 | Medium | Brace, Melee, Missile (20′ / 40′ / 60′) |
-| Staff | 2 | 1d4 | 40 | Medium | Melee, Two-handed |
-| Torch (flaming) | 1 for 3 | 1d4 | 10 | Medium | (See [[Adventuring Gear]]) Melee |
-| Two-handed sword | 15 | 1d10 | 140 | Large | Melee, Two-handed |
-| War hammer | 5 | 1d6 | 40 | Medium | Melee |
+| Weapon | Cost (gp) | Damage | Size | Qualities |
+| :---: | :---: | :---: | :---: | :---: |
+| Battle axe | 7 | 1d8 | Medium | Melee |
+| Club | 3 | 1d4 | Medium | Melee |
+| Crossbow | 30 | 1d8 | Medium | Armour piercing, Missile (80′ / 160′ / 240′), Reload, Two-handed |
+| Dagger | 3 | 1d4 | Small | Melee, Missile (10′ / 20′ / 30′) |
+| Hand axe | 4 | 1d6 | Small | Melee, Missile (10′ / 20′ / 30′) |
+| Holy water vial | 25 | 1d8 | Small | Special, Missile (10′ / 30′ / 50′), Splash |
+| Javelin(Pilum) | 1 | 1d4 | Medium | Missile (30' / 60' / 90') |
+| Lance(Kontos) | 5 | 1d6 | Large | Brace, Charge, Melee, Reach |
+| Longbow | 40 | 1d6 | Large | Missile (70′ / 140′ / 210′), Two-handed |
+| Longspear(Xyston) | 7 | 1d10 | Large | Brace, Melee, Reach, Two-handed |
+| Mace | 5 | 1d6 | Medium | Melee |
+| Oil flask (burning) | 1 | 1d8 | Small | (Special, Missile (10′ / 30′ / 50′), Splash |
+| Shortbow | 25 | 1d6 | Medium | Missile (50′ / 100′ / 150′), Two-handed |
+| Shortsword(Xiphos) | 7 | 1d6 | Medium | Melee |
+| Sling | 2 | 1d4 | Small | Missile (40′ / 80′ / 160′) |
+| Spatha(Longsword) | 10 | 1d8 | Medium | Melee |
+| Spear | 3 | 1d6 | Medium | Brace, Melee, Missile (20′ / 40′ / 60′) |
+| Staff | 2 | 1d4 | Medium | Melee, Two-handed |
+| Torch (flaming) | 1 for 3 | 1d4 | Medium | Melee |
+| War hammer | 5 | 1d6 | Medium | Melee |
 
 ## Weapon Qualities
 
@@ -79,19 +78,22 @@ parent: Equipment, Services, and Animals
 
 **Two-handed:** Requires both hands to wield. The character cannot carry anything (e.g. a shield) in the other hand.
 
+**Special:** 
+
+Holy water: Water blessed by high-ranking clergy, stored in a special vial for use in religious rituals. Holy water inflicts damage on undead monsters. Loses its power if transferred from the blessed vials it is stored in.
+
+Oil flask: A flask of oil fuels a lantern for four hours (24 Turns). Burning oil can also be used as a weapon, either by throwing it at enemies (see [[Armour and Weapons#Weapons]]) or by pooling it on the ground (covers a **3′ diameter area**, burns for **1 Turn**, **1d8 Damage** to creatures passing through).
+
+
 ## Armour
 
-**Bark armour:** Thick layers of tough, lichen-encrusted bark, with flexible joints of young birch bark or bottle corks laced together. Typically only available in small size, designed for mosslings.
+**Light armour:** Textile armor, Subarmalis with pteryges.
 
-**Chainmail:** A suit of interlocking metal rings over a backing of quilted fabric.
+**Medium armour:** Thorax(Lorica hamata, squamata, or segmentata) often accompanied by ocreae(greaves)
 
-**Full plate armour:** Perfectly interlocking plates of metal over a backing of chain mail and padding. Only the most expert armourers can craft full plate armour, and each suit must be tailored and balanced for a specific individual (**takes 1 month**). Wearing another person’s full plate armour is awkward and only grants **AC 16**.
+**Panoply:** A suit of armor including a thorax(armored tunic), manikia(armored sleeves), and ocreae(greaves)
 
-**Leather armour:** A breastplate of hardened leather, with soft leather covering the rest of the body.
-
-**Pinecone armour:** An intricate scale-work of hardened pine scales threaded onto a cloth backing. Typically only available in small size, designed for mosslings.
-
-**Plate mail:** Metal plates shaped to the contours of the body. Sections of chainmail provide flexibility at the joints.
+**Kataphract:** A head to toe suit of lamellar armor. Primarily for use while on armored horseback.
 
 **Shield:** Made of metal or reinforced wood.
 
