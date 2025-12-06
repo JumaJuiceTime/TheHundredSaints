@@ -30,9 +30,7 @@ Select one of the available Classes, bearing in mind the Prime Abilities of each
 
 | Class | Prime Abilities | Hit Points | Combat Aptitude | Main Class Capabilities |
 | :---: | :---: | :---: | :---: | :---: |
-| Bard | Charisma and Dexterity | 1d6 | Semi-martial | Counter charm, enchantment, decipher script, folklore |
 | Klerikos | Wisdom | 1d6 | Semi-martial | Holy magic (from Level 2), holy order, turn undead |
-| Enchanter | Charisma and Intelligence | 1d6 | Semi-martial | Glamours, fairy runes, detect magic, use arcane items |
 | Fighter | Strength | 1d8 | Martial | Combat talents |
 | Hiereus | Intelligence and Wisdom | 1d4 | Non-martial | Herbalism, holy magic (from Level 1), turn undead |
 | Hunter | Constitution and Dexterity | 1d8 | Martial | Animal companion, alertness, tracking, missile attacks |
