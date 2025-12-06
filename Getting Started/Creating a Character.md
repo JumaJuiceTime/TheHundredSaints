@@ -31,7 +31,6 @@ Select one of the available Classes, bearing in mind the Prime Abilities of each
 | Hiereus | Intelligence and Wisdom | 1d4 | Non-martial | Herbalism, holy magic (from Level 1), turn undead |
 | Hunter | Constitution and Dexterity | 1d8 | Martial | Animal companion, alertness, tracking, missile attacks |
 | Scholae Palatinae | Charisma and Strength | 1d8 | Martial | Horsemanship, monster slayer, strength of will |
-| Somatophylax | Charisma and Strength | 1d8 | Martial | Intrigue, monster slayer, strength of will |
 | Magi | Intelligence | 1d4 | Non-martial | Arcane magic, detect magic |
 | Thief | Dexterity | 1d4 | Semi-martial | Back-stab, climb, decipher script, disarm traps, pick locks |
 
