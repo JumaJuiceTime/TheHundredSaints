@@ -11,7 +11,7 @@ parent: Classes
 * **Armour:** Medium and Heavy, shields
 * **Weapons:** Any melee weapons
 
-Scholae Palatinae are masters of heavily armoured, mounted combat and, as vassals of nobility, hold a special rank in society. Palatinae earn great respect from the common folk and exemplify the qualities of nobility, honour, and decency in all their deeds. Player Character palatinae are typically palatinae-errant those who wander the land in pursuit of adventure to prove their chivalric virtues.
+Scholae Palatinae are masters of heavily armoured, mounted combat and, as vassals of nobility, hold a special rank in society. Palatinae earn great respect from the common folk and exemplify the qualities of nobility, honour, and decency in all their deeds. Player Character palatinae are typically palatinae-errant those who wander the land in pursuit of adventure to prove their virtues.
 
 ## Liege
 
@@ -79,16 +79,16 @@ Palatinae gain a +1 Attack bonus when mounted.
 
 Palatinae gain a +2 bonus to Saving Throws against magic and effects that cause fear.
 
-## The Noble Houses
+## The Imperial Houses
 
-* **House Guillefer (Neutral):** Dreamy and aloof. Rulership shared between family members on a rotating basis—currently Lord Edwin Guillefer.
-* **House Harrowmoor (Lawful):** Steadfast and militant. Under the rulership of Lady Theatrice Harrowmoor.
-* **House Hogwarsh (Neutral):** Lax and debauched. Under the rulership of Baron Sagewine Hogwarsh.
-* **House Malbleat (Chaotic):** Conniving and tyrannical. One of the ancient breggle noble houses, under the rulership of Lord Gryphius Malbleat.
-* **House Mulbreck (Lawful):** Reclusive and detached. Under the rulership of Lady Pulsephine Mulbreck.
-* **House Murkin (Chaotic):** Belligerent and ambitious. One of the ancient breggle noble houses, under the rulership of Lord Simeone Murkin.
-* **House Nodlock (Neutral):** Bombastic and decaying. Under the rulership of Lord Harald Nodlock.
-* **House Ramius (Neutral):** Dignified and shrewd. One of the ancient breggle noble houses, under the rulership of Lord Shadgore Ramius.
+  - **House Guillefer (Neutral):** Dreamy and aloof. Rulership shared between family members on a rotating basis—currently Lord Thrasidaios.
+  - **House Harrowmoor (Lawful):** Steadfast and militant. Under the rulership of Lady Marpessa.
+  - **House Hogwarsh (Neutral):** Lax and debauched. Under the rulership of Lady Aerope.
+  - **House Malbleat (Chaotic):** Conniving and tyrannical. An ancient noble houses, under the rulership of Lord Onesimos.
+  - **House Mulbreck (Lawful):** Reclusive and detached. Under the rulership of Lady Polycaste.
+  - **House Murkin (Chaotic):** Belligerent and ambitious. One of the ancient breggle noble houses, under the rulership of Lord Sebastos.
+  - **House Nodlock (Neutral):** Bombastic and decaying. Under the rulership of Lord Herodion.
+  - **House Ramius (Neutral):** Dignified and shrewd. One of the ancient breggle noble houses, under the rulership of Lord Phlegon.
 
 ## Scholae Palatinae Advancement
 
