@@ -12,6 +12,13 @@ parent: Getting Started
 
 Roll 3d6 for each of your character’s Ability Scores in turn: Strength, Intelligence, Wisdom, Dexterity, Constitution, and Charisma. See [[Ability Scores]].
 
+#### Optional Methods
+Check with the referee before using these methods.
+
+* Roll 4d6 drop the lowest in the order provided above. 
+* Roll 4d6 drop the lowers, assign as you see fit.
+* Roll 3d6 12 times, take highest 6, assign how you want.
+
 ### Sub-Par Characters (Optional Rule)
 
 If you roll a character with an 8 or less in every Ability Score or a 6 or lower in more than one Ability Score, you may choose to discard the character and start again.
